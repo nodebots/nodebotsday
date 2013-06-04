@@ -6,6 +6,8 @@ Follow-up to last year's [Node.js Hardware Hack Weekend](https://github.com/dsha
 
 This is not a hackathon. There will be no prizes other than the satisfaction of making something awesome! There will be very little in the way of talks. We're going to get together, collaborate and hack. This is more NodeConf SummerCamp than NodeConf. Sharing. Enjoying each other's company. Learning and exploring. And JavaScript. Lots of JavaScript.
 
+Follow [@nodebotsday](https://twitter.com/nodebotsday) for more info.
+
 ## Locations
 
 ### San Francisco
@@ -24,3 +26,6 @@ Hours: TBD
 
 If you're interested in contributing to this event, please consider hosting a space, contributing hardware to hack on, and/or providing drinks, snacks and food.
 
+## Todo
+
+* Website: http://nodebotsday.com currently points back here. If you'd like to contribute to the website or add anything, please fork this repo and contribute.
