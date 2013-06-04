@@ -10,14 +10,14 @@ This is not a hackathon. There will be no prizes other than the satisfaction of 
 
 ### San Francisco
 
-Organizers: @dshaw, @rockbot, @nexxy
-Location: TBD
+Organizers: [@dshaw](https://twitter.com/dshaw), [@rockbot](https://twitter.com/rockbot), [@nexxylove](https://twitter.com/nexxylove)<br>
+Location: TBD<br>
 Hours: 10am - 5pm PT
 
 ### NYC
 
-Organizers: @buritica, @FotoVerite
-Location: TBD
+Organizers: [@buritica](https://twitter.com/buritica), [@FotoVerite](https://twitter.com/FotoVerite)<br>
+Location: TBD<br>
 Hours: TBD
 
 ## Sponsor
