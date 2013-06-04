@@ -14,13 +14,15 @@ Follow [@nodebotsday](https://twitter.com/nodebotsday) for more info.
 
 Organizers: [@dshaw](https://twitter.com/dshaw), [@rockbot](https://twitter.com/rockbot), [@nexxylove](https://twitter.com/nexxylove)<br>
 Location: TBD<br>
-Hours: 10am - 5pm PT
+Hours: 10am - 5pm PT<br>
+Signup: https://tito.io/nodebotsday/nodebotsday-sf
 
 ### NYC
 
 Organizers: [@buritica](https://twitter.com/buritica), [@FotoVerite](https://twitter.com/FotoVerite)<br>
 Location: TBD<br>
-Hours: TBD
+Hours: TBD<br>
+Signup: https://tito.io/nodebotsday/nodebotsday-nyc
 
 ## Sponsor
 
