@@ -10,12 +10,12 @@ Follow [@nodebotsday](https://twitter.com/nodebotsday) for more info.
 
 ## Locations
 
-### San Francisco
+### Kansas City
 
-Organizers: [@dshaw](https://twitter.com/dshaw), [@rockbot](https://twitter.com/rockbot), [@nexxylove](https://twitter.com/nexxylove)<br>
+Organizers: [@heavysixer](https://twitter.com/heavysixer)<br>
 Location: TBD<br>
-Hours: 10am - 5pm PT<br>
-Signup: https://tito.io/nodebotsday/nodebotsday-sf
+Hours: 10am - 5pm CST<br>
+Signup: https://tito.io/nodebotsday/nodebotsday-kc
 
 ### NYC
 
@@ -23,6 +23,13 @@ Organizers: [@buritica](https://twitter.com/buritica), [@FotoVerite](https://twi
 Location: TBD<br>
 Hours: TBD<br>
 Signup: https://tito.io/nodebotsday/nodebotsday-nyc
+
+### San Francisco
+
+Organizers: [@dshaw](https://twitter.com/dshaw), [@rockbot](https://twitter.com/rockbot), [@nexxylove](https://twitter.com/nexxylove)<br>
+Location: TBD<br>
+Hours: 10am - 5pm PT<br>
+Signup: https://tito.io/nodebotsday/nodebotsday-sf
 
 ## Sponsor
 
