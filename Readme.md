@@ -19,7 +19,7 @@ Signup: https://tito.io/nodebotsday/nodebotsday-sf
 
 ### NYC
 
-Organizers: [@buritica](https://twitter.com/buritica), [@FotoVerite](https://twitter.com/FotoVerite)<br>
+Organizers: [@buritica](https://twitter.com/buritica), [@FotoVerite](https://twitter.com/FotoVerite), [@reconbot](https://twitter.com/reconbot), [@sarajchipps](https://twitter.com/sarajchipps)<br>
 Location: TBD<br>
 Hours: TBD<br>
 Signup: https://tito.io/nodebotsday/nodebotsday-nyc
