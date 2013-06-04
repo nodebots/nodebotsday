@@ -24,6 +24,13 @@ Location: TBD<br>
 Hours: TBD<br>
 Signup: https://tito.io/nodebotsday/nodebotsday-nyc
 
+### Medellín, Colombia
+
+Organizers: [@julian_duque](https://twitter.com/julian_duque), [@MedellinJS](https://twitter.com/medellinjs)<br>
+Location: TBD<br>
+Hours: TBD<br>
+Signup: TBD<br>
+
 ## Sponsor
 
 If you're interested in contributing to this event, please consider hosting a space, contributing hardware to hack on, and/or providing drinks, snacks and food.
