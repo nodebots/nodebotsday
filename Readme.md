@@ -31,6 +31,13 @@ Location: TBD<br>
 Hours: 10am - 5pm PT<br>
 Signup: https://tito.io/nodebotsday/nodebotsday-sf
 
+### Washington, DC
+
+Organizers: [@cshenoy](https://twitter.com/cshenoy)<br>
+Location: TBD<br>
+Hours: 10am - 5pm EST<br>
+Signup: Coming soon!
+
 ## Sponsor
 
 If you're interested in contributing to this event, please consider hosting a space, contributing hardware to hack on, and/or providing drinks, snacks and food.
