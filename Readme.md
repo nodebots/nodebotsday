@@ -46,6 +46,13 @@ Hours: 9am - 5pm (COT/GMT-5)<br>
 Signup: [http://barcampmedellin.eventbrite.com/](http://barcampmedellin.eventbrite.com/)<br>
 The event will be part of [Barcamp Med 5](http://www.barcampmedellin.org/)
 
+### Denver
+
+Organizers: [@harschness](https://twitter.com/harschness), [@jwilker](https://twitter.com/jwilker), [Denwhere?](http://www.denwhere.com)<br>
+Location: TBD<br>
+Hours: 9am - 5pm MST<br>
+Signup: Coming soon!
+
 ## Sponsor
 
 If you're interested in contributing to this event, please consider hosting a space, contributing hardware to hack on, and/or providing drinks, snacks and food.
