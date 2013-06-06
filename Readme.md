@@ -41,9 +41,10 @@ Signup: Coming soon!
 ### Medellín, Colombia
 
 Organizers: [@julian_duque](https://twitter.com/julian_duque), [@MedellinJS](https://twitter.com/medellinjs)<br>
-Location: TBD<br>
-Hours: TBD<br>
-Signup: TBD<br>
+Location: Parque Explora<br>
+Hours: 9am - 5pm (COT/GMT-5)<br>
+Signup: [http://barcampmedellin.eventbrite.com/](http://barcampmedellin.eventbrite.com/)<br>
+The event will be part of [Barcamp Med 5](http://www.barcampmedellin.org/)
 
 ## Sponsor
 
