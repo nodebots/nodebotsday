@@ -53,9 +53,9 @@ Location: TBD<br>
 Hours: 9am - 5pm MST<br>
 Signup: Coming soon!
 
-### Las Vegas
+### Las Vegas, NV
 
-Organizers: [@makenai](https://twitter.com/makenai), [@suziam](https://twitter.com/suziam))<br>
+Organizers: [@makenai](https://twitter.com/makenai), [@suziam](https://twitter.com/suziam)<br>
 Location: TBD<br>
 Hours: 10am - 6pm PST<br>
 Signup: Coming soon!
