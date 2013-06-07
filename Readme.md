@@ -53,6 +53,13 @@ Location: TBD<br>
 Hours: 9am - 5pm MST<br>
 Signup: Coming soon!
 
+### Las Vegas
+
+Organizers: [@makenai](https://twitter.com/makenai), [@suziam](https://twitter.com/suziam))<br>
+Location: TBD<br>
+Hours: 10am - 6pm PST<br>
+Signup: Coming soon!
+
 ## Sponsor
 
 If you're interested in contributing to this event, please consider hosting a space, contributing hardware to hack on, and/or providing drinks, snacks and food.
