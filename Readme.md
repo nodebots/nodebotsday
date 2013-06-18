@@ -60,6 +60,13 @@ Location: TBD<br>
 Hours: 10am - 6pm PST<br>
 Signup: Coming soon!
 
+### Austin, TX
+
+Organizers: [@kassandra_perch](https://twitter.com/kassandra_perch)<br>
+Location: [Capital Factory- Located in the Austin Centre](http://capitalfactory.com/)<br>
+Hours: 9am - 5pm CST<br>
+Signup: Coming soon!
+
 ## Sponsor
 
 If you're interested in contributing to this event, please consider hosting a space, contributing hardware to hack on, and/or providing drinks, snacks and food.
