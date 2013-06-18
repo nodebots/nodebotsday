@@ -65,7 +65,7 @@ Signup: Coming soon!
 Organizers: [@kassandra_perch](https://twitter.com/kassandra_perch)<br>
 Location: [Capital Factory- Located in the Austin Centre](http://capitalfactory.com/)<br>
 Hours: 9am - 5pm CST<br>
-Signup: Coming soon!
+Signup: https://tito.io/nodebotsday/nodebots-day-austin
 
 ## Sponsor
 
