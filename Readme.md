@@ -10,12 +10,40 @@ Follow [@nodebotsday](https://twitter.com/nodebotsday) for more info.
 
 ## Locations
 
+### Austin, TX
+
+Organizers: [@kassandra_perch](https://twitter.com/kassandra_perch)<br>
+Location: [Capital Factory- Located in the Austin Centre](http://capitalfactory.com/)<br>
+Hours: 9am - 5pm CST<br>
+Signup: https://tito.io/nodebotsday/nodebots-day-austin
+
+### Denver
+
+Organizers: [@harschness](https://twitter.com/harschness), [@jwilker](https://twitter.com/jwilker), [Denwhere?](http://www.denwhere.com)<br>
+Location: TBD<br>
+Hours: 9am - 5pm MST<br>
+Signup: Coming soon!
+
 ### Kansas City
 
 Organizers: [@heavysixer](https://twitter.com/heavysixer)<br>
 Location: TBD<br>
 Hours: 10am - 5pm CST<br>
 Signup: https://tito.io/nodebotsday/nodebotsday-kc
+
+### Las Vegas, NV
+
+Organizers: [@makenai](https://twitter.com/makenai), [@suziam](https://twitter.com/suziam)<br>
+Location: TBD<br>
+Hours: 10am - 6pm PST<br>
+Signup: Coming soon!
+
+### Northern Virginia - Herndon, VA
+
+Organizers: [@voodootikigod](https://twitter.com/voodootikigod)<br/>
+Location: <b>TBD</b><br/>
+Hours: 10am - 6pm EST<br/>
+Signup: Coming Soon!
 
 ### NYC
 
@@ -30,6 +58,13 @@ Organizers: [@dshaw](https://twitter.com/dshaw), [@rockbot](https://twitter.com/
 Location: Adobe SF, 410 Townsend St (5th St), San Francisco, CA 94103<br>
 Hours: 10am - 5pm PT<br>
 Signup: https://tito.io/nodebotsday/nodebotsday-sf
+
+### Tri-Cities (Richland, Kennewick, Pasco, WA)
+
+Organizers: [@adam_baldwin](https://twitter.com/adam_baldwin)<br/>
+Location: [&yet](http://andyet.com) - 110 Gage Blvd, Suite 100, Richland, WA<br/>
+Hours: 9am - 5pm PST<br/>
+Signup: Coming Soon!
 
 ### Washington, DC
 
@@ -46,41 +81,6 @@ Hours: 9am - 5pm (COT/GMT-5)<br>
 Signup: [http://barcampmedellin.eventbrite.com/](http://barcampmedellin.eventbrite.com/)<br>
 The event will be part of [Barcamp Med 5](http://www.barcampmedellin.org/)
 
-### Denver
-
-Organizers: [@harschness](https://twitter.com/harschness), [@jwilker](https://twitter.com/jwilker), [Denwhere?](http://www.denwhere.com)<br>
-Location: TBD<br>
-Hours: 9am - 5pm MST<br>
-Signup: Coming soon!
-
-### Las Vegas, NV
-
-Organizers: [@makenai](https://twitter.com/makenai), [@suziam](https://twitter.com/suziam)<br>
-Location: TBD<br>
-Hours: 10am - 6pm PST<br>
-Signup: Coming soon!
-
-### Austin, TX
-
-Organizers: [@kassandra_perch](https://twitter.com/kassandra_perch)<br>
-Location: [Capital Factory- Located in the Austin Centre](http://capitalfactory.com/)<br>
-Hours: 9am - 5pm CST<br>
-Signup: https://tito.io/nodebotsday/nodebots-day-austin
-
-### Northern Virginia - Herndon, VA
-
-Organizers: [@voodootikigod](https://twitter.com/voodootikigod)<br/>
-Location: <b>TBD</b><br/>
-Hours: 10am - 6pm EST<br/>
-Signup: Coming Soon!
-
-
-### Tri-Cities (Richland, Kennewick, Pasco, WA)
-
-Organizers: [@adam_baldwin](https://twitter.com/adam_baldwin)<br/>
-Location: [&yet](http://andyet.com) - 110 Gage Blvd, Suite 100, Richland, WA<br/>
-Hours: 9am - 5pm PST<br/>
-Signup: Coming Soon!
 
 ## Sponsor
 
