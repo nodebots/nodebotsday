@@ -60,6 +60,28 @@ Location: TBD<br>
 Hours: 10am - 6pm PST<br>
 Signup: Coming soon!
 
+### Austin, TX
+
+Organizers: [@kassandra_perch](https://twitter.com/kassandra_perch)<br>
+Location: [Capital Factory- Located in the Austin Centre](http://capitalfactory.com/)<br>
+Hours: 9am - 5pm CST<br>
+Signup: https://tito.io/nodebotsday/nodebots-day-austin
+
+### Northern Virginia - Herndon, VA
+
+Organizers: [@voodootikigod](https://twitter.com/voodootikigod)<br/>
+Location: <b>TBD</b><br/>
+Hours: 10am - 6pm EST<br/>
+Signup: Coming Soon!
+
+
+### Tri-Cities (Richland, Kennewick, Pasco, WA)
+
+Organizers: [@adam_baldwin](https://twitter.com/adam_baldwin)<br/>
+Location: [&yet](http://andyet.com) - 110 Gage Blvd, Suite 100, Richland, WA<br/>
+Hours: 9am - 5pm PST<br/>
+Signup: Coming Soon!
+
 ## Sponsor
 
 If you're interested in contributing to this event, please consider hosting a space, contributing hardware to hack on, and/or providing drinks, snacks and food.
