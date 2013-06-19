@@ -67,6 +67,13 @@ Location: [Capital Factory- Located in the Austin Centre](http://capitalfactory.
 Hours: 9am - 5pm CST<br>
 Signup: https://tito.io/nodebotsday/nodebots-day-austin
 
+### Northern Virginia - Herndon, VA
+
+Organizers: [@voodootikigod](https://twitter.com/voodootikigod)<br/>
+Location: <b>TBD</b><br/>
+Hours: 10am - 6pm EST<br/>
+Signup: Coming Soon!
+
 ## Sponsor
 
 If you're interested in contributing to this event, please consider hosting a space, contributing hardware to hack on, and/or providing drinks, snacks and food.
