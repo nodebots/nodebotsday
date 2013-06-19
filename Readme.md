@@ -17,6 +17,13 @@ Location: [Capital Factory- Located in the Austin Centre](http://capitalfactory.
 Hours: 9am - 5pm CST<br>
 Signup: https://tito.io/nodebotsday/nodebots-day-austin
 
+### Boston
+
+Organizers: [@jorydotcom](https://twitter.com/jorydotcom), [@therealprotonk](https://twitter.com/therealprotonk), [@ireneros](https://twitter.com/ireneros)<br>
+Location: [Bocoup Loft](http://bocoup.com/), [355 Congress St.](http://gul.ly/u2)<br>
+Hours: 10am - 6pm EST<br>
+Signup: Coming soon!
+
 ### Denver
 
 Organizers: [@harschness](https://twitter.com/harschness), [@jwilker](https://twitter.com/jwilker), [Denwhere?](http://www.denwhere.com)<br>
@@ -91,4 +98,4 @@ If you're interested in contributing to this event, please consider hosting a sp
 * Website: http://nodebotsday.com currently points back here. If you'd like to contribute to the website or add anything, please fork this repo and contribute.
 
 * Group Google hangout. I'm thinking 6:30PST this Sunday 6/23. Any
-  objections? 
+  objections?
