@@ -89,3 +89,6 @@ If you're interested in contributing to this event, please consider hosting a sp
 ## Todo
 
 * Website: http://nodebotsday.com currently points back here. If you'd like to contribute to the website or add anything, please fork this repo and contribute.
+
+* Group Google hangout. I'm thinking 6:30PST this Sunday 6/23. Any
+  objections? 
