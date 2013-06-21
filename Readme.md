@@ -71,7 +71,7 @@ Signup: https://tito.io/nodebotsday/nodebotsday-sf
 Organizers: [@adam_baldwin](https://twitter.com/adam_baldwin)<br/>
 Location: [&yet](http://andyet.com) - 110 Gage Blvd, Suite 100, Richland, WA<br/>
 Hours: 9am - 5pm PST<br/>
-Signup: Coming Soon!
+Signup: [https://tito.io/nodebots-tricities/2013/](https://tito.io/nodebots-tricities/2013/)
 
 ### Washington, DC
 
