@@ -1,4 +1,4 @@
-# Nodebots Day 7/27
+# NodeBots Day 7/27
 
 Let's hack some fun!
 
