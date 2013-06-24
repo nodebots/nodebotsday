@@ -29,7 +29,7 @@ Signup: https://tito.io/nodebotsday/nodebots-day-austin
 Organizers: [@jorydotcom](https://twitter.com/jorydotcom), [@therealprotonk](https://twitter.com/therealprotonk), [@ireneros](https://twitter.com/ireneros)<br>
 Location: [Bocoup Loft](http://bocoup.com/), [355 Congress St.](http://gul.ly/u2)<br>
 Hours: 10am - 6pm EST<br>
-Signup: Coming soon!
+Signup: https://tito.io/bocoup/nodebotsday-boston
 
 ### Denver
 
