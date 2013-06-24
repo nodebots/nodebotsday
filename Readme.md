@@ -8,6 +8,13 @@ This is not a hackathon. There will be no prizes other than the satisfaction of 
 
 Follow [@nodebotsday](https://twitter.com/nodebotsday) for more info.
 
+## Organizers
+
+Want to organize a local NodeBots Day event. You should!
+
+* Join the mailing list: [NodeBots Day Google Group](https://groups.google.com/forum/#!forum/nodebotsday)
+* See also [Organizers.md](https://github.com/nodebots/nodebotsday/blob/master/Organizers.md)
+
 ## Locations
 
 ### Austin, TX
