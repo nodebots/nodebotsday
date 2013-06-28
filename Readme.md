@@ -34,9 +34,9 @@ Signup: https://tito.io/bocoup/nodebotsday-boston
 ### Denver
 
 Organizers: [@harschness](https://twitter.com/harschness), [@jwilker](https://twitter.com/jwilker), [Denwhere?](http://www.denwhere.com)<br>
-Location: TBD<br>
+Location: [SendGrid](https://maps.google.com/maps?q=1451+Larimer+Street+Denver,+CO+80202)<br>
 Hours: 9am - 5pm MST<br>
-Signup: Coming soon!
+Signup: [http://denvernodebots.eventbrite.com](http://denvernodebots.eventbrite.com)
 
 ### Kansas City
 
