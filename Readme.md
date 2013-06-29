@@ -96,6 +96,12 @@ Signup: [http://barcampmedellin.eventbrite.com/](http://barcampmedellin.eventbri
 The event will be part of [Barcamp Med 5](http://www.barcampmedellin.org/)
 
 
+### Bogotá, Colombia
+
+Organizers: [@John_Acosta](https://twitter.com/John_Acosta), [@davsket](https://twitter.com/davsket), [@JeremyMorrell](https://twitter.com/JeremyMorrell), [@BogotaJS](https://twitter.com/bogotajs)<br>
+Location: TBD<br>
+Hours: TBD
+
 ## Sponsor
 
 If you're interested in contributing to this event, please consider hosting a space, contributing hardware to hack on, and/or providing drinks, snacks and food.
