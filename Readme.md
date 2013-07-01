@@ -52,6 +52,13 @@ Location: TBD<br>
 Hours: 10am - 6pm PST<br>
 Signup: Coming soon!
 
+### London, UK
+
+Organizers: [@olizilla](https://twitter.com/olizilla), [@_alanshaw](https://twitter.com/_alanshaw), [@gorhgorh](https://twitter.com/gorhgorh), [@dscape](https://twitter.com/dscape)<br>
+Location: TBD, tentatively [Ravensbourne College](http://bit.ly/1cJMMLc)<br>
+Hours: 10am - 6pm BST<br>
+Signup: Coming soon!
+
 ### Northern Virginia - Herndon, VA
 
 Organizers: [@voodootikigod](https://twitter.com/voodootikigod)<br/>
