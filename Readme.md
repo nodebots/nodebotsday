@@ -102,6 +102,14 @@ Organizers: [@John_Acosta](https://twitter.com/John_Acosta), [@davsket](https://
 Location: TBD<br>
 Hours: TBD
 
+### Kelowna, BC, Canada
+
+Organizers: [@jaypozo](https://twitter.com/jaypozo), [@_derrick](https://twitter.com/_derrick), [@OKNode](https://twitter.com/oknode)
+Location: TBD<br>
+Hours: 10am - 6pm PST
+Follow [@OKNode](https://twitter.com/oknode) for updates!
+Signup: Coming soon.
+
 ## Sponsor
 
 If you're interested in contributing to this event, please consider hosting a space, contributing hardware to hack on, and/or providing drinks, snacks and food.
