@@ -32,7 +32,14 @@ Follow [@nodebotsday](http://twitter.com/nodebotsday) for details
     * [MakerShed](http://www.makershed.com/Ultimate_Arduino_Microcontroller_Pack_p/msump1.htm)
     * [Adafruit](http://www.adafruit.com/products/1078)
     * [Sparkfun](https://www.sparkfun.com/products/11227)
+* Discounts
+    * Sparkfun Educational discount for NodeBots Day (valid for organizers and participants)
 
+      > 20% off orders of $50 or more at sparkfun.com
+      >
+      > code: D2BBA6813A10
+      >
+      > expires: 7/20
 
 ## Recent email that went out to organizers:
 
