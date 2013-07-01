@@ -2,9 +2,9 @@
 
 Want to organize a Nodebots Day near you? You should. This is a community event and it will be largely what you make it. A few of us have organized similar events and here we'll share some of the things you'll probably want to pull together and what's worked for us.
 
-## NOTE: Organizer G+ Hangout on 6/23 at 6:30pm US Pacific Time
+Follow [@nodebotsday](http://twitter.com/nodebotsday) for details and join the [NodeBots Day Google Group](https://groups.google.com/d/forum/nodebotsday) for updates.
 
-Follow [@nodebotsday](http://twitter.com/nodebotsday) for details
+### NOTE: Organizer G+ Hangout on Sunday 7/7 at 6:30pm US Pacific Time.
 
 ## The Basics
 
@@ -32,7 +32,9 @@ Follow [@nodebotsday](http://twitter.com/nodebotsday) for details
     * [MakerShed](http://www.makershed.com/Ultimate_Arduino_Microcontroller_Pack_p/msump1.htm)
     * [Adafruit](http://www.adafruit.com/products/1078)
     * [Sparkfun](https://www.sparkfun.com/products/11227)
-* Discounts
+
+
+## Discounts
     * Sparkfun Educational discount for NodeBots Day (valid for organizers and participants)
 
       > 20% off orders of $50 or more at sparkfun.com
