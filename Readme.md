@@ -66,6 +66,13 @@ Location: TBD<br>
 Hours: TBD<br>
 Signup: https://tito.io/nodebotsday/nodebotsday-nyc
 
+### Portland, OR
+
+Organizers: [@thoward37](https://twitter.com/thoward37), [@adron](https://twitter.com/adron), [@HackyGoLucky](https://twitter.com/hackygolucky), [@CarterRabasa](https://twitter.com/carterrabasa), [@_jden](https://twitter.com/_jden)<br>
+Location: TBD<br>
+Hours: TBD<br>
+Signup: Coming soon!
+
 ### San Francisco
 
 Organizers: [@dshaw](https://twitter.com/dshaw), [@rockbot](https://twitter.com/rockbot), [@nexxylove](https://twitter.com/nexxylove)<br>
