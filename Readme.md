@@ -94,6 +94,14 @@ Location: Coming soon!<br>
 Hours: 10am - 5pm PST<br>
 Signup: Coming soon!
 
+### Sydney, Australia
+
+Organisers: [@rioter](https://twitter.com/rioter), [@johnallsopp](https://twitter.com/johnallsopp), [@ajfisher](https://twitter.com/ajfisher), [@DamonOehlman](https://twitter.com/DamonOehlman)<br>
+Location: Surry Hills, Sydney<br>
+Hours: 10am - 6pm AEST<br>
+Signup: [http://nodebotssyd.eventbrite.com/](http://nodebotssyd.eventbrite.com/)<br>
+Sponsors: Space by [Web Directions](http://webdirections.org), Toys and munchies by [NICTA](http://www.nicta.com.au)
+
 ### Tri-Cities (Richland, Kennewick, Pasco, WA)
 
 Organizers: [@adam_baldwin](https://twitter.com/adam_baldwin)<br/>
