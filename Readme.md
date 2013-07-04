@@ -15,7 +15,8 @@ Want to organize a local NodeBots Day event. You should!
 * Join the mailing list: [NodeBots Day Google Group](https://groups.google.com/forum/#!forum/nodebotsday)
 * See also [Organizers.md](https://github.com/nodebots/nodebotsday/blob/master/Organizers.md)
 
-## Locations
+<a name="locations"/>
+## **15** Locations!
 
 ### Austin, TX
 
