@@ -87,6 +87,13 @@ Location: Adobe SF, 410 Townsend St (5th St), San Francisco, CA 94103<br>
 Hours: 10am - 5pm PT<br>
 Signup: https://tito.io/nodebotsday/nodebotsday-sf
 
+### South Bay Area
+
+Organizers: [@CrabDude](https://twitter.com/crabdude), [@_jden](https://twitter.com/_jden)<br>
+Location: Coming soon!<br>
+Hours: 10am - 5pm PST<br>
+Signup: Coming soon!
+
 ### Tri-Cities (Richland, Kennewick, Pasco, WA)
 
 Organizers: [@adam_baldwin](https://twitter.com/adam_baldwin)<br/>
