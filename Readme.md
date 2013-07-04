@@ -54,10 +54,10 @@ Signup: Coming soon!
 
 ### London, UK
 
-Organizers: [@olizilla](https://twitter.com/olizilla), [@_alanshaw](https://twitter.com/_alanshaw), [@gorhgorh](https://twitter.com/gorhgorh), [@dscape](https://twitter.com/dscape)<br>
-Location: TBD, tentatively [Ravensbourne College](http://bit.ly/1cJMMLc)<br>
+Organizers: [@olizilla](https://twitter.com/olizilla), [@gorhgorh](https://twitter.com/gorhgorh), [@dscape](https://twitter.com/dscape)<br>
+Location: TBD
 Hours: 10am - 6pm BST<br>
-Signup: Coming soon!
+Signup: https://tito.io/nodeuk/nodebotsday-london
 
 ### Northern Virginia - Herndon, VA
 
