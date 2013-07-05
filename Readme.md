@@ -24,11 +24,20 @@ Location: [Capital Factory- Located in the Austin Centre](http://capitalfactory.
 Hours: 9am - 5pm CST<br>
 Signup: https://tito.io/nodebotsday/nodebots-day-austin
 
+### Barcelona, Spain
+
+Organizers: [@marzeelabs](https://twitter.com/marzeelabs), [@nunoveloso](https://twitter.com/nunoveloso), [@pvhee](https://twitter.com/pvhee)<br>
+Location: [Marzee Labs](https://maps.google.es/maps?ie=UTF8&cid=3920674076749610460&q=Marzee+Labs&iwloc=A&gl=ES&hl=en)<br>
+Hours: TBD<br>
+Signup: Coming soon!
+
+
 ### Bogotá, Colombia
 
 Organizers: [@John_Acosta](https://twitter.com/John_Acosta), [@davsket](https://twitter.com/davsket), [@JeremyMorrell](https://twitter.com/JeremyMorrell), [@BogotaJS](https://twitter.com/bogotajs)<br>
 Location: TBD<br>
 Hours: TBD
+
 
 ### Boston
 
