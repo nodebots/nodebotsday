@@ -24,13 +24,19 @@ Location: [Capital Factory- Located in the Austin Centre](http://capitalfactory.
 Hours: 9am - 5pm CST<br>
 Signup: https://tito.io/nodebotsday/nodebots-day-austin
 
-
 ### Barcelona, Spain
 
 Organizers: [@marzeelabs](https://twitter.com/marzeelabs), [@nunoveloso](https://twitter.com/nunoveloso), [@pvhee](https://twitter.com/pvhee)<br>
-Location: [Marzee Labs](https://maps.google.es/maps?ie=UTF8&cid=3920674076749610460&q=Marzee+Labs&iwloc=A&gl=ES&hl=en)
+Location: [Marzee Labs](https://maps.google.es/maps?ie=UTF8&cid=3920674076749610460&q=Marzee+Labs&iwloc=A&gl=ES&hl=en)<br>
 Hours: TBD<br>
 Signup: Coming soon!
+
+
+### Bogotá, Colombia
+
+Organizers: [@John_Acosta](https://twitter.com/John_Acosta), [@davsket](https://twitter.com/davsket), [@JeremyMorrell](https://twitter.com/JeremyMorrell), [@BogotaJS](https://twitter.com/bogotajs)<br>
+Location: TBD<br>
+Hours: TBD
 
 
 ### Boston
@@ -54,6 +60,14 @@ Location: TBD<br>
 Hours: 10am - 5pm CST<br>
 Signup: https://tito.io/nodebotsday/nodebotsday-kc
 
+### Kelowna, BC, Canada
+
+Organizers: [@jaypozo](https://twitter.com/jaypozo), [@_derrick](https://twitter.com/_derrick), [@OKNode](https://twitter.com/oknode)
+Location: TBD<br>
+Hours: 10am - 6pm PST<br>
+Follow [@OKNode](https://twitter.com/oknode) for updates!<br>
+Signup: Coming soon.
+
 ### Las Vegas, NV
 
 Organizers: [@makenai](https://twitter.com/makenai), [@suziam](https://twitter.com/suziam)<br>
@@ -67,6 +81,14 @@ Organizers: [@olizilla](https://twitter.com/olizilla), [@gorhgorh](https://twitt
 Location: TBD
 Hours: 10am - 6pm BST<br>
 Signup: https://tito.io/nodeuk/nodebotsday-london
+
+### Medellín, Colombia
+
+Organizers: [@julian_duque](https://twitter.com/julian_duque), [@MedellinJS](https://twitter.com/medellinjs)<br>
+Location: Parque Explora<br>
+Hours: 9am - 5pm (COT/GMT-5)<br>
+Signup: [http://barcampmedellin.eventbrite.com/](http://barcampmedellin.eventbrite.com/)<br>
+The event will be part of [Barcamp Med 5](http://www.barcampmedellin.org/)
 
 ### Northern Virginia - Herndon, VA
 
@@ -124,29 +146,6 @@ Organizers: [@cshenoy](https://twitter.com/cshenoy)<br>
 Location: TBD<br>
 Hours: 10am - 5pm EST<br>
 Signup: Coming soon!
-
-### Medellín, Colombia
-
-Organizers: [@julian_duque](https://twitter.com/julian_duque), [@MedellinJS](https://twitter.com/medellinjs)<br>
-Location: Parque Explora<br>
-Hours: 9am - 5pm (COT/GMT-5)<br>
-Signup: [http://barcampmedellin.eventbrite.com/](http://barcampmedellin.eventbrite.com/)<br>
-The event will be part of [Barcamp Med 5](http://www.barcampmedellin.org/)
-
-
-### Bogotá, Colombia
-
-Organizers: [@John_Acosta](https://twitter.com/John_Acosta), [@davsket](https://twitter.com/davsket), [@JeremyMorrell](https://twitter.com/JeremyMorrell), [@BogotaJS](https://twitter.com/bogotajs)<br>
-Location: TBD<br>
-Hours: TBD
-
-### Kelowna, BC, Canada
-
-Organizers: [@jaypozo](https://twitter.com/jaypozo), [@_derrick](https://twitter.com/_derrick), [@OKNode](https://twitter.com/oknode)
-Location: TBD<br>
-Hours: 10am - 6pm PST<br>
-Follow [@OKNode](https://twitter.com/oknode) for updates!<br>
-Signup: Coming soon.
 
 ## Sponsor
 
