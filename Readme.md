@@ -108,8 +108,8 @@ Signup: http://nodebotsnyc.eventbrite.com
 
 Organizers: [@thoward37](https://twitter.com/thoward37), [@adron](https://twitter.com/adron), [@HackyGoLucky](https://twitter.com/hackygolucky), [@CarterRabasa](https://twitter.com/carterrabasa), [@_jden](https://twitter.com/_jden)<br>
 Location: TBD<br>
-Hours: TBD<br>
-Signup: Coming soon!
+Hours: 9am - 4:30pm PST
+Signup: https://tito.io/pdxnode/nodebotsday
 
 ### San Francisco
 
