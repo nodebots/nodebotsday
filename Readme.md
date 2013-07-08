@@ -100,9 +100,9 @@ Signup: Coming Soon!
 ### NYC
 
 Organizers: [@buritica](https://twitter.com/buritica), [@FotoVerite](https://twitter.com/FotoVerite), [@reconbot](https://twitter.com/reconbot), [@sarajchipps](https://twitter.com/sarajchipps), [@rwaldron](https://twitter.com/rwaldron)<br>
-Location: TBD<br>
-Hours: TBD<br>
-Signup: https://tito.io/nodebotsday/nodebotsday-nyc
+Location: OnSwipe HQ<br>
+Hours: 9am-7pm<br>
+Signup: http://nodebotsnyc.eventbrite.com
 
 ### Portland, OR
 
