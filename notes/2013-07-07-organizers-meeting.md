@@ -1,4 +1,4 @@
-# Notes for NodeBots Day Organizer's Meeting #2
+# NodeBots Day Organizer's Meeting #2
 
 * taken by @voodootikigod <3<3<3
 * video archive: http://youtu.be/YY1IbggXTKA
