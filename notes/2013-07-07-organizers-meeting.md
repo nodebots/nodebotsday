@@ -37,6 +37,6 @@ Chris throws out the option to do a pre-recorded intro thing.
 Chris is sending out postcards with the nodebots discount for RobotsConf and RobotsConf stickers, if you want them, email him at voodootikigod@gmail.com 
 
 
-AdaFruit Discount: 10% off anything until july 27th 11:59pm ET code is [[redacted - DM for info}} use at checkout.
+AdaFruit Discount: 10% off anything until july 27th 11:59pm ET code is [redacted - DM for info] use at checkout.
 
 Raquel offers up http://www.hobbyengineering.com/ which is an awesome and local parts distribution - use if you can cause the site is awesome.
