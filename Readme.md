@@ -90,12 +90,12 @@ Hours: 9am - 5pm (COT/GMT-5)<br>
 Signup: [http://barcampmedellin.eventbrite.com/](http://barcampmedellin.eventbrite.com/)<br>
 The event will be part of [Barcamp Med 5](http://www.barcampmedellin.org/)
 
-### Northern Virginia - Herndon, VA
+### Northern Virginia - Reston, VA
 
-Organizers: [@voodootikigod](https://twitter.com/voodootikigod)<br/>
-Location: <b>TBD</b><br/>
+Organizers: [@voodootikigod](https://twitter.com/voodootikigod) and [Eric Mitchell](http://twitter.com/ericmitchell1)<br/>
+Location: <b>[NovaLabs](http://nova-labs.org/blog/)</b> 11409-F Sunset Hills Rd. Reston, VA 20190<br/>
 Hours: 10am - 6pm EST<br/>
-Signup: Coming Soon!
+Signup: [https://tito.io/nodebotsday/nova2013](https://tito.io/nodebotsday/nova2013)
 
 ### NYC
 
