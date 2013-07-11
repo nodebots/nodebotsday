@@ -107,7 +107,7 @@ Signup: http://nodebotsnyc.eventbrite.com
 ### Portland, OR
 
 Organizers: [@thoward37](https://twitter.com/thoward37), [@adron](https://twitter.com/adron), [@HackyGoLucky](https://twitter.com/hackygolucky), [@CarterRabasa](https://twitter.com/carterrabasa), [@_jden](https://twitter.com/_jden)<br>
-Location: TBD<br>
+Location: Urban Airship (old location) 334 NW 11th Avenue, Portland, OR 97209 <br>
 Hours: 9am - 4:30pm PST
 Signup: https://tito.io/pdxnode/nodebotsday
 
