@@ -40,10 +40,11 @@ Signup: Coming soon!
 
 ### Medellín, Colombia
 
-Organizers: [@julian_duque](https://twitter.com/julian_duque), [@MedellinJS](https://twitter.com/medellinjs)<br>
+Organizers: [@julian_duque](https://twitter.com/julian_duque), [@zenedsadr](https://twitter.com/zenedsadr), [@CodeMaxter](https://twitter.com/CodeMaxter), [@MedellinJS](https://twitter.com/medellinjs)<br>
 Location: Parque Explora<br>
 Hours: 9am - 5pm (COT/GMT-5)<br>
 Signup: [http://barcampmedellin.eventbrite.com/](http://barcampmedellin.eventbrite.com/)<br>
+Website: [http://colombiajs.github.io/nodebotsday-medellin/](http://colombiajs.github.io/nodebotsday-medellin/)
 The event will be part of [Barcamp Med 5](http://www.barcampmedellin.org/)
 
 ### Denver
