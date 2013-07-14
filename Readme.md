@@ -78,8 +78,8 @@ Signup: [http://ticketcake.com/node/5020](http://ticketcake.com/node/5020)<br>
 ### London, UK
 
 Organizers: [@olizilla](https://twitter.com/olizilla), [@gorhgorh](https://twitter.com/gorhgorh), [@dscape](https://twitter.com/dscape)<br>
-Location: TBD
-Hours: 10am - 6pm BST<br>
+Location: [JAILmake](http://jailmake.com/), Unit 1a, East Dulwich Road, London, SE22 9BA<br>
+Hours: 10am - 5pm BST<br>
 Signup: https://tito.io/nodeuk/nodebotsday-london
 
 ### Medellín, Colombia
