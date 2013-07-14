@@ -1,6 +1,6 @@
-# International Nodebots Day Organizers
+# International NodeBots Day Organizers
 
-Want to organize a Nodebots Day near you? You should. This is a community event and it will be largely what you make it. A few of us have organized similar events and here we'll share some of the things you'll probably want to pull together and what's worked for us.
+Want to organize a NodeBots Day near you? You should. This is a community event and it will be largely what you make it. A few of us have organized similar events and here we'll share some of the things you'll probably want to pull together and what's worked for us.
 
 Follow [@nodebotsday](http://twitter.com/nodebotsday) for details and join the [NodeBots Day Google Group](https://groups.google.com/d/forum/nodebotsday) for updates.
 
