@@ -28,8 +28,8 @@ Signup: https://tito.io/nodebotsday/nodebots-day-austin
 
 Organizers: [@marzeelabs](https://twitter.com/marzeelabs), [@nunoveloso](https://twitter.com/nunoveloso), [@pvhee](https://twitter.com/pvhee)<br>
 Location: [Marzee Labs](https://maps.google.es/maps?ie=UTF8&cid=3920674076749610460&q=Marzee+Labs&iwloc=A&gl=ES&hl=en)<br>
-Hours: TBD<br>
-Signup: Coming soon!
+Hours: 10am - 5pm<br>
+Signup: http://lanyrd.com/2013/nodebots-day-barcelona
 
 
 ### Bogotá, Colombia
