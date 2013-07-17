@@ -71,7 +71,7 @@ Signup: Coming soon.
 ### Las Vegas, NV
 
 Organizers: [@makenai](https://twitter.com/makenai), [@suziam](https://twitter.com/suziam)<br>
-Location: TBD<br>
+Location: The InNEVation Center<br>
 Hours: 10am - 6pm PST<br>
 Signup: [http://ticketcake.com/node/5020](http://ticketcake.com/node/5020)<br>
 
