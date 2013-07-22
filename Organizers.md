@@ -4,8 +4,6 @@ Want to organize a NodeBots Day near you? You should. This is a community event 
 
 Follow [@nodebotsday](http://twitter.com/nodebotsday) for details and join the [NodeBots Day Google Group](https://groups.google.com/d/forum/nodebotsday) for updates.
 
-### NOTE: Organizer G+ Hangout on Sunday 7/21 at 6:30pm US Pacific Time.
-
 ## The Basics
 
 * Get a space.
