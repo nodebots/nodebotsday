@@ -148,6 +148,13 @@ Location: [iStrategyLabs](http://istrategylabs.com) - 1630 19th Street NW, Washi
 Hours: 9:30am - 6pm EST<br>
 Signup: [http://nodebotsdaydc.eventbrite.com](http://nodebotsdaydc.eventbrite.com)
 
+### Boise, ID
+
+Organizers: [@hwtechies](https://twitter.com/hwtechies)<br>
+Location: [Healthwise](http://istrategylabs.com) - 2601 N. Bogus Basin Rd Boise, Idaho, 83702<br>
+Hours: 9:00am - 5pm MST<br>
+Website: [http://hwtechie.herokuapp.com/](http://hwtechie.herokuapp.com/)
+
 ## Sponsor
 
 If you're interested in contributing to this event, please consider hosting a space, contributing hardware to hack on, and/or providing drinks, snacks and food.
