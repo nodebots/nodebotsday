@@ -151,7 +151,7 @@ Signup: [http://nodebotsdaydc.eventbrite.com](http://nodebotsdaydc.eventbrite.co
 ### Boise, ID
 
 Organizers: [@hwtechies](https://twitter.com/hwtechies)<br>
-Location: [Healthwise](http://istrategylabs.com) - 2601 N. Bogus Basin Rd Boise, Idaho, 83702<br>
+Location: [Healthwise](http://www.healthwise.org/) - 2601 N. Bogus Basin Rd Boise, Idaho, 83702<br>
 Hours: 9:00am - 5pm MST<br>
 Website: [http://hwtechie.herokuapp.com/](http://hwtechie.herokuapp.com/)
 
