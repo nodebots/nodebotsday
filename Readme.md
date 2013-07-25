@@ -101,7 +101,7 @@ Signup: [https://tito.io/nodebotsday/nova2013](https://tito.io/nodebotsday/nova2
 ### NYC
 
 Organizers: [@buritica](https://twitter.com/buritica), [@FotoVerite](https://twitter.com/FotoVerite), [@reconbot](https://twitter.com/reconbot), [@sarajchipps](https://twitter.com/sarajchipps), [@rwaldron](https://twitter.com/rwaldron), [@auremoser](https://twitter.com/auremoser)<br>
-Location: OnSwipe HQ<br>
+Location: OnSwipe HQ 39 west 14th st New York<br>
 Hours: 9am-7pm<br>
 Signup: http://nodebotsnyc.eventbrite.com
 
