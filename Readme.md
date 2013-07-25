@@ -119,13 +119,6 @@ Location: Adobe SF, 601 Townsend St (7th St), San Francisco, CA 94103<br>
 Hours: 10am - 5pm PT<br>
 Signup: https://tito.io/nodebotsday/nodebotsday-sf
 
-### South Bay Area, CA
-
-Organizers: [@CrabDude](https://twitter.com/crabdude), [@_jden](https://twitter.com/_jden)<br>
-Location: Coming soon!<br>
-Hours: 10am - 5pm PST<br>
-Signup: https://tito.io/jden/nodebots-day-south-bay
-
 ### Sydney, Australia
 
 Organisers: [@rioter](https://twitter.com/rioter), [@johnallsopp](https://twitter.com/johnallsopp), [@ajfisher](https://twitter.com/ajfisher), [@DamonOehlman](https://twitter.com/DamonOehlman)<br>
