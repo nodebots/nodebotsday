@@ -121,9 +121,10 @@ Signup: https://tito.io/pdxnode/nodebotsday
 ### San Francisco
 
 Organizers: [@dshaw](https://twitter.com/dshaw), [@rockbot](https://twitter.com/rockbot), [@nexxylove](https://twitter.com/nexxylove)<br>
-Location: Adobe SF, 610 Townsend St (7th St), San Francisco, CA 94103<br>
+Location: [Adobe SF](http://bit.ly/14Jxl6M], 610 Townsend St (7th St), San Francisco, CA 94103<br>
 Hours: 10am - 5pm PT<br>
 Signup: https://tito.io/nodebotsday/nodebotsday-sf
+Sponsors: [Adobe](http://adobe.com), [Sauce Labs](https://saucelabs.com/), [Zendesk](http://www.zendesk.com/)
 
 ### Sydney, Australia
 
