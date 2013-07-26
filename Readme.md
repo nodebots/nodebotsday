@@ -130,7 +130,7 @@ Sponsors: [Adobe](http://adobe.com), [Sauce Labs](https://saucelabs.com/), [Zend
 
 Organisers: [@rioter](https://twitter.com/rioter), [@johnallsopp](https://twitter.com/johnallsopp), [@ajfisher](https://twitter.com/ajfisher), [@DamonOehlman](https://twitter.com/DamonOehlman)<br>
 Location: Surry Hills, Sydney<br>
-Hours: 10am - 6pm AEST<br>
+Hours: [10am - 6pm AEST](http://www.worldtimebuddy.com/?qm=1&lid=2147714,2643743,5128581,5391959&h=2147714&date=2013-7-27&sln=10-18)<br>
 Signup: [http://nodebotssyd.eventbrite.com/](http://nodebotssyd.eventbrite.com/)<br>
 Sponsors: Space by [Web Directions](http://webdirections.org), Toys and munchies by [NICTA](http://www.nicta.com.au)
 
