@@ -38,6 +38,12 @@ Organizers: [@John_Acosta](https://twitter.com/John_Acosta), [@davsket](https://
 Location: TBD<br>
 Hours: TBD
 
+### Boise, ID
+
+Organizers: [@hwtechies](https://twitter.com/hwtechies)<br>
+Location: [Healthwise](http://www.healthwise.org/) - 2601 N. Bogus Basin Rd Boise, Idaho, 83702<br>
+Hours: 9:00am - 5pm MST<br>
+Website: [http://hwtechie.herokuapp.com/](http://hwtechie.herokuapp.com/)
 
 ### Boston
 
@@ -115,7 +121,7 @@ Signup: https://tito.io/pdxnode/nodebotsday
 ### San Francisco
 
 Organizers: [@dshaw](https://twitter.com/dshaw), [@rockbot](https://twitter.com/rockbot), [@nexxylove](https://twitter.com/nexxylove)<br>
-Location: Adobe SF, 601 Townsend St (7th St), San Francisco, CA 94103<br>
+Location: Adobe SF, 610 Townsend St (7th St), San Francisco, CA 94103<br>
 Hours: 10am - 5pm PT<br>
 Signup: https://tito.io/nodebotsday/nodebotsday-sf
 
@@ -140,13 +146,6 @@ Organizers: [@cshenoy](https://twitter.com/cshenoy)<br>
 Location: [iStrategyLabs](http://istrategylabs.com) - 1630 19th Street NW, Washington, DC 20009<br>
 Hours: 9:30am - 6pm EST<br>
 Signup: [http://nodebotsdaydc.eventbrite.com](http://nodebotsdaydc.eventbrite.com)
-
-### Boise, ID
-
-Organizers: [@hwtechies](https://twitter.com/hwtechies)<br>
-Location: [Healthwise](http://www.healthwise.org/) - 2601 N. Bogus Basin Rd Boise, Idaho, 83702<br>
-Hours: 9:00am - 5pm MST<br>
-Website: [http://hwtechie.herokuapp.com/](http://hwtechie.herokuapp.com/)
 
 ## Sponsor
 
