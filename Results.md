@@ -103,5 +103,8 @@ Organizers:  [@dshaw](https://twitter.com/dshaw),
 Photos: [San Francisco Photo
 Collection](https://plus.google.com/106106671604413824025/posts/3w5TieZZWLK), [@pchristensen's awesome daughter](https://twitter.com/christensenp/status/361345541814222849/photo/1) 
 
+###Kansas City
 
-
+Organizers:  [@heavysixer](https://twitter.com/heavysixer),
+[@joeandaverde](https://twitter.com/joeandaverde)<br/>
+Photos: [KC Photo Collection](http://www.meetup.com/nodekc/photos/16347482/264336252/)
