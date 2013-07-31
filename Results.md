@@ -24,7 +24,7 @@ Collection](http://www.flickr.com/photos/pierceray/sets/72157634817739973/)
 Organizers: [@makenai](https://twitter.com/makenai),
 [@suziam](https://twitter.com/suziam)<br>
 Photos:
-[@owlposse](http://www.flickr.com/photos/owlposse/sets/72157634838126566/), 
+[@owlposse](http://www.flickr.com/photos/owlposse/sets/72157634838126566/)<br> 
 Video: [Free For
 All](http://www.mobypicture.com/user/makenai/view/15705817)
 
