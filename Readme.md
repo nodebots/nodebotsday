@@ -155,15 +155,9 @@ Signup: [https://tito.io/nodebots-tricities/2013/](https://tito.io/nodebots-tric
 ### Washington, DC
 
 Organizers: [@cshenoy](https://twitter.com/cshenoy)<br>
-<<<<<<< HEAD
 Location: [iStrategyLabs](http://istrategylabs.com) - 1630 19th Street NW, Washington, DC 20009<br>
 Hours: 9:30am - 6pm EST<br>
 Signup: [http://nodebotsdaydc.eventbrite.com](http://nodebotsdaydc.eventbrite.com)
-=======
-Location: TBD<br>
-Hours: 10am - 5pm EST<br>
-Signup: Coming soon!
->>>>>>> Fixes the alphabetization
 
 ## Sponsor
 
