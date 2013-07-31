@@ -89,8 +89,6 @@ Hours: 10am - 5pm BST<br>
 Signup: https://tito.io/nodeuk/nodebotsday-london
 
 ### Medellín, Colombia
-<<<<<<< HEAD
-=======
 
 Organizers: [@julian_duque](https://twitter.com/julian_duque), [@MedellinJS](https://twitter.com/medellinjs)<br>
 Location: Parque Explora<br>
@@ -99,7 +97,6 @@ Signup: [http://barcampmedellin.eventbrite.com/](http://barcampmedellin.eventbri
 The event will be part of [Barcamp Med 5](http://www.barcampmedellin.org/)
 
 ### Northern Virginia - Herndon, VA
->>>>>>> Fixes the alphabetization
 
 Organizers: [@julian_duque](https://twitter.com/julian_duque), [@zenedsadr](https://twitter.com/zenedsadr), [@CodeMaxter](https://twitter.com/CodeMaxter), [@MedellinJS](https://twitter.com/medellinjs)<br>
 Location: Parque Explora<br>
