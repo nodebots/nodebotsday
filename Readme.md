@@ -34,9 +34,12 @@ Signup: http://lanyrd.com/2013/nodebots-day-barcelona
 
 ### Bogotá, Colombia
 
-Organizers: [@John_Acosta](https://twitter.com/John_Acosta), [@davsket](https://twitter.com/davsket), [@JeremyMorrell](https://twitter.com/JeremyMorrell), [@BogotaJS](https://twitter.com/bogotajs)<br>
-Location: TBD<br>
-Hours: TBD
+Organizers: [@davsket](https://twitter.com/davsket), [@agar3s](https://twitter.com/agar3s), [@buritica](https://twitter.com/buritica) <br>
+Location: Atome House<br>
+Hours: 1pm - 8pm (COT/GMT-5)<br>
+Signup: [http://www.meetup.com/BogotaJS](http://www.meetup.com/BogotaJS)<br>
+Website:
+[http://www.meetup.com/BogotaJS/](http://www.meetup.com/BogotaJS)
 
 ### Boise, ID
 
