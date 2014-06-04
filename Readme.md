@@ -35,9 +35,9 @@ Sponsors: [NodeSource](http://nodesource.com), [Adobe](http://adobe.com) + you c
 
 Organizers: [@lynnaloo](https://twitter.com/lynnaloo), [@beauturner](https://twitter.com/beauturner), [@tjwebb](https://twitter.com/traviswebbusa), [@_bmf_](https://twitter.com/_bmf_) <br>
 Location: [757 Makerspace](http://www.757makerspace.com), 421 W. 22nd Street Norfolk, Va 23517<br>
-Hours: [10am - 5pm ET](http://www.worldtimebuddy.com/?qm=1&lid=5391959&h=5391959&date=2014-7-26&sln=10-17)<br>
+Hours: 10am - 5pm EDT<br>
 Signup: [Norfolk.js Meetup Page](http://www.meetup.com/NorfolkJS/events/187172562/)<br>
-Sponsors: [Norfolk.js](http://www.norfolkjs.org), [757 Makerspace](http://www.757makerspace.com) + TBD
+Sponsors: [Norfolk.js](http://www.norfolkjs.org), [757 Makerspace](http://www.757makerspace.com)
 
 <!-- PLEASE ADD YOUR LOCAL INFORMATION -->
 
