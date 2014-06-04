@@ -55,6 +55,15 @@ Hours: [9am - 5pm CDT]<br>
 Signup: Coming SOON!<br>
 Sponsors: TBD
 
+#### Las Vegas, NV
+
+Organizers: [@makenai](https://twitter.com/makenai), [@noopkat](https://twitter.com/noopkat), [@godzirra](https://twitter.com/godzirra) <br>
+Location: TBD<br>
+Hours: [9am - 6pm PDT]<br>
+Signup: Coming SOON!<br>
+Sponsors: TBD
+
+
 <!-- PLEASE ADD YOUR LOCAL INFORMATION -->
 
 ### South America
