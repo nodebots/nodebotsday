@@ -31,6 +31,14 @@ Hours: [10am - 5pm PT](http://www.worldtimebuddy.com/?qm=1&lid=5391959&h=5391959
 Signup: *COMING SOON*<br>
 Sponsors: [NodeSource](http://nodesource.com), [Adobe](http://adobe.com) + you can contribute too. Ping [@dshaw](https://twitter.com/dshaw) if you're interested in sponsoring NodeBots Day in SF.
 
+#### Norfolk, VA
+
+Organizers: [@lynnaloo](https://twitter.com/lynnaloo), [@beauturner](https://twitter.com/beauturner), [@tjwebb](https://twitter.com/traviswebbusa), [@_bmf_](https://twitter.com/_bmf_) <br>
+Location: [757 Makerspace](http://www.757makerspace.com), 421 W. 22nd Street Norfolk, Va 23517<br>
+Hours: 10am - 5pm EDT<br>
+Signup: [Norfolk.js Meetup Page](http://www.meetup.com/NorfolkJS/events/187172562/)<br>
+Sponsors: [Norfolk.js](http://www.norfolkjs.org), [757 Makerspace](http://www.757makerspace.com)
+
 <!-- PLEASE ADD YOUR LOCAL INFORMATION -->
 
 ### South America
