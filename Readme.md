@@ -41,7 +41,7 @@ Sponsors: [Norfolk.js](http://www.norfolkjs.org), [757 Makerspace](http://www.75
 
 #### Austin, TX (Y'all)
 
-Organizers: [@kassandra_perch](https://twitter.com/kassandra_perch), [@pierceray](https://twitter.com/pierceray), [@dylantsmith](https://twitter.com/dylantsmith), [@austinnodebots](https://twitter.com/austinnodebots) <br>
+Organizers: [@kassandra_perch](https://twitter.com/kassandra_perch), [@pierceray](https://twitter.com/pierceray), [@dylants](https://twitter.com/dylants), [@austinnodebots](https://twitter.com/austinnodebots) <br>
 Location: TBD<br>
 Hours: TBD<br>
 Signup: Coming SOON!<br>
