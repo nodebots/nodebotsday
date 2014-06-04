@@ -63,6 +63,12 @@ Hours: [9am - 6pm PDT]<br>
 Signup: Coming SOON!<br>
 Sponsors: TBD
 
+#### Portland, OR
+Organizers: [@hackygolucky](https://twitter.com/hackygolucky), [@wraithan](https://twitter.com/wraithan), [@s5fs](https://twitter.com/s5fs)<br>
+Location: TBD<br>
+Hours: TBD<br>
+Signup: Coming SOON!<br>
+Sponsors: [PDXNode](http://www.pdxnode.org), We need sponsors! Email @hackygolucky
 
 <!-- PLEASE ADD YOUR LOCAL INFORMATION -->
 
