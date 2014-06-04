@@ -39,13 +39,13 @@ Hours: 10am - 5pm EDT<br>
 Signup: [Norfolk.js Meetup Page](http://www.meetup.com/NorfolkJS/events/187172562/)<br>
 Sponsors: [Norfolk.js](http://www.norfolkjs.org), [757 Makerspace](http://www.757makerspace.com)
 
-#### Austin, TX (Y'all)
+#### Portland, OR
 
-Organizers: [@kassandra_perch](https://twitter.com/kassandra_perch), [@pierceray](https://twitter.com/pierceray), [@dylantsmith](https://twitter.com/dylantsmith), [@austinnodebots](https://twitter.com/austinnodebots) <br>
+Organizers: [@hackygolucky](https://twitter.com/hackygoluck), [@wraithan](https://twitter.com/wraithan), [@s5fs](https://twitter.com/s5fs)<br>
 Location: TBD<br>
-Hours: TBD<br>
-Signup: Coming SOON!<br>
-Sponsors: We need sponsors! Email kassandra [a] kassandraperch.com!
+Hours: 10am - 5pm EDT<br>
+Signup: *COMING SOON*<br>
+Sponsors: [PDXNode](http://www.pdxnode.org)
 
 <!-- PLEASE ADD YOUR LOCAL INFORMATION -->
 
