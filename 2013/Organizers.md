@@ -12,6 +12,9 @@ Follow [@nodebotsday](http://twitter.com/nodebotsday) for details and join the [
     
 * Food, snacks and beverages
     * Warning: this can eat up a lot of your money. This is a great contribution/sponsorship oportunity.
+    
+* Signup form
+    * If you don't need to collect money from anyone, I'd be happy to add a Tito event page for you. Create an [issue](https://github.com/dshaw/nodebotsday/issues) or mention it in the pull request for your event and I'll add you. https://tito.io/nodebotsday/
 
 ## Hardware
 
@@ -30,9 +33,13 @@ Follow [@nodebotsday](http://twitter.com/nodebotsday) for details and join the [
 
 
 ## Discounts
+    * Sparkfun Educational discount for NodeBots Day (valid for organizers and participants)
 
-* *COMING SOON*
-
+      > 20% off orders of $50 or more at sparkfun.com
+      >
+      > code: D2BBA6813A10
+      >
+      > expires: 7/20
 
 ## Recent email that went out to organizers:
 
