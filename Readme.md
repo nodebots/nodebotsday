@@ -47,6 +47,14 @@ Hours: TBD<br>
 Signup: Coming SOON!<br>
 Sponsors: We need sponsors! Email kassandra [a] kassandraperch.com!
 
+#### Houston, TX
+
+Organizers: [@pandafulmanda](https://twitter.com/pandafulmanda), [@rookieone](https://twitter.com/rookieone), [@HoustonJS](https://twitter.com/HoustonJS) <br>
+Location: TBD<br>
+Hours: [9am - 5pm CDT]<br>
+Signup: Coming SOON!<br>
+Sponsors: TBD
+
 <!-- PLEASE ADD YOUR LOCAL INFORMATION -->
 
 ### South America
