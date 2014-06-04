@@ -55,7 +55,7 @@ Hours: [9am - 5pm CDT]<br>
 Signup: Coming SOON!<br>
 Sponsors: TBD
 
-#### Las Vegas, NV
+#### Las Vegas, MV (Meowvada)
 
 Organizers: [@makenai](https://twitter.com/makenai), [@noopkat](https://twitter.com/noopkat), [@godzirra](https://twitter.com/godzirra) <br>
 Location: TBD<br>
