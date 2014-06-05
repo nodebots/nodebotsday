@@ -72,7 +72,14 @@ Sponsors: [PDXNode](http://www.pdxnode.org), We need sponsors! Email @hackygoluc
 
 <!-- PLEASE ADD YOUR LOCAL INFORMATION -->
 
-### South America
+### Latin America
+
+#### Guatemala, GT
+Organizers: [@ykro](https://twitter.com/ykro), [@zezzi](https://twitter.com/zezzi), [@wichogt](https://twitter.com/wichogt)<br>
+Location: Laboratorios 202 y 216, Universidad Galileo. 7ma avenida final Calle Dr. Suger, Zona 10<br>
+Hours: [9am - 1pm GMT-6]<br>
+Signup: [NodeBots Guatemala](http://www.meetup.com/Innovation-Guatemala/events/187268962/)<br>
+Sponsors: [Universidad Galileo](http://galileo.edu), [Elemental Geeks](http://elementalgeeks.com) + we need sponsors for hardware & food, email adriancatalan[at]gmail.com
 
 #### São Paulo, SP
 Organizers: [@tadeuzagallo](https://twitter.com/tadeuzagallo), [@FilipeNevola](https://twitter.com/FilipeNevola), [@0xFFranco](https://twitter.com/0xFFranco)<br>
