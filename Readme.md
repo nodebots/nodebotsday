@@ -89,6 +89,33 @@ Sponsors: We need sponsors! Email tadeuzagallo [at] gmail.com
 
 ### Asia-Pacific
 
+#### Australia details
+Follow [@nodebotsau](https://twitter.com/nodebotsau) for updates
+
+#### Brisbane, Australia
+Organisers: [@annagerber](https://twitter.com/annagerber), [@garrows](https://twitter.com/garrows)<br>
+Location: The Edge, State Library of Queensland<br>
+Date: Saturday, 26 July<br>
+Hours: 12 - 6pm <br>
+Signup Coming SOON!<br>
+Sponsors: We need sponsors! 
+
+#### Melbourne, Australia
+Organisers: [@ajfisher](https://twitter.com/ajfisher)<br>
+Location: TBA - we're looking for a big space!!<br>
+Date: Saturday, 26 July<br>
+Hours: 10 - 5pm <br>
+Signup Coming SOON!<br>
+Sponsors: We need sponsors! 
+
+#### Sydney, Australia
+Organisers: [@damonoehlman](https://twitter.com/damonoehlman)<br>
+Location: NICTA, Technology Park<br>
+Date: Saturday, 26 July<br>
+Hours: 10 - 5pm <br>
+Signup Coming SOON!<br>
+Sponsors: We need sponsors! 
+
 <!-- PLEASE ADD YOUR LOCAL INFORMATION -->
 
 ## Sponsor
