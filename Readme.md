@@ -74,6 +74,13 @@ Sponsors: [PDXNode](http://www.pdxnode.org), We need sponsors! Email @hackygoluc
 
 ### South America
 
+#### São Paulo, SP
+Organizers: [@tadeuzagallo](https://twitter.com/tadeuzagallo), [@FilipeNevola](https://twitter.com/FilipeNevola), [@0xFFranco](https://twitter.com/0xFFranco)<br>
+Location: TBD<br>
+Hours: TBD<br>
+Signup: Coming SOON!<br>
+Sponsors: We need sponsors! Email tadeuzagallo [at] gmail.com
+
 <!-- PLEASE ADD YOUR LOCAL INFORMATION -->
 
 ### Europe
