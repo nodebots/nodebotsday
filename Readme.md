@@ -92,6 +92,15 @@ Sponsors: We need sponsors! Email tadeuzagallo [at] gmail.com
 
 ### Europe
 
+#### London, United Kingdom
+Updates: [@nodebotsuk](https://twitter.com/nodebotsuk)<br>
+Organisers: [@_alanshaw](https://twitter.com/_alanshaw), [@achingbrain](https://twitter.com/achingbrain), [@olizilla](https://twitter.com/olizilla)<br>
+Location: TBD<br>
+Date: Sunday, 27 July<br>
+Hours: 10 - 6pm <br>
+Signup: Coming SOON!<br>
+Sponsors: Gladly accepted
+
 <!-- PLEASE ADD YOUR LOCAL INFORMATION -->
 
 ### Asia-Pacific
