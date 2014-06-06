@@ -88,6 +88,13 @@ Hours: TBD<br>
 Signup: TBD<br>
 Sponsors: [Ubidots](https://www.ubidots.com) and also we need sponsors for hardware, email: julianduquej [at] gmail.com<br>
 
+#### Bogotá, CO
+Organizers: [@davsket](https://twitter.com/davsket), [@buritica](https://twitter.com/buritica), [@BogotaJS](https://twitter.com/BogotaJS)<br>
+Location: TBD<br>
+Hours: TBD<br>
+Signup: TBD<br>
+Sponsors: TBD<br>
+
 #### São Paulo, SP
 Organizers: [@tadeuzagallo](https://twitter.com/tadeuzagallo), [@FilipeNevola](https://twitter.com/FilipeNevola), [@0xFFranco](https://twitter.com/0xFFranco)<br>
 Location: TBD<br>
