@@ -81,6 +81,13 @@ Hours: [9am - 1pm GMT-6]<br>
 Signup: [NodeBots Guatemala](http://www.meetup.com/Innovation-Guatemala/events/187268962/)<br>
 Sponsors: [Universidad Galileo](http://galileo.edu), [Elemental Geeks](http://elementalgeeks.com) + we need sponsors for hardware & food, email adriancatalan[at]gmail.com
 
+#### Medellín, CO
+Organizers: [@julian_duque](https://twitter.com/julian_duque), [@zenedsadr](https://twitter.com/zenedsadr), [@MedellinJS](https://twitter.com/MedellinJS)<br>
+Location: TBD<br>
+Hours: TBD<br>
+Signup: TBD<br>
+Sponsors: [Ubidots](https://www.ubidots.com) and also we need sponsors for hardware, email: julianduquej [at] gmail.com<br>
+
 #### São Paulo, SP
 Organizers: [@tadeuzagallo](https://twitter.com/tadeuzagallo), [@FilipeNevola](https://twitter.com/FilipeNevola), [@0xFFranco](https://twitter.com/0xFFranco)<br>
 Location: TBD<br>
