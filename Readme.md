@@ -63,6 +63,13 @@ Hours: [9am - 6pm PDT]<br>
 Signup: Coming SOON!<br>
 Sponsors: TBD
 
+#### Miami/Fort Lauderdale, FL
+Organizers: [@onel0p3z](https://twitter.com/onel0p3z), [@nightshiftc](https://twitter.com/nightshiftc), [@angel_cuemby](https://twitter.com/angel_cuemby)
+Location: TBD
+Hours: TBD<br>
+Signup: TBD<br>
+Sponsors:  We need sponsors! Please email: onel0p3z [at] gmail.com<br>
+
 #### Portland, OR
 Organizers: [@hackygolucky](https://twitter.com/hackygolucky), [@wraithan](https://twitter.com/wraithan), [@s5fs](https://twitter.com/s5fs)<br>
 Location: TBD<br>
