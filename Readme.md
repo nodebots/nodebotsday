@@ -63,6 +63,13 @@ Hours: [9am - 6pm PDT]<br>
 Signup: Coming SOON!<br>
 Sponsors: TBD
 
+#### Miami/Fort Lauderdale, FL
+Organizers: [@onel0p3z](https://twitter.com/onel0p3z), [@nightshiftc](https://twitter.com/nightshiftc), [@angel_cuemby](https://twitter.com/angel_cuemby)
+Location: TBD
+Hours: TBD<br>
+Signup: TBD<br>
+Sponsors:  We need sponsors! Please email: onel0p3z [at] gmail.com<br>
+
 #### Portland, OR
 Organizers: [@hackygolucky](https://twitter.com/hackygolucky), [@wraithan](https://twitter.com/wraithan), [@s5fs](https://twitter.com/s5fs)<br>
 Location: TBD<br>
@@ -88,6 +95,20 @@ Hours: [9am - 1pm GMT-6]<br>
 Signup: [NodeBots Guatemala](http://www.meetup.com/Innovation-Guatemala/events/187268962/)<br>
 Sponsors: [Universidad Galileo](http://galileo.edu), [Elemental Geeks](http://elementalgeeks.com) + we need sponsors for hardware & food, email adriancatalan[at]gmail.com
 
+#### Medellín, CO
+Organizers: [@julian_duque](https://twitter.com/julian_duque), [@zenedsadr](https://twitter.com/zenedsadr), [@MedellinJS](https://twitter.com/MedellinJS)<br>
+Location: TBD<br>
+Hours: TBD<br>
+Signup: TBD<br>
+Sponsors: [Ubidots](https://www.ubidots.com) and also we need sponsors for hardware, email: julianduquej [at] gmail.com<br>
+
+#### Bogotá, CO
+Organizers: [@davsket](https://twitter.com/davsket), [@buritica](https://twitter.com/buritica), [@BogotaJS](https://twitter.com/BogotaJS)<br>
+Location: TBD<br>
+Hours: TBD<br>
+Signup: TBD<br>
+Sponsors: TBD<br>
+
 #### São Paulo, SP
 Organizers: [@tadeuzagallo](https://twitter.com/tadeuzagallo), [@FilipeNevola](https://twitter.com/FilipeNevola), [@0xFFranco](https://twitter.com/0xFFranco)<br>
 Location: TBD<br>
@@ -98,6 +119,15 @@ Sponsors: We need sponsors! Email tadeuzagallo [at] gmail.com
 <!-- PLEASE ADD YOUR LOCAL INFORMATION -->
 
 ### Europe
+
+#### London, United Kingdom
+Updates: [@nodebotsuk](https://twitter.com/nodebotsuk)<br>
+Organisers: [@_alanshaw](https://twitter.com/_alanshaw), [@achingbrain](https://twitter.com/achingbrain), [@olizilla](https://twitter.com/olizilla)<br>
+Location: TBD<br>
+Date: Sunday, 27 July<br>
+Hours: 10 - 6pm <br>
+Signup: Coming SOON!<br>
+Sponsors: Gladly accepted
 
 <!-- PLEASE ADD YOUR LOCAL INFORMATION -->
 
