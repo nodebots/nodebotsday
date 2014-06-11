@@ -160,6 +160,20 @@ Hours: 10 - 5pm <br>
 Signup Coming SOON!<br>
 Sponsors: We need sponsors! 
 
+### Africa
+
+#### South Africa details
+Follow [@nodebotscpt](https://twitter.com/nodebotscpt) for updates
+
+#### Cape Town, South Africa
+Follow: [@nodebotscpt](https://twitter.com/nodebotscpt) for updates 
+Organisers: [@avermeulen](https://twitter.com/avermeulen)<br>
+Location: Coming soon!<br>
+Date: Saturday, 26 July<br>
+Hours: 10am - 6pm <br>
+Signup: Coming SOON!<br>
+Sponsors: We need sponsors! 
+
 <!-- PLEASE ADD YOUR LOCAL INFORMATION -->
 
 ## Sponsor
