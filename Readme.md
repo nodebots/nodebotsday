@@ -129,6 +129,14 @@ Hours: 10 - 6pm <br>
 Signup: Coming SOON!<br>
 Sponsors: Gladly accepted
 
+#### Paris, France
+Organiser: [@gorhgorh](https://twitter.com/gorhgorh) ,you ?<br>
+Location: [cité des sciences et de l'industrie](http://www.cite-sciences.fr/)<br>
+Date: saturday, 26 July<br>
+Hours: 11 - 6pm <br>
+Signup: Coming SOON!<br>
+Sponsors: [carrefour numérique](http://www.cite-sciences.fr/en/explore/learn/carrefour-numerique2/)
+
 <!-- PLEASE ADD YOUR LOCAL INFORMATION -->
 
 ### Asia-Pacific
