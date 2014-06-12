@@ -33,11 +33,12 @@ Sponsors: [NodeSource](http://nodesource.com), [Adobe](http://adobe.com) + you c
 
 #### Norfolk, VA
 
-Organizers: [@lynnaloo](https://twitter.com/lynnaloo), [@beauturner](https://twitter.com/beauturner), [@tjwebb](https://twitter.com/traviswebbusa), [@_bmf_](https://twitter.com/_bmf_) <br>
+Organizers: [@lynnaloo](https://twitter.com/lynnaloo), [@beauturner](https://twitter.com/beauturner), [@tjwebb](https://twitter.com/traviswebbusa), [@_bmf_](https://twitter.com/_bmf_), [@stanzheng](https://twitter.com/stanzheng) <br>
 Location: [757 Makerspace](http://www.757makerspace.com), 421 W. 22nd Street Norfolk, Va 23517<br>
 Hours: 10am - 5pm EDT<br>
 Signup: [Norfolk.js Meetup Page](http://www.meetup.com/NorfolkJS/events/187172562/)<br>
-Sponsors: [Norfolk.js](http://www.norfolkjs.org), [757 Makerspace](http://www.757makerspace.com)
+Sponsors: [Norfolk.js](http://www.norfolkjs.org), [757 Makerspace](http://www.757makerspace.com), [@SendGrid](http://www.sendgrid.com)   
+Sponsors: We need sponsors! Tweet any organizer or Email stanzheng[a]codeforamerica.org!
 
 #### Austin, TX (Y'all)
 
