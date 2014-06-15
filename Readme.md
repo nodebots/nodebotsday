@@ -177,7 +177,7 @@ Follow [@nodebotscpt](https://twitter.com/nodebotscpt) for updates
 #### Cape Town, South Africa
 Follow: [@nodebotscpt](https://twitter.com/nodebotscpt) for updates 
 Organisers: [@avermeulen](https://twitter.com/avermeulen)<br>
-Location: Coming soon!<br>
+Location: [Cape Town Garage](http://www.capetowngarage.com/) Woodstock Exchange, 4th Floor, 66 Albert Road, Woodstock, Cape Town<br>
 Date: Saturday, 26 July<br>
 Hours: 10am - 6pm <br>
 Signup: Coming SOON!<br>
