@@ -117,6 +117,13 @@ Hours: TBD<br>
 Signup: Coming SOON!<br>
 Sponsors: We need sponsors! Email tadeuzagallo [at] gmail.com
 
+#### Distrito Federal, México
+Organizers: [@_Jurasec](https://twitter.com/_Jurasec), [@Siedrix](https://twitter.com/Siedrix), [@Quirarte](https://twitter.com/Quirarte) <br>
+Location: TBD<br>
+Hours: TBD<br>
+Signup: TBD<br>
+Sponsors: [Hacedores.com](https://twitter.com/HacedoresCom), we need sponsors for hardware too, jurasec[at]gmail.com
+
 <!-- PLEASE ADD YOUR LOCAL INFORMATION -->
 
 ### Europe
