@@ -85,6 +85,13 @@ Hours: TBD<br>
 [Signup Here](https://ti.to/bocoup/nodebotsday-2014)<br>
 Sponsors: We love sponsors! email admin at bocoup dot com :)
 
+#### Washington, DC
+Organizers: [@mcwhittemore](https://twitter.com/mcwhittemore), [@cshenoy](https://twitter.com/cshenoy/)<br>
+Location: TBD<br>
+Hours: TBD<br>
+Signup: Comming Soon!<br>
+Sponsors: We need sponsors! Email mcwhittemore at gmail dot com
+
 <!-- PLEASE ADD YOUR LOCAL INFORMATION -->
 
 ### Latin America
