@@ -64,10 +64,10 @@ Signup: Coming SOON!<br>
 Sponsors: TBD
 
 #### Miami/Fort Lauderdale, FL
-Organizers: [@onel0p3z](https://twitter.com/onel0p3z), [@nightshiftc](https://twitter.com/nightshiftc), [@angel_cuemby](https://twitter.com/angel_cuemby)
-Location: TBD
-Hours: TBD<br>
-Signup: TBD<br>
+Organizers: [@onel0p3z](https://twitter.com/onel0p3z), [@nightshiftc](https://twitter.com/nightshiftc), [@angel_cuemby](https://twitter.com/angel_cuemby)<br>
+Location:[PricewaterhouseCoopers LLP](https://www.google.com/maps/place/600+Silks+Run+%232210/@25.9638501,-80.148895,17z/data=!3m1!4b1!4m2!3m1!1s0x88d9ac5de45c1ba3:0xc936c340177c6bde) <br>
+Hours: 10AM - 5PM<br>
+Signup: [Miami NodeJS](http://www.meetup.com/NodeJS-Enthusiasts-SE-Florida/events/182676152)<br>
 Sponsors:  We need sponsors! Please email: onel0p3z [at] gmail.com<br>
 
 #### Portland, OR
