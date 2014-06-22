@@ -92,6 +92,15 @@ Hours: TBD<br>
 Signup: Comming Soon!<br>
 Sponsors: We need sponsors! Email mcwhittemore at gmail dot com
 
+#### Ottawa, ON
+Organizers: [@alanctgardner](https://twitter.com/alanctgardner), [@73rhodes](https://twitter.com/73rhodes), [@sandeepmistry](https://twitter.com/sandeepmistry)<br>
+Location: TBD<br>
+Hours: TBD<br>
+Signup: Coming SOON!<br>
+More info: https://github.com/ottawajs/nodebots<br>
+Sponsors: [Toushay](http://www.toushay.com), contact [@sandeepmistry](https://github.com/sandeepmistry) if you are interested in becoming a sponsor.<br>
+
+
 <!-- PLEASE ADD YOUR LOCAL INFORMATION -->
 
 ### Latin America
