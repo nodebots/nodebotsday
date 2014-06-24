@@ -135,10 +135,10 @@ Sponsors: We need sponsors! Email tadeuzagallo [at] gmail.com
 
 #### Distrito Federal, México
 Organizers: [@_Jurasec](https://twitter.com/_Jurasec), [@Siedrix](https://twitter.com/Siedrix), [@Quirarte](https://twitter.com/Quirarte) <br>
-Location: TBD<br>
+Location: San Luis Potosí 211 Piso 8 Col.Roma CP06760 entre Medellin e Insurgentes, muy cerca de la estación de metrobús Sonora<br>
 Hours: TBD<br>
 Signup: TBD<br>
-Sponsors: [Hacedores.com](https://twitter.com/HacedoresCom), we need sponsors for hardware too, jurasec[at]gmail.com
+Sponsors: [Hacedores.com](https://twitter.com/HacedoresCom), [http://www.kmmx.mx](http://www.kmmx.mx/), we need sponsors for hardware too, jurasec[at]gmail.com
 
 <!-- PLEASE ADD YOUR LOCAL INFORMATION -->
 
