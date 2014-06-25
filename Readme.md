@@ -94,9 +94,9 @@ Sponsors: We need sponsors! Email mcwhittemore at gmail dot com
 
 #### Ottawa, ON
 Organizers: [@alanctgardner](https://twitter.com/alanctgardner), [@73rhodes](https://twitter.com/73rhodes), [@sandeepmistry](https://twitter.com/sandeepmistry)<br>
-Location: TBD<br>
-Hours: TBD<br>
-Signup: Coming SOON!<br>
+Location:  Adobe (Klondike Room), [343 Preston Street, Ottawa, ON K1S 1V6](https://www.google.ca/maps/place/343+Preston+St/@45.4022954,-75.7094077,17z/data=!3m1!4b1!4m2!3m1!1s0x4cce04344c78d61b:0x1de77ff1bc5796f1)<br>
+Hours: 9am - 5pm<br>
+Signup: [NodeBots Day Ottawa - Eventbrite](https://www.eventbrite.com/e/nodebots-day-ottawa-tickets-12071479119?ref=estw)<br>
 More info: https://github.com/ottawajs/nodebots<br>
 Sponsors: [Toushay](http://www.toushay.com), contact [@sandeepmistry](https://github.com/sandeepmistry) if you are interested in becoming a sponsor.<br>
 
