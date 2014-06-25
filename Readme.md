@@ -86,11 +86,11 @@ Hours: TBD<br>
 Sponsors: We love sponsors! email admin at bocoup dot com :)
 
 #### Washington, DC
-Organizers: [@mcwhittemore](https://twitter.com/mcwhittemore), [@cshenoy](https://twitter.com/cshenoy/)<br>
-Location: TBD<br>
-Hours: TBD<br>
-Signup: Comming Soon!<br>
-Sponsors: We need sponsors! Email mcwhittemore at gmail dot com
+Organizers: [@mcwhittemore](https://twitter.com/mcwhittemore), [@cshenoy](https://twitter.com/cshenoy/), [@carolineawoods](https://twitter.com/carolineawoods), [@danielpazsoldan](https://twitter.com/danielpazsoldan)<br>
+Location: [Fluencia Offices](http://maps.google.com/maps?f=q&hl=en&q=1400+Key+Blvd+%28Level+A%29+%2C+Arlington%2C+VA%2C+us)<br>
+Hours: 10 AM to 6 PM<br>
+Signup: [NOW](https://ti.to/nodebots-dc/nodebots-day-2014)<br>
+Sponsors: [Fluenca](http://www.fluencia.com/)
 
 #### Ottawa, ON
 Organizers: [@alanctgardner](https://twitter.com/alanctgardner), [@73rhodes](https://twitter.com/73rhodes), [@sandeepmistry](https://twitter.com/sandeepmistry)<br>
