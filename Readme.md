@@ -56,13 +56,13 @@ Hours: [9am - 5pm CDT]<br>
 Signup: Coming SOON!<br>
 Sponsors: TBD
 
-#### Las Vegas, MV (Meowvada)
+#### Las Vegas, MV (Meowada)
 
 Organizers: [@makenai](https://twitter.com/makenai), [@noopkat](https://twitter.com/noopkat), [@godzirra](https://twitter.com/godzirra) <br>
-Location: TBD<br>
-Hours: [9am - 6pm PDT]<br>
+Location: [Pololu Robotics and Electronics](http://www.pololu.com/about)<br>
+Hours: 10am - 7pm PDT<br>
 Signup: Coming SOON!<br>
-Sponsors: TBD
+Sponsors: [Pololu](http://www.pololu.com/)
 
 #### Miami/Fort Lauderdale, FL
 Organizers: [@onel0p3z](https://twitter.com/onel0p3z), [@nightshiftc](https://twitter.com/nightshiftc), [@angel_cuemby](https://twitter.com/angel_cuemby)<br>
