@@ -37,16 +37,23 @@ Organizers: [@lynnaloo](https://twitter.com/lynnaloo), [@beauturner](https://twi
 Location: [757 Makerspace](http://www.757makerspace.com), 421 W. 22nd Street Norfolk, Va 23517<br>
 Hours: 10am - 5pm EDT<br>
 Signup: [Norfolk.js Meetup Page](http://www.meetup.com/NorfolkJS/events/187172562/)<br>
-Sponsors: [Norfolk.js](http://www.norfolkjs.org), [757 Makerspace](http://www.757makerspace.com), [@SendGrid](http://www.sendgrid.com)   
+Sponsors: [Norfolk.js](http://www.norfolkjs.org), [757 Makerspace](http://www.757makerspace.com), [@SendGrid](http://www.sendgrid.com)
 Sponsors: We need sponsors! Tweet any organizer or Email stanzheng[a]codeforamerica.org!
 
 #### Austin, TX (Y'all)
 
 Organizers: [@kassandra_perch](https://twitter.com/kassandra_perch), [@pierceray](https://twitter.com/pierceray), [@dylants](https://twitter.com/dylants), [@austinnodebots](https://twitter.com/austinnodebots) <br>
-Location: TBD<br>
-Hours: TBD<br>
-Signup: Coming SOON!<br>
-Sponsors: We need sponsors! Email kassandra [a] kassandraperch.com!
+Location: RetailMeNot, Inc Headquarters<br>
+Hours: 9AM - 5PM<br>
+Signup: https://ti.to/austin-nodebots/nodebots-day-2014<br>
+Sponsors:
+
+* RetailMeNot
+* Jared Stilwell
+* Four Kitchens
+* Texas.gov
+
+We can always use more sponsors! Email kassandra [a] kassandraperch.com!
 
 #### Houston, TX
 
@@ -174,7 +181,7 @@ Location: The Edge, State Library of Queensland<br>
 Date: Saturday, 26 July<br>
 Hours: 12 - 6pm <br>
 Signup Coming SOON!<br>
-Sponsors: We need sponsors! 
+Sponsors: We need sponsors!
 
 #### Melbourne, Australia
 Organisers: [@ajfisher](https://twitter.com/ajfisher)<br>
@@ -182,7 +189,7 @@ Location: TBA - we're looking for a big space!!<br>
 Date: Saturday, 26 July<br>
 Hours: 10 - 5pm <br>
 Signup Coming SOON!<br>
-Sponsors: We need sponsors! 
+Sponsors: We need sponsors!
 
 #### Sydney, Australia
 Organisers: [@damonoehlman](https://twitter.com/damonoehlman)<br>
@@ -190,7 +197,7 @@ Location: NICTA, Technology Park<br>
 Date: Saturday, 26 July<br>
 Hours: 10 - 5pm <br>
 Signup Coming SOON!<br>
-Sponsors: We need sponsors! 
+Sponsors: We need sponsors!
 
 ### Africa
 
@@ -198,13 +205,13 @@ Sponsors: We need sponsors!
 Follow [@nodebotscpt](https://twitter.com/nodebotscpt) for updates
 
 #### Cape Town, South Africa
-Follow: [@nodebotscpt](https://twitter.com/nodebotscpt) for updates 
+Follow: [@nodebotscpt](https://twitter.com/nodebotscpt) for updates
 Organisers: [@avermeulen](https://twitter.com/avermeulen)<br>
 Location: [Cape Town Garage](http://www.capetowngarage.com/) Woodstock Exchange, 4th Floor, 66 Albert Road, Woodstock, Cape Town<br>
 Date: Saturday, 26 July<br>
 Hours: 10am - 6pm <br>
 Signup: Coming SOON!<br>
-Sponsors: We need sponsors! 
+Sponsors: We need sponsors!
 
 <!-- PLEASE ADD YOUR LOCAL INFORMATION -->
 
