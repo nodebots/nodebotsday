@@ -88,6 +88,13 @@ Hours: TBD<br>
 Signup: Coming SOON!<br>
 Sponsors: [PDXNode](http://www.pdxnode.org), We need sponsors! Email @hackygolucky
 
+#### Phoenix/Mesa, AZ
+Organizers: [@monteslu](https://twitter.com/monteslu)<br>
+Location: [HeatSync Labs](http://heatsynclabs.org)<br>
+Hours: 10AM - 5PM<br>
+Signup: Coming SOON!<br>
+Sponsors: [IcedDev](http://www.iceddev.com), We need sponsors! Email @monteslu
+
 #### Boston
 Organizers: [@jorydotcom](https://twitter.com/jorydotcom), [@rwaldron](https://twitter.com/rwaldron)<br>
 Location: [Bocoup Loft](https://www.google.com/maps/place/239+Causeway+St/@42.366203,-71.0595637,17z/data=!3m1!4b1!4m2!3m1!1s0x89e3708e6fd86657:0xa995f25a46e3c0cf)<br>
