@@ -184,15 +184,15 @@ Location: The Edge, State Library of Queensland<br>
 Date: Saturday, 26 July<br>
 Hours: 12 - 6pm <br>
 Signup Coming SOON!<br>
-Sponsors: We need sponsors!
+Sponsors: State Library of Queensland, we need a food & drink sponsor!
 
 #### Melbourne, Australia
 Organisers: [@ajfisher](https://twitter.com/ajfisher)<br>
-Location: TBA - we're looking for a big space!!<br>
+Location: NAB Village, 700 Bourke St.<br>
 Date: Saturday, 26 July<br>
-Hours: 10 - 5pm <br>
+Hours: 10 - 4pm <br>
 Signup Coming SOON!<br>
-Sponsors: We need sponsors!
+Sponsors: NAB Village, we need a food & drink sponsor!
 
 #### Sydney, Australia
 Organisers: [@damonoehlman](https://twitter.com/damonoehlman)<br>
@@ -200,7 +200,7 @@ Location: NICTA, Technology Park<br>
 Date: Saturday, 26 July<br>
 Hours: 10 - 5pm <br>
 Signup Coming SOON!<br>
-Sponsors: We need sponsors!
+Sponsors: NICTA, we need a food & drink sponsor!
 
 ### Africa
 
