@@ -28,8 +28,11 @@ This year let's take things a step further and connect the local events. If you'
 Organizers: [@dshaw](https://twitter.com/dshaw), [@rockbot](https://twitter.com/rockbot), [@stevesgill](https://twitter.com/stevesgill), <br>
 Location: [Adobe SF](http://bit.ly/14Jxl6M), 601 Townsend St (7th St), San Francisco, CA 94103<br>
 Hours: [10am - 5pm PT](http://www.worldtimebuddy.com/?qm=1&lid=5391959&h=5391959&date=2014-7-27&sln=10-17)<br>
-Signup: *COMING SOON*<br>
-Sponsors: [NodeSource](http://nodesource.com), [Adobe](http://adobe.com) + you can contribute too. Ping [@dshaw](https://twitter.com/dshaw) if you're interested in sponsoring NodeBots Day in SF.
+Signup: https://ti.to/nodebotsday/sf2014<br>
+Discount Codes:<br>
+└[ ∵ ]┘ [FREE - $0 Ticket](https://ti.to/nodebotsday/sf2014?discount_code=FREE) - Can't swing $10 for ***reasons***, please feel free to help out in other ways.<br>
+[┐∵]┘ [SOLID - $50 Ticket](https://ti.to/nodebotsday/sf2014?discount_code=SOLID) - NodeBots SF is awesome! I want to contribute more.<br>
+Sponsors: [NodeSource](http://nodesource.com), [Adobe](http://adobe.com) + you can contribute too. Ping [@dshaw](https://twitter.com/dshaw) if you're interested in sponsoring NodeBots Day in SF. We have space for additional hardware and food/drinks sponsors.
 
 #### Norfolk, VA
 
