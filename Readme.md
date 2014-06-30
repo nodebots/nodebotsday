@@ -61,9 +61,9 @@ We can always use more sponsors! Email kassandra [a] kassandraperch.com!
 #### Houston, TX
 
 Organizers: [@pandafulmanda](https://twitter.com/pandafulmanda), [@rookieone](https://twitter.com/rookieone), [@HoustonJS](https://twitter.com/HoustonJS) <br>
-Location: TBD<br>
-Hours: [9am - 5pm CDT]<br>
-Signup: Coming SOON!<br>
+Location: [TX/RX Labs](https://txrxlabs.org/), [directions](https://www.google.com/maps/preview?q=29.7508,-95.3405+(TX/RX+Labs,+205+Roberts+Street++Houston,+Texas))<br>
+Hours: 9am - 5pm CDT<br>
+Signup: https://ti.to/houstonjs/nodebotsday<br>
 Sponsors: TBD
 
 #### Las Vegas, MV (Meowada)
