@@ -190,7 +190,7 @@ Organisers: [@annagerber](https://twitter.com/annagerber), [@garrows](https://tw
 Location: The Edge, State Library of Queensland<br>
 Date: Saturday, 26 July<br>
 Hours: 12 - 6pm <br>
-Signup Coming SOON!<br>
+Signup: [Tickets available from $20](http://www.eventbrite.com.au/e/brisbanes-international-nodebots-day-tickets-12120977169)<br>
 Sponsors: State Library of Queensland, we need a food & drink sponsor!
 
 #### Melbourne, Australia
@@ -198,7 +198,7 @@ Organisers: [@ajfisher](https://twitter.com/ajfisher)<br>
 Location: NAB Village, 700 Bourke St.<br>
 Date: Saturday, 26 July<br>
 Hours: 10 - 4pm <br>
-Signup Coming SOON!<br>
+Signup: [Tickets from $20](http://www.eventbrite.com.au/e/nodebots-day-melbourne-july-2014-tickets-12121105553)<br>
 Sponsors: NAB Village, we need a food & drink sponsor!
 
 #### Sydney, Australia
@@ -206,7 +206,7 @@ Organisers: [@damonoehlman](https://twitter.com/damonoehlman)<br>
 Location: NICTA, Technology Park<br>
 Date: Saturday, 26 July<br>
 Hours: 10 - 5pm <br>
-Signup Coming SOON!<br>
+Signup: [Tckets from $20](https://ti.to/nbdau/nodebots-sydney-2014)<br>
 Sponsors: NICTA, we need a food & drink sponsor!
 
 ### Africa
