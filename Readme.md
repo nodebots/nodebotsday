@@ -46,15 +46,17 @@ Sponsors: We need sponsors! Tweet any organizer or Email stanzheng[a]codeforamer
 #### Austin, TX (Y'all)
 
 Organizers: [@kassandra_perch](https://twitter.com/kassandra_perch), [@pierceray](https://twitter.com/pierceray), [@dylants](https://twitter.com/dylants), [@austinnodebots](https://twitter.com/austinnodebots) <br>
-Location: RetailMeNot, Inc Headquarters<br>
+Location: RetailMeNot, Inc Headquarters, 301 Congress Ave.<br>
 Hours: 9AM - 5PM<br>
 Signup: https://ti.to/austin-nodebots/nodebots-day-2014<br>
+More Info: http://austinnodebots.com/<br>
 Sponsors:
 
-* RetailMeNot
-* Jared Stilwell
-* Four Kitchens
-* Texas.gov
+* [RetailMeNot](http://www.retailmenot.com)
+* [Jared Stilwell](https://twitter.com/meany_face)
+* [Four Kitchens](http://fourkitchens.com/)
+* [Watch Me Code](https://sub.watchmecode.net/austin-nodebots/)
+* [Texas.gov](http://www.texas.gov)
 
 We can always use more sponsors! Email kassandra [a] kassandraperch.com!
 
