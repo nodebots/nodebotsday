@@ -221,9 +221,9 @@ Follow: [@nodebotscpt](https://twitter.com/nodebotscpt) for updates
 Organisers: [@avermeulen](https://twitter.com/avermeulen)<br>
 Location: [Cape Town Garage](http://www.capetowngarage.com/) Woodstock Exchange, 4th Floor, 66 Albert Road, Woodstock, Cape Town<br>
 Date: Saturday, 26 July<br>
-Hours: 10am - 6pm <br>
-Signup: Coming SOON!<br>
-Sponsors: We need sponsors!
+Hours: 10am - 5pm <br>
+Signup: [Tickets R200](http://www.meetup.com/Cape-Town-Nodebots/events/190308642/)<br>
+Sponsors: [Food sponsored by Google Developer Cape Town](https://twitter.com/GDGCapeTown) We need more sponsors!
 
 <!-- PLEASE ADD YOUR LOCAL INFORMATION -->
 
