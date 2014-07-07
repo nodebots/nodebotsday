@@ -147,10 +147,10 @@ Sponsors: TBD<br>
 
 #### São Paulo, SP
 Organizers: [@tadeuzagallo](https://twitter.com/tadeuzagallo), [@FilipeNevola](https://twitter.com/FilipeNevola), [@0xFFranco](https://twitter.com/0xFFranco)<br>
-Location: TBD<br>
-Hours: TBD<br>
-Signup: Coming SOON!<br>
-Sponsors: We need sponsors! Email tadeuzagallo [at] gmail.com
+Location: [Germinadora](http://www.germinadora.com/) - [Directions](https://www.google.com/maps/place/R.+Eng.+Jos%C3%A9+S%C3%A1+Rocha,+173+-+Vila+Mariana/@-23.5986762,-46.6318829,17z/data=!3m1!4b1!4m2!3m1!1s0x94ce5bccb52bb37f:0x77af9b4d477559e4?hl=en-US)<br>
+Hours: 10am - 6pm GMT-3<br>
+Signup: [ti.to/nodebots-sp/nodebotsday2014](https://ti.to/nodebots-sp/nodebotsday2014)<br>
+Sponsors: Sponsors are still welcome! Email tadeuzagallo [at] gmail.com
 
 #### Distrito Federal, México
 Organizers: [@_Jurasec](https://twitter.com/_Jurasec), [@Siedrix](https://twitter.com/Siedrix), [@Quirarte](https://twitter.com/Quirarte) <br>
