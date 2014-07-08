@@ -72,8 +72,8 @@ Sponsors: TBD
 
 Organizers: [@makenai](https://twitter.com/makenai), [@noopkat](https://twitter.com/noopkat), [@godzirra](https://twitter.com/godzirra) <br>
 Location: [Pololu Robotics and Electronics](http://www.pololu.com/about)<br>
-Hours: 10am - 7pm PDT<br>
-Signup: Coming SOON!<br>
+Hours: 10am - 6pm PDT<br>
+Signup: [http://nodebotsdaylv.com](http://nodebotsdaylv.com)<br>
 Sponsors: [Pololu](http://www.pololu.com/)
 
 #### Miami/Fort Lauderdale, FL
