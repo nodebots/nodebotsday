@@ -40,7 +40,13 @@ Organizers: [@lynnaloo](https://twitter.com/lynnaloo), [@beauturner](https://twi
 Location: [757 Makerspace](http://www.757makerspace.com), 421 W. 22nd Street Norfolk, Va 23517<br>
 Hours: 10am - 5pm EDT<br>
 Signup: [Norfolk.js Meetup Page](http://www.meetup.com/NorfolkJS/events/187172562/)<br>
-Sponsors: [Norfolk.js](http://www.norfolkjs.org), [757 Makerspace](http://www.757makerspace.com), [@SendGrid](http://www.sendgrid.com)
+Sponsors: 
+* [Norfolk.js](http://www.norfolkjs.org) 
+* [757 Makerspace](http://www.757makerspace.com)
+* [SendGrid](http://www.sendgrid.com)
+* [Grow Interactive](http://www.thisisgrow.com)
+* [Local Heroes](http://www.localheroescomics.com/)
+
 Sponsors: We need sponsors! Tweet any organizer or Email stanzheng[a]codeforamerica.org!
 
 #### Austin, TX (Y'all)
