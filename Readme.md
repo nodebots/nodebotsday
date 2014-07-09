@@ -47,8 +47,10 @@ Sponsors:
 * [Grow Interactive](http://www.thisisgrow.com)
 * [Local Heroes](http://www.localheroescomics.com/)
 * [Github](http://www.github.com/)
+* [xTuple](http://www.xtuple.com/)
+* [The Hybrid Group](http://hybridgroup.com/)
 
-Sponsors: We need sponsors! Tweet any organizer or Email stanzheng[a]codeforamerica.org!
+Sponsors: We need sponsors! Tweet any organizer 
 
 #### Austin, TX (Y'all)
 
