@@ -142,10 +142,10 @@ Sponsors: [Universidad Galileo](http://galileo.edu), [Elemental Geeks](http://el
 
 #### Medellín, CO
 Organizers: [@julian_duque](https://twitter.com/julian_duque), [@zenedsadr](https://twitter.com/zenedsadr), [@MedellinJS](https://twitter.com/MedellinJS)<br>
-Location: TBD<br>
-Hours: TBD<br>
-Signup: TBD<br>
-Sponsors: [Ubidots](https://www.ubidots.com) and also we need sponsors for hardware, email: julianduquej [at] gmail.com<br>
+Location: [Atom House Medellìn](http://atomhouse.co/es/)<br>
+Hours: 9am - 5pm GMT-5<br>
+Signup: [https://ti.to/medellinjs/nodebotsday-2014-1](https://ti.to/medellinjs/nodebotsday-2014-1)<br>
+Sponsors: [Ubidots](https://www.ubidots.com), [@JeremyMorrell](https://twitter.com/jeremymorrell). We need more sponsors for hardware, if you are interested please email: julianduquej [at] gmail.com<br>
 
 #### Bogotá, CO
 Organizers: [@davsket](https://twitter.com/davsket), [@buritica](https://twitter.com/buritica), [@BogotaJS](https://twitter.com/BogotaJS)<br>
