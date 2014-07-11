@@ -164,9 +164,10 @@ Sponsors: Sponsors are still welcome! Email tadeuzagallo [at] gmail.com
 #### Distrito Federal, México
 Organizers: [@_Jurasec](https://twitter.com/_Jurasec), [@Siedrix](https://twitter.com/Siedrix), [@Quirarte](https://twitter.com/Quirarte) <br>
 Location: San Luis Potosí 211 Piso 8 Col.Roma CP06760 entre Medellin e Insurgentes, muy cerca de la estación de metrobús Sonora<br>
-Hours: TBD<br>
-Signup: TBD<br>
-Sponsors: [Hacedores.com](https://twitter.com/HacedoresCom), [http://www.kmmx.mx](http://www.kmmx.mx/), we need sponsors for hardware too, jurasec[at]gmail.com
+Hours: 9:00 AM - 14:00 PM <br>
+Signup: [here](https://www.eventbrite.com/e/nodebots-day-tickets-12246899807) <br>
+More info: [http://nodebots.mx/](http://nodebots.mx/) <br>
+Sponsors: [Hacedores.com](https://twitter.com/HacedoresCom), [http://www.kmmx.mx](http://www.kmmx.mx/), [@AbrahamOrtiz13](https://twitter.com/AbrahamOrtiz13), we need sponsors for hardware too, jurasec[at]gmail.com
 
 #### Guadalajara, Jalisco, México
 Organizers: [@makers_gdl](https://twitter.com/makers_gdl), [@techWomenC](https://twitter.com/techWomenC), [@hackerGarage](https://twitter.com/hackerGarage) <br>
