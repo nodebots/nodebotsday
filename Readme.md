@@ -149,11 +149,11 @@ Signup: [https://ti.to/medellinjs/nodebotsday-2014-1](https://ti.to/medellinjs/n
 Sponsors: [Ubidots](https://www.ubidots.com), [@JeremyMorrell](https://twitter.com/jeremymorrell). We need more sponsors for hardware, if you are interested please email: julianduquej [at] gmail.com<br>
 
 #### Bogotá, CO
-Organizers: [@davsket](https://twitter.com/davsket), [@buritica](https://twitter.com/buritica), [@BogotaJS](https://twitter.com/BogotaJS)<br>
-Location: TBD<br>
-Hours: TBD<br>
-Signup: TBD<br>
-Sponsors: TBD<br>
+Organizers: [@davsket](https://twitter.com/davsket), [@buritica](https://twitter.com/buritica), [@agar3s](https://twitter.com/agar3s), [@jorgezaccaro](https://twitter.com/jorgezaccaro), [@BogotaJS](https://twitter.com/BogotaJS)<br>
+Location: ViveLab Bogota [Map](http://bit.ly/vivelab)<br>
+Hours: 10am - 5pm<br>
+Signup: [nodebotsday.bogotajs.com](nodebotsday.bogotajs.com)<br>
+Sponsors: [mejorando.la](http://mejorando.la), [monoku](http://monoku.com), [BlueHome](http://bluehome.com.co), [@buritica](http://twitter.com/buritica)<br>
 
 #### São Paulo, SP
 Organizers: [@tadeuzagallo](https://twitter.com/tadeuzagallo), [@FilipeNevola](https://twitter.com/FilipeNevola), [@0xFFranco](https://twitter.com/0xFFranco)<br>
