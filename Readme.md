@@ -105,7 +105,8 @@ Organizers: [@monteslu](https://twitter.com/monteslu)<br>
 Location: [HeatSync Labs](http://heatsynclabs.org)<br>
 Hours: 10AM - 5PM<br>
 Signup: Coming SOON!<br>
-Sponsors: [IcedDev](http://www.iceddev.com), We need sponsors! Email @monteslu
+Sponsors: [IcedDev](http://www.iceddev.com), [Octoblu](http://octoblu.com) (AKA SkyNet.im)<br>
+└[ ∵ ]┘ FREE Arduino Unos to the first 25 [registrants](http://www.meetup.com/Coffee-and-Code-East-Valley/events/194976142/)!
 
 #### Boston
 Organizers: [@jorydotcom](https://twitter.com/jorydotcom), [@rwaldron](https://twitter.com/rwaldron)<br>
