@@ -199,6 +199,14 @@ Hours: 11 - 6pm <br>
 Signup: Coming SOON!<br>
 Sponsors: [carrefour numérique](http://www.cite-sciences.fr/en/explore/learn/carrefour-numerique2/)
 
+#### Kazan, Russia
+Organisers: [@mansuleman](https://twitter.com/mansuleman)<br>
+Location: NavigatorCampus (http://navigatorcampus.com/)<br>
+Date: Sunday, 27 July<br>
+Hours: 10 - 5pm GMT +4<br>
+Signup: coming soon...<br>
+Sponsors: NavigatorCampus (http://navigatorcampus.com/) + we are open to be sponsored
+
 <!-- PLEASE ADD YOUR LOCAL INFORMATION -->
 
 ### Asia-Pacific
@@ -249,6 +257,8 @@ Sponsors: [Food sponsored by Google Developer Cape Town](https://twitter.com/GDG
 ## Sponsor
 
 If you're interested in contributing to this event, please consider hosting a space, contributing hardware to hack on, and/or providing drinks, snacks and food.
+
+
 
 ## Todo
 
