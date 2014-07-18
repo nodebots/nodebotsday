@@ -185,10 +185,11 @@ Sponsors: [Makers GDL](https://twitter.com/HacedoresCom) we need sponsors! Email
 #### London, United Kingdom
 Updates: [@nodebotsuk](https://twitter.com/nodebotsuk)<br>
 Organisers: [@_alanshaw](https://twitter.com/_alanshaw), [@achingbrain](https://twitter.com/achingbrain), [@olizilla](https://twitter.com/olizilla)<br>
-Location: TBD<br>
+Location: [uSwitch](https://www.google.com/maps/place/Notcutt+House,+36+Southwark+Bridge+Rd,+London+SE1+9EU,+UK/@51.5061206,-0.0958589,17z/data=!3m1!4b1!4m7!1m4!3m3!1s0x487604a8447135c3:0x5e947ad279c81bcb!2sNotcutt+House,+36+Southwark+Bridge+Rd,+London+SE1+9EU,+UK!3b1!3m1!1s0x487604a8447135c3:0x5e947ad279c81bcb?hl=en) 36 Southwark Bridge Road, SE1 9EU<br>
 Date: Sunday, 27 July<br>
-Hours: 10 - 6pm <br>
-Signup: Coming SOON!<br>
+Hours: 10 - 5pm <br>
+Signup: [Meetup.com](http://www.meetup.com/NodeBots-of-London/events/194172342/)<br>
+Kit: [FootballBot!](https://ti.to/tableflip/nodebots-of-london-july-2014)<br>
 Sponsors: Gladly accepted
 
 #### Paris, France
