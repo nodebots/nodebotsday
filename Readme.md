@@ -50,6 +50,7 @@ Sponsors:
 * [xTuple](http://www.xtuple.com/)
 * [The Hybrid Group](http://hybridgroup.com/)
 * [Sway Labs](http://madebysway.com/)
+* [Carry Norfolk](http://www.carrynorfolk.com/)
 
 Sponsors: We need sponsors! Tweet any organizer 
 
