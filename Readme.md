@@ -229,7 +229,7 @@ Location: NAB Village, 700 Bourke St.<br>
 Date: Saturday, 26 July<br>
 Hours: 10 - 4pm <br>
 Signup: [Tickets from $20](http://www.eventbrite.com.au/e/nodebots-day-melbourne-july-2014-tickets-12121105553)<br>
-Sponsors: NAB Village, we need a food & drink sponsor!
+Sponsors: Location sponsored by [NAB Village](http://www.nab.com.au/personal/campaigns/the-village) and food and drink sponsored by [PaperCut](http://www.papercut.com/).
 
 #### Sydney, Australia
 Organisers: [@damonoehlman](https://twitter.com/damonoehlman)<br>
