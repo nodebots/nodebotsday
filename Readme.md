@@ -221,7 +221,7 @@ Location: The Edge, State Library of Queensland<br>
 Date: Saturday, 26 July<br>
 Hours: 12 - 6pm <br>
 Signup: [Tickets available from $20](http://www.eventbrite.com.au/e/brisbanes-international-nodebots-day-tickets-12120977169)<br>
-Sponsors: State Library of Queensland, we need a food & drink sponsor!
+Sponsors: Location sponsored by [State Library of Queensland](http://www.slq.qld.gov.au/) and food and drink sponsored by [Sidelab.com](http://sidelab.com).
 
 #### Melbourne, Australia
 Organisers: [@ajfisher](https://twitter.com/ajfisher)<br>
