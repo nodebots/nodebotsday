@@ -209,6 +209,17 @@ Hours: 10 - 5pm GMT +4<br>
 Signup: coming soon...<br>
 Sponsors: NavigatorCampus (http://navigatorcampus.com/) + we are open to be sponsored
 
+
+#### Lisbon, Portugal
+Updates: [@xicombd](https://twitter.com/xicombd)<br>
+Organisers: [@xicombd](https://twitter.com/xicombd), [@igorsoarez](https://twitter.com/igorsoarez), [@luismreis](https://twitter.com/luismreis)<br>
+Location: TBA<br>
+Date: Saturday, 26 July<br>
+Hours: TBA<br>
+Signup: [ti.to](https://ti.to/sinfo/nodebots-day-lisbon/)<br>
+Sponsors: Gladly accepted
+
+
 <!-- PLEASE ADD YOUR LOCAL INFORMATION -->
 
 ### Asia-Pacific
