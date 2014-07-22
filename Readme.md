@@ -32,7 +32,13 @@ Signup: https://ti.to/nodebotsday/sf2014<br>
 Discount Codes:<br>
 └[ ∵ ]┘ [FREE - $0 Ticket](https://ti.to/nodebotsday/sf2014?discount_code=FREE) - Can't swing $10 for ***reasons***, please feel free to help out in other ways.<br>
 [┐∵]┘ [SOLID - $50 Ticket](https://ti.to/nodebotsday/sf2014?discount_code=SOLID) - NodeBots SF is awesome! I want to contribute more.<br>
-Sponsors: [NodeSource](http://nodesource.com), [Adobe](http://adobe.com) + you can contribute too. Ping [@dshaw](https://twitter.com/dshaw) if you're interested in sponsoring NodeBots Day in SF. We have space for additional hardware and food/drinks sponsors.
+Sponsors:
+
+* [NodeSource](https://nodesource.com)
+* [Adobe](http://adobe.com)
+* [Tessel](https://tessel.io)
+
+You can contribute too. Ping [@dshaw](https://twitter.com/dshaw) if you're interested in sponsoring NodeBots Day in SF. We have space for additional hardware and food/drinks sponsors.
 
 #### Norfolk, VA
 
