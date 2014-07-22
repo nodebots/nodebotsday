@@ -61,6 +61,7 @@ Sponsors: We need sponsors! Tweet any organizer
 
 Organizers: [@kassandra_perch](https://twitter.com/kassandra_perch), [@pierceray](https://twitter.com/pierceray), [@dylants](https://twitter.com/dylants), [@austinnodebots](https://twitter.com/austinnodebots) <br>
 Location: RetailMeNot, Inc Headquarters, 301 Congress Ave.<br>
+Date: July 27th, 2014<br>
 Hours: 9AM - 5PM<br>
 Signup: https://ti.to/austin-nodebots/nodebots-day-2014 (SOLD OUT)<br>
 More Info: http://austinnodebots.com/<br>
