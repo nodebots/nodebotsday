@@ -158,6 +158,7 @@ Sponsors: [Ubidots](https://www.ubidots.com), [Pygmalion Robótica](http://pygma
 #### Bogotá, CO
 Organizers: [@davsket](https://twitter.com/davsket), [@buritica](https://twitter.com/buritica), [@agar3s](https://twitter.com/agar3s), [@jorgezaccaro](https://twitter.com/jorgezaccaro), [@BogotaJS](https://twitter.com/BogotaJS)<br>
 Location: ViveLab Bogota [Map](http://bit.ly/vivelab)<br>
+Date: Sunday, 27 July
 Hours: 10am - 5pm<br>
 Signup: [nodebotsday.bogotajs.com](nodebotsday.bogotajs.com)<br>
 Sponsors: [mejorando.la](http://mejorando.la), [monoku](http://monoku.com), [BlueHome](http://bluehome.com.co), [@buritica](http://twitter.com/buritica)<br>
