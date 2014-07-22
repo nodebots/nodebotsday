@@ -213,11 +213,11 @@ Sponsors: NavigatorCampus (http://navigatorcampus.com/) + we are open to be spon
 #### Lisbon, Portugal
 Updates: [@xicombd](https://twitter.com/xicombd)<br>
 Organisers: [@xicombd](https://twitter.com/xicombd), [@igorsoarez](https://twitter.com/igorsoarez), [@luismreis](https://twitter.com/luismreis)<br>
-Location: TBA<br>
+Location: [Startup Lisboa](http://startuplisboa.com/contact/), Rua da Prata, 80, 1100-420 Lisboa<br>
 Date: Saturday, 26 July<br>
-Hours: TBA<br>
+Hours: 15h00 - 19h00<br>
 Signup: [ti.to](https://ti.to/sinfo/nodebots-day-lisbon/)<br>
-Sponsors: Gladly accepted
+Sponsor: [CrowdProcess](https://crowdprocess.com/)
 
 
 <!-- PLEASE ADD YOUR LOCAL INFORMATION -->
