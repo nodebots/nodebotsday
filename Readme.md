@@ -1,4 +1,7 @@
-# NodeBots Day 7/27
+## Participating in Norfolk, VA? [Click Here](https://github.com/norfolkjs/nodebotsday/wiki)
+---
+---
+## NodeBots Day 7/27
 
 NodeBots Day is back for 2014. We'll join together across the world to create and learn.
 
@@ -50,6 +53,7 @@ Sponsors:
 * [xTuple](http://www.xtuple.com/)
 * [The Hybrid Group](http://hybridgroup.com/)
 * [Sway Labs](http://madebysway.com/)
+* [Carry Norfolk](http://www.carrynorfolk.com/)
 
 Sponsors: We need sponsors! Tweet any organizer 
 
