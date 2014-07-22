@@ -1,7 +1,7 @@
 ## Participating in Norfolk, VA? [Click Here](https://github.com/norfolkjs/nodebotsday/wiki)
 ---
 ---
-## NodeBots Day 7/27
+## NodeBots Day 7/26, 7/27
 
 NodeBots Day is back for 2014. We'll join together across the world to create and learn.
 
