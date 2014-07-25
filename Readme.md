@@ -229,7 +229,7 @@ Organisers: [@mansuleman](https://twitter.com/mansuleman)<br>
 Location: NavigatorCampus (http://navigatorcampus.com/)<br>
 Date: Sunday, 27 July<br>
 Hours: 10 - 5pm GMT +4<br>
-Signup: coming soon...<br>
+Signup: http://navigatorcampus.timepad.ru/event/130431/<br>
 Sponsors: NavigatorCampus (http://navigatorcampus.com/) + we are open to be sponsored
 
 
