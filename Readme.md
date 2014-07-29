@@ -95,7 +95,7 @@ Organizers: [@makenai](https://twitter.com/makenai), [@noopkat](https://twitter.
 Location: [Pololu Robotics and Electronics](http://www.pololu.com/about)<br>
 Hours: Saturday, July 27th. 10am - 6pm PDT<br>
 Signup: [http://nodebotsdaylv.com](http://nodebotsdaylv.com)<br>
-Sponsors: [Pololu](http://www.pololu.com/) [Las Vegas Hardware Startups](http://lvhardware.com/) [Zappos.com](http://www.zappos.com) @realchaseadams
+Sponsors: [Pololu](http://www.pololu.com/), [Las Vegas Hardware Startups](http://lvhardware.com/), [Zappos.com](http://www.zappos.com), [Chase Adams](http://twitter.com/realchaseadams)
 
 #### Miami/Fort Lauderdale, FL
 Organizers: [@onel0p3z](https://twitter.com/onel0p3z), [@nightshiftc](https://twitter.com/nightshiftc), [@angel_cuemby](https://twitter.com/angel_cuemby)<br>
