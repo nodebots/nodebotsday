@@ -1,6 +1,6 @@
-## NodeBots Day 7/27 (and 7/26 this year)
+## NodeBots Day July 25 2015
 
-NodeBots Day is back for 2014. We'll join together across the world to create and learn.
+NodeBots Day is back for 2015. We'll join together across the world to create and learn.
 
 NodeBots Day is not a hackathon. There will be no prizes other than the satisfaction of making something awesome! There will be very little in the way of talks. We're going to get together, collaborate and hack. The focus of NodeBots Day is on sharing and enjoying each other's company. And JavaScript. Lots of JavaScript.
 
@@ -19,7 +19,9 @@ With NodeBots 2013 @dshaw's goal was to help take the community atmosphere of JS
 
 This year let's take things a step further and connect the local events. If you'd like to help connect everybody, please volunteer.
 
-## Locations
+## 2015 Locations TO BE ANNOUNCED
+
+## 2014 Locations
 
 ### North America
 
