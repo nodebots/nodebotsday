@@ -1,9 +1,6 @@
-## Participating in Norfolk, VA? [Click Here](https://github.com/norfolkjs/nodebotsday/wiki)
----
----
-## NodeBots Day 7/27
+## NodeBots Day July 25 2015
 
-NodeBots Day is back for 2014. We'll join together across the world to create and learn.
+NodeBots Day is back for 2015. We'll join together across the world to create and learn.
 
 NodeBots Day is not a hackathon. There will be no prizes other than the satisfaction of making something awesome! There will be very little in the way of talks. We're going to get together, collaborate and hack. The focus of NodeBots Day is on sharing and enjoying each other's company. And JavaScript. Lots of JavaScript.
 
@@ -22,7 +19,9 @@ With NodeBots 2013 @dshaw's goal was to help take the community atmosphere of JS
 
 This year let's take things a step further and connect the local events. If you'd like to help connect everybody, please volunteer.
 
-## Locations
+## 2015 Locations TO BE ANNOUNCED
+
+## 2014 Locations
 
 ### North America
 
@@ -35,7 +34,13 @@ Signup: https://ti.to/nodebotsday/sf2014<br>
 Discount Codes:<br>
 └[ ∵ ]┘ [FREE - $0 Ticket](https://ti.to/nodebotsday/sf2014?discount_code=FREE) - Can't swing $10 for ***reasons***, please feel free to help out in other ways.<br>
 [┐∵]┘ [SOLID - $50 Ticket](https://ti.to/nodebotsday/sf2014?discount_code=SOLID) - NodeBots SF is awesome! I want to contribute more.<br>
-Sponsors: [NodeSource](http://nodesource.com), [Adobe](http://adobe.com) + you can contribute too. Ping [@dshaw](https://twitter.com/dshaw) if you're interested in sponsoring NodeBots Day in SF. We have space for additional hardware and food/drinks sponsors.
+Sponsors:
+
+* [NodeSource](https://nodesource.com)
+* [Adobe](http://adobe.com)
+* [Tessel](https://tessel.io)
+
+You can contribute too. Ping [@dshaw](https://twitter.com/dshaw) if you're interested in sponsoring NodeBots Day in SF. We have space for additional hardware and food/drinks sponsors.
 
 #### Norfolk, VA
 
@@ -57,12 +62,15 @@ Sponsors:
 
 Sponsors: We need sponsors! Tweet any organizer 
 
+**Participating in Norfolk, VA? [Click Here](https://github.com/norfolkjs/nodebotsday/wiki)**
+
 #### Austin, TX (Y'all)
 
 Organizers: [@kassandra_perch](https://twitter.com/kassandra_perch), [@pierceray](https://twitter.com/pierceray), [@dylants](https://twitter.com/dylants), [@austinnodebots](https://twitter.com/austinnodebots) <br>
 Location: RetailMeNot, Inc Headquarters, 301 Congress Ave.<br>
+Date: July 27th, 2014<br>
 Hours: 9AM - 5PM<br>
-Signup: https://ti.to/austin-nodebots/nodebots-day-2014<br>
+Signup: https://ti.to/austin-nodebots/nodebots-day-2014 (SOLD OUT)<br>
 More Info: http://austinnodebots.com/<br>
 Sponsors:
 
@@ -70,6 +78,7 @@ Sponsors:
 * [Jared Stilwell](https://twitter.com/meany_face)
 * [Four Kitchens](http://fourkitchens.com/)
 * [Watch Me Code](https://sub.watchmecode.net/austin-nodebots/)
+* [BazaarVoice](http://www.bazaarvoice.com/)
 * [Texas.gov](http://www.texas.gov)
 
 We can always use more sponsors! Email kassandra [a] kassandraperch.com!
@@ -86,9 +95,9 @@ Sponsors: TBD
 
 Organizers: [@makenai](https://twitter.com/makenai), [@noopkat](https://twitter.com/noopkat), [@godzirra](https://twitter.com/godzirra) <br>
 Location: [Pololu Robotics and Electronics](http://www.pololu.com/about)<br>
-Hours: 10am - 6pm PDT<br>
+Hours: Saturday, July 27th. 10am - 6pm PDT<br>
 Signup: [http://nodebotsdaylv.com](http://nodebotsdaylv.com)<br>
-Sponsors: [Pololu](http://www.pololu.com/)
+Sponsors: [Pololu](http://www.pololu.com/), [Las Vegas Hardware Startups](http://lvhardware.com/), [Zappos.com](http://www.zappos.com), [Chase Adams](http://twitter.com/realchaseadams)
 
 #### Miami/Fort Lauderdale, FL
 Organizers: [@onel0p3z](https://twitter.com/onel0p3z), [@nightshiftc](https://twitter.com/nightshiftc), [@angel_cuemby](https://twitter.com/angel_cuemby)<br>
@@ -109,7 +118,8 @@ Organizers: [@monteslu](https://twitter.com/monteslu)<br>
 Location: [HeatSync Labs](http://heatsynclabs.org)<br>
 Hours: 10AM - 5PM<br>
 Signup: Coming SOON!<br>
-Sponsors: [IcedDev](http://www.iceddev.com), We need sponsors! Email @monteslu
+Sponsors: [IcedDev](http://www.iceddev.com), [Octoblu](http://octoblu.com) (AKA SkyNet.im)<br>
+└[ ∵ ]┘ FREE Arduino Unos to the first 25 [registrants](http://www.meetup.com/Coffee-and-Code-East-Valley/events/194976142/)!
 
 #### Boston
 Organizers: [@jorydotcom](https://twitter.com/jorydotcom), [@rwaldron](https://twitter.com/rwaldron)<br>
@@ -147,14 +157,26 @@ Sponsors: [Universidad Galileo](http://galileo.edu), [Elemental Geeks](http://el
 
 #### Medellín, CO
 Organizers: [@julian_duque](https://twitter.com/julian_duque), [@zenedsadr](https://twitter.com/zenedsadr), [@MedellinJS](https://twitter.com/MedellinJS)<br>
-Location: [Atom House Medellìn](http://atomhouse.co/es/)<br>
+##### July 26
+Location: [Atom House Medellín](http://atomhouse.co/es/)<br>
 Hours: 9am - 5pm GMT-5<br>
-Signup: [https://ti.to/medellinjs/nodebotsday-2014-1](https://ti.to/medellinjs/nodebotsday-2014-1)<br>
-Sponsors: [Ubidots](https://www.ubidots.com), [Pygmalion Robótica](http://pygmalion.com.co), [@JeremyMorrell](https://twitter.com/jeremymorrell). We need more sponsors for hardware, if you are interested please email: julianduquej [at] gmail.com<br>
+Signup: [https://ti.to/medellinjs/nodebotsday-2014-1](https://ti.to/medellinjs/nodebotsday-2014-1) (SOLD OUT)<br>
+##### July 27
+Location: [Ruta N Medellín](http://rutanmedellin.org/)<br>
+Hours: 9am - 5pm GMT-5<br>
+Signup: [https://ti.to/medellinjs/nodebotsday-2014-2](https://ti.to/medellinjs/nodebotsday-2014-2)<br>
+Sponsors: 
+* [Ubidots](https://www.ubidots.com)
+* [Pygmalion Robótica](http://pygmalion.com.co)
+* [Atom House Medellín](http://atomhouse.co/es/)
+* [Ruta N Medellín](http://rutanmedellin.org/)
+* [@JeremyMorrell](https://twitter.com/jeremymorrell) 
+* We need more sponsors for hardware, if you are interested please email: julianduquej [at] gmail.com<br>
 
 #### Bogotá, CO
 Organizers: [@davsket](https://twitter.com/davsket), [@buritica](https://twitter.com/buritica), [@agar3s](https://twitter.com/agar3s), [@jorgezaccaro](https://twitter.com/jorgezaccaro), [@BogotaJS](https://twitter.com/BogotaJS)<br>
 Location: ViveLab Bogota [Map](http://bit.ly/vivelab)<br>
+Date: Sunday, 27 July
 Hours: 10am - 5pm<br>
 Signup: [nodebotsday.bogotajs.com](nodebotsday.bogotajs.com)<br>
 Sponsors: [mejorando.la](http://mejorando.la), [monoku](http://monoku.com), [BlueHome](http://bluehome.com.co), [@buritica](http://twitter.com/buritica)<br>
@@ -169,10 +191,11 @@ Sponsors: Sponsors are still welcome! Email tadeuzagallo [at] gmail.com
 #### Distrito Federal, México
 Organizers: [@_Jurasec](https://twitter.com/_Jurasec), [@Siedrix](https://twitter.com/Siedrix), [@Quirarte](https://twitter.com/Quirarte) <br>
 Location: San Luis Potosí 211 Piso 8 Col.Roma CP06760 entre Medellin e Insurgentes, muy cerca de la estación de metrobús Sonora<br>
+Date: Saturday, 26 July <br>
 Hours: 9:00 AM - 14:00 PM <br>
 Signup: [here](https://www.eventbrite.com/e/nodebots-day-tickets-12246899807) <br>
 More info: [http://nodebots.mx/](http://nodebots.mx/) <br>
-Sponsors: [Hacedores.com](https://twitter.com/HacedoresCom), [http://www.kmmx.mx](http://www.kmmx.mx/), [@AbrahamOrtiz13](https://twitter.com/AbrahamOrtiz13), we need sponsors for hardware too, jurasec[at]gmail.com
+Sponsors: [Hacedores.com](https://twitter.com/HacedoresCom), [http://www.kmmx.mx](http://www.kmmx.mx/), [@AbrahamOrtiz13](https://twitter.com/AbrahamOrtiz13),  [@330ohms](https://twitter.com/330ohms), we need sponsors for hardware too, jurasec[at]gmail.com
 
 #### Guadalajara, Jalisco, México
 Organizers: [@makers_gdl](https://twitter.com/makers_gdl), [@techWomenC](https://twitter.com/techWomenC), [@hackerGarage](https://twitter.com/hackerGarage) <br>
@@ -188,10 +211,11 @@ Sponsors: [Makers GDL](https://twitter.com/HacedoresCom) we need sponsors! Email
 #### London, United Kingdom
 Updates: [@nodebotsuk](https://twitter.com/nodebotsuk)<br>
 Organisers: [@_alanshaw](https://twitter.com/_alanshaw), [@achingbrain](https://twitter.com/achingbrain), [@olizilla](https://twitter.com/olizilla)<br>
-Location: TBD<br>
+Location: [uSwitch](https://www.google.com/maps/place/Notcutt+House,+36+Southwark+Bridge+Rd,+London+SE1+9EU,+UK/@51.5061206,-0.0958589,17z/data=!3m1!4b1!4m7!1m4!3m3!1s0x487604a8447135c3:0x5e947ad279c81bcb!2sNotcutt+House,+36+Southwark+Bridge+Rd,+London+SE1+9EU,+UK!3b1!3m1!1s0x487604a8447135c3:0x5e947ad279c81bcb?hl=en) 36 Southwark Bridge Road, SE1 9EU<br>
 Date: Sunday, 27 July<br>
-Hours: 10 - 6pm <br>
-Signup: Coming SOON!<br>
+Hours: 10 - 5pm <br>
+Signup: [Meetup.com](http://www.meetup.com/NodeBots-of-London/events/194172342/)<br>
+Kit: [FootballBot!](https://ti.to/tableflip/nodebots-of-london-july-2014)<br>
 Sponsors: Gladly accepted
 
 #### Paris, France
@@ -201,6 +225,24 @@ Date: saturday, 26 July<br>
 Hours: 11 - 6pm <br>
 Signup: Coming SOON!<br>
 Sponsors: [carrefour numérique](http://www.cite-sciences.fr/en/explore/learn/carrefour-numerique2/)
+
+#### Kazan, Russia
+Organisers: [@mansuleman](https://twitter.com/mansuleman)<br>
+Location: NavigatorCampus (http://navigatorcampus.com/)<br>
+Date: Sunday, 27 July<br>
+Hours: 10 - 5pm GMT +4<br>
+Signup: http://navigatorcampus.timepad.ru/event/135276/<br>
+Sponsors: NavigatorCampus (http://navigatorcampus.com/)
+
+#### Lisbon, Portugal
+Updates: [@xicombd](https://twitter.com/xicombd)<br>
+Organisers: [@xicombd](https://twitter.com/xicombd), [@igorsoarez](https://twitter.com/igorsoarez), [@luismreis](https://twitter.com/luismreis)<br>
+Location: [Startup Lisboa](http://startuplisboa.com/contact/), Rua da Prata, 80, 1100-420 Lisboa<br>
+Date: Saturday, 26 July<br>
+Hours: 15h00 - 19h00<br>
+Signup: [ti.to](https://ti.to/sinfo/nodebots-day-lisbon/)<br>
+Sponsor: [CrowdProcess](https://crowdprocess.com/)
+
 
 <!-- PLEASE ADD YOUR LOCAL INFORMATION -->
 
@@ -215,7 +257,7 @@ Location: The Edge, State Library of Queensland<br>
 Date: Saturday, 26 July<br>
 Hours: 12 - 6pm <br>
 Signup: [Tickets available from $20](http://www.eventbrite.com.au/e/brisbanes-international-nodebots-day-tickets-12120977169)<br>
-Sponsors: State Library of Queensland, we need a food & drink sponsor!
+Sponsors: Location sponsored by [State Library of Queensland](http://www.slq.qld.gov.au/) and food and drink sponsored by [NGUTechnology.com.au](http://NGUTechnology.com.au).
 
 #### Melbourne, Australia
 Organisers: [@ajfisher](https://twitter.com/ajfisher)<br>
@@ -223,7 +265,7 @@ Location: NAB Village, 700 Bourke St.<br>
 Date: Saturday, 26 July<br>
 Hours: 10 - 4pm <br>
 Signup: [Tickets from $20](http://www.eventbrite.com.au/e/nodebots-day-melbourne-july-2014-tickets-12121105553)<br>
-Sponsors: NAB Village, we need a food & drink sponsor!
+Sponsors: Location sponsored by [NAB Village](http://www.nab.com.au/personal/campaigns/the-village) and food and drink sponsored by [PaperCut](http://www.papercut.com/).
 
 #### Sydney, Australia
 Organisers: [@damonoehlman](https://twitter.com/damonoehlman)<br>
@@ -252,6 +294,8 @@ Sponsors: [Food sponsored by Google Developer Cape Town](https://twitter.com/GDG
 ## Sponsor
 
 If you're interested in contributing to this event, please consider hosting a space, contributing hardware to hack on, and/or providing drinks, snacks and food.
+
+
 
 ## Todo
 
