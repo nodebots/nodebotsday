@@ -44,21 +44,19 @@ You can contribute too. Ping [@dshaw](https://twitter.com/dshaw) if you're inter
 
 #### Norfolk, VA
 
-Organizers: [@lynnaloo](https://twitter.com/lynnaloo), [@beauturner](https://twitter.com/beauturner), [@tjwebb](https://twitter.com/traviswebbusa), [@_bmf_](https://twitter.com/_bmf_), [@stanzheng](https://twitter.com/stanzheng) <br>
+Organizers: [@lynnaloo](https://twitter.com/lynnaloo), [@beauturner](https://twitter.com/beauturner), [@tjwebb](https://twitter.com/traviswebbusa), [@_bmf_](https://twitter.com/_bmf_), [@stanzheng](https://twitter.com/stanzheng), Tom Wilk <br>
 Location: [757 Makerspace](http://www.757makerspace.com), 421 W. 22nd Street Norfolk, Va 23517<br>
 Hours: 10am - 5pm EDT<br>
-Signup: [Norfolk.js Meetup Page](http://www.meetup.com/NorfolkJS/events/187172562/)<br>
+Signup: [Norfolk.js Meetup Page](http://www.meetup.com/NorfolkJS/events/221347964/)<br>
 Sponsors: 
 * [Norfolk.js](http://www.norfolkjs.org) 
 * [757 Makerspace](http://www.757makerspace.com)
-* [SendGrid](http://www.sendgrid.com)
-* [Grow Interactive](http://www.thisisgrow.com)
+* [Grow](http://www.thisisgrow.com)
 * [Local Heroes](http://www.localheroescomics.com/)
 * [Github](http://www.github.com/)
-* [xTuple](http://www.xtuple.com/)
 * [The Hybrid Group](http://hybridgroup.com/)
 * [Sway Labs](http://madebysway.com/)
-* [Carry Norfolk](http://www.carrynorfolk.com/)
+* [CodeBetter.com](http://www.codebetter.com/)
 
 Sponsors: We need sponsors! Tweet any organizer 
 
