@@ -19,7 +19,18 @@ With NodeBots 2013 @dshaw's goal was to help take the community atmosphere of JS
 
 This year let's take things a step further and connect the local events. If you'd like to help connect everybody, please volunteer.
 
-## 2015 Locations TO BE ANNOUNCED
+## 2015 Locations (TO BE ANNOUNCED)
+
+### Latin America
+
+#### Montevideo, Uruguay
+
+Organizers: [@kryz](https://twitter.com/nicodev_23), [@pricco](https://twitter.com/pricco), [@molivera](https://twitter.com/moliveraf), <br>
+Location: [Sophilabs](https://www.google.com/maps/place/Sophilabs/@-34.897468,-56.160836,17z/data=!3m1!4b1!4m2!3m1!1s0x959f81aae847f84d:0x4fc3981417da9ed6), 2517 Prudencio de Pena, Montevideo, Uruguay<br>
+Hours: [10am - 4pm GTM-3](http://www.worldtimebuddy.com/?qm=1&lid=3441575,5128581,5391959&h=3441575&date=2015-7-25&sln=10-17)<br>
+Signup: https://ti.to/sophilabs/nodebots-25th-jul-2015<br>
+Sponsors:
+* [Sophilabs](http://sophilabs.co)
 
 ## 2014 Locations
 
@@ -48,8 +59,8 @@ Organizers: [@lynnaloo](https://twitter.com/lynnaloo), [@beauturner](https://twi
 Location: [757 Makerspace](http://www.757makerspace.com), 421 W. 22nd Street Norfolk, Va 23517<br>
 Hours: 10am - 5pm EDT<br>
 Signup: [Norfolk.js Meetup Page](http://www.meetup.com/NorfolkJS/events/221347964/)<br>
-Sponsors: 
-* [Norfolk.js](http://www.norfolkjs.org) 
+Sponsors:
+* [Norfolk.js](http://www.norfolkjs.org)
 * [757 Makerspace](http://www.757makerspace.com)
 * [Grow](http://www.thisisgrow.com)
 * [Local Heroes](http://www.localheroescomics.com/)
@@ -58,7 +69,7 @@ Sponsors:
 * [Sway Labs](http://madebysway.com/)
 * [CodeBetter.com](http://www.codebetter.com/)
 
-Sponsors: We need sponsors! Tweet any organizer 
+Sponsors: We need sponsors! Tweet any organizer
 
 **Participating in Norfolk, VA? [Click Here](https://github.com/norfolkjs/nodebotsday/wiki)**
 
@@ -163,12 +174,12 @@ Signup: [https://ti.to/medellinjs/nodebotsday-2014-1](https://ti.to/medellinjs/n
 Location: [Ruta N Medellín](http://rutanmedellin.org/)<br>
 Hours: 9am - 5pm GMT-5<br>
 Signup: [https://ti.to/medellinjs/nodebotsday-2014-2](https://ti.to/medellinjs/nodebotsday-2014-2)<br>
-Sponsors: 
+Sponsors:
 * [Ubidots](https://www.ubidots.com)
 * [Pygmalion Robótica](http://pygmalion.com.co)
 * [Atom House Medellín](http://atomhouse.co/es/)
 * [Ruta N Medellín](http://rutanmedellin.org/)
-* [@JeremyMorrell](https://twitter.com/jeremymorrell) 
+* [@JeremyMorrell](https://twitter.com/jeremymorrell)
 * We need more sponsors for hardware, if you are interested please email: julianduquej [at] gmail.com<br>
 
 #### Bogotá, CO
