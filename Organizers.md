@@ -38,7 +38,7 @@ Follow [@nodebotsday](http://twitter.com/nodebotsday) for details and join the [
 
 Hello Organizers!!
 
-1. NodeBots Day is coming up! 7/27 is the day, hardware hacking is the game. Please be sure to keep up with the repo at https://github.com/nodebots/nodebotsday. Star it, watch it, whatever. Just try to keep up with the changes so we're all on the same page.
+1. NodeBots Day is coming up! 7/25 is the day, hardware hacking is the game. Please be sure to keep up with the repo at https://github.com/nodebots/nodebotsday. Star it, watch it, whatever. Just try to keep up with the changes so we're all on the same page.
 
 2. The NYC group is hosting an organizer hangout on G+ tomorrow (Sunday, June 22) at 6:30PM US Pacific Time. (I'm sure @buritica will send out the link on Twitter, and a bunch of us will RT it.) Please join us if you can! 
 
