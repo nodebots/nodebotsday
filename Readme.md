@@ -32,6 +32,17 @@ Signup: https://ti.to/sophilabs/nodebots-25th-jul-2015<br>
 Sponsors:
 * [Sophilabs](http://sophilabs.co)
 
+### North America
+
+#### Ann Arbor, Michigan USA
+Organizers [SEM.js](https://twitter.com/sem_js), [GDI Ann Arbor](https://twitter.com/GDIAnnArbor) <br>
+Location: [Menlo Innovations](https://www.google.com/maps/place/Menlo+Innovations+LLC/@42.279553,-83.742714,15z/data=!4m2!3m1!1s0x0:0xf3c91fa1e4be89b6?sa=X&ei=rN1uVZm3FpWvyATcn4HYAQ&ved=0CH0Q_BIwDQ) 505 E Liberty St LL500, Ann Arbor, MI 48104<br>
+Hours: [9am - 5pm](http://www.worldtimebuddy.com/?qm=1&lid=4984247,3435910,2643743&h=4984247&date=2015-7-25&sln=9-18) <br>
+Signup: https://www.eventbrite.com/e/international-nodebots-day-ann-arbor-tickets-17186577516 <br>
+Sponsors:
+* [Menlo Innovations](https://www.menloinnovations.com/)
+* [CareEvolution](http://LetsFixHealthcare.com)
+
 ## 2014 Locations
 
 ### North America
