@@ -44,7 +44,7 @@ Sponsors:
 * [CareEvolution](http://LetsFixHealthcare.com)
 
 #### Dayton, Ohio USA
-Organizers [Gem City JS](gemcityjs.com), [SparkBox](seesparkbox.com) <br>
+Organizers [Gem City JS](http://gemcityjs.com), [SparkBox](http://seesparkbox.com) <br>
 Location: [Sparkbox](https://www.google.com/maps/place/123+Webster+St,+Dayton,+OH+45402/@39.763202,-84.182599,17z/data=!4m2!3m1!1s0x884083fcd0860317:0xfb8956200d8ebd64) 123 Webster St., Dayton, OH 45402<br>
 Hours: [9am - 5pm](http://www.worldtimebuddy.com/?qm=1&lid=4984247,3435910,2643743&h=4984247&date=2015-7-25&sln=9-18) <br>
 Signup: https://www.eventbrite.com/e/dayton-nodebots-day-2015-tickets-17326063723 <br>
