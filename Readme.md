@@ -72,6 +72,16 @@ Hours: 10 - 5pm <br>
 Signup: [Tckets from $20](https://www.eventbrite.com.au/e/international-nodebots-day-sydney-july-2015-tickets-17423578392)<br>
 Sponsors: NICTA, we need a food & drink sponsor!
 
+### Europe
+
+#### Paris, France
+Organiser: [@gorhgorh](https://twitter.com/gorhgorh) , dcremonini<br>
+Location: [cité des sciences et de l'industrie](http://www.cite-sciences.fr/)<br>
+Date: Saturday, 25 July<br>
+Hours: 11 - 6pm <br>
+Signup: Coming SOON!<br>
+Sponsors: [carrefour numérique](http://www.cite-sciences.fr/en/explore/learn/carrefour-numerique2/)
+
 ## Sponsor
 
 If you're interested in contributing to this event, please consider hosting a space, contributing hardware to hack on, and/or providing drinks, snacks and food.
