@@ -43,6 +43,35 @@ Sponsors:
 * [Menlo Innovations](https://www.menloinnovations.com/)
 * [CareEvolution](http://LetsFixHealthcare.com)
 
+### Asia-Pacific
+
+#### Australia details
+Follow [@nodebotsau](https://twitter.com/nodebotsau) for updates
+
+#### Brisbane, Australia
+Organisers: [@annagerber](https://twitter.com/annagerber), [@garrows](https://twitter.com/garrows)<br>
+Location: The Edge, State Library of Queensland<br>
+Date: Saturday, 25 July<br>
+Hours: 12 - 6pm <br>
+Signup: [Tickets available from $20](http://www.eventbrite.com.au/e/brisbanes-international-nodebots-day-tickets-12120977169)<br>
+Sponsors: Location sponsored by [State Library of Queensland](http://www.slq.qld.gov.au/) - need a food and drink sponsor!
+
+#### Melbourne, Australia
+Organisers: [@ajfisher](https://twitter.com/ajfisher)<br>
+Location: Advanced Technologies Centre, Swinburne University, Hawthorn.<br>
+Date: Saturday, 25 July<br>
+Hours: 10 - 5.30pm <br>
+Signup: [Tickets from $20](http://www.eventbrite.com.au/e/international-nodebots-day-melbourne-july-2015-tickets-17405115168)<br>
+Sponsors: Location sponsored by [Swinburne University ATC](https://www.swinburne.edu.au/research/strengths-achievements/specialist-facilities/advanced-technologies-centre/) - need a food and drink sponsor!
+
+#### Sydney, Australia
+Organisers: [@patcat](https://twitter.com/patcat)<br>
+Location: NICTA, Technology Park<br>
+Date: Saturday, 25 July<br>
+Hours: 10 - 5pm <br>
+Signup: [Tckets from $20](https://www.eventbrite.com.au/e/international-nodebots-day-sydney-july-2015-tickets-17423578392)<br>
+Sponsors: NICTA, we need a food & drink sponsor!
+
 ## 2014 Locations
 
 ### North America
