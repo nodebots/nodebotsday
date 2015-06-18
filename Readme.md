@@ -72,6 +72,17 @@ Hours: 10 - 5pm <br>
 Signup: [Tckets from $20](https://www.eventbrite.com.au/e/international-nodebots-day-sydney-july-2015-tickets-17423578392)<br>
 Sponsors: NICTA, we need a food & drink sponsor!
 
+#### New Zealand details
+Follow [@nodebots_nz](https://twitter.com/nodebots_nz) for updates
+
+#### Wellington, New Zealand
+Organisers: [@prototypealex](https://twitter/prototypealex)<br>
+Location: Atomic Office, Level 1, 90 Dixon Street, Wellington<br>
+Date: Sunday, 26th July<br>
+Hours: 10 - 5pm<br>
+Signup: [Tickets $15 - discounts available](https://ti.to/nodebots-new-zealand/international-nodebots-day-2015)<br>
+Sponsors: Xero, TradeMe, Atomic, Media Suite, Hoist
+
 ### Europe
 
 #### Paris, France
