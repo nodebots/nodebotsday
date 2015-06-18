@@ -74,6 +74,14 @@ Sponsors: NICTA, we need a food & drink sponsor!
 
 ### Europe
 
+#### London, UK
+Organiser: [@achingbrain](https://twitter.com/achingbrain) , [@olizilla](https://twitter.com/olizilla)<br>
+Location: [GoCardless](https://gocardless.com)<br>
+Date: Saturday, 25 July<br>
+Hours: 10:30 - 5pm<br>
+Signup: Coming SOON!<br>
+Sponsors: Gratefully accepted!
+
 #### Paris, France
 Organiser: [@gorhgorh](https://twitter.com/gorhgorh) , dcremonini<br>
 Location: [cité des sciences et de l'industrie](http://www.cite-sciences.fr/)<br>
