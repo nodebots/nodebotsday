@@ -102,6 +102,14 @@ Hours: 10:30 - 5pm<br>
 Signup: Coming SOON!<br>
 Sponsors: Gratefully accepted!
 
+#### Mont-de-Marsan, France
+Organiser: [@Couby40](https://twitter.com/couby40) , [@deadbird99](https://twitter.com/deadbird99)<br>
+Location: [La Fabrik](http://lemarsan-entreprendre.fr/index.php?cID=32)<br>
+Date: Saturday, 25 July<br>
+Hours: 9am - 9pm <br>
+Signup: Coming SOON!<br>
+Sponsors: Location sponsored by [Le Marsan Agglomération](http://www.lemarsan.fr/agglo/jsp/site/Portal.jsp), animation by [Fabriques Alternatives](http://2015.fabriques-alternatives.org) FabLab, more welcome :-).
+
 #### Paris, France
 Organiser: [@gorhgorh](https://twitter.com/gorhgorh) , dcremonini<br>
 Location: [cité des sciences et de l'industrie](http://www.cite-sciences.fr/)<br>
