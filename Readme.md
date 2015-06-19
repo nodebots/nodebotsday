@@ -60,6 +60,14 @@ Signup: Coming soon!
 * [PubNub](http://www.pubnub.com/)
 * [Forward3 Web Technology Summit](http://forwardjs.com/)
 
+#### Washington, DC USA
+Organizers: [NovaNode](https://twitter.com/novanode) and [NodeDC](https://twitter.com/nodedc)<br>
+Location: [Fluencia](http://maps.google.com/maps?f=q&hl=en&q=1400+Key+Blvd+%28Level+A%29+%2C+Arlington%2C+VA%2C+us) 1400 Key Blvd, Arlington, VA 22201<br>
+Hours: [9am - 4pm](http://www.worldtimebuddy.com/?qm=1&lid=4744709,3435910,2643743&h=4744709&date=2015-6-19&sln=9-17)<br>
+Signup: Coming soon!<br>
+Sponsors:
+* [Fluencia](http://www.fluencia.com/)
+
 ### Asia-Pacific
 
 #### Australia details
