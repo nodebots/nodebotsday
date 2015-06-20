@@ -68,6 +68,20 @@ Signup: Coming soon!<br>
 Sponsors:
 * [Fluencia](http://www.fluencia.com/)
 
+#### Norfolk, Virginia
+Organizers: [Norfolk.js](https://twitter.com/norfolkjs)<br>
+Location: [757 Makerspace](http://www.757makerspace.com) 421 W. 22nd Street Norfolk, Va 23517<br>
+Hours: 10am - 5pm EDT<br>
+Signup: [Norfolk.js Meetup Page](http://www.meetup.com/NorfolkJS/events/221347964/)<br>
+Sponsors:
+* [757 Makerspace](http://www.757makerspace.com)
+* [Grow](http://www.thisisgrow.com)
+* [CodeBetter.com](http://www.codebetter.com/)
+* [Balderdash](http://www.balderdash.co)
+* [ETA](http://www.eta.im)
+
+Sponsors: We need sponsors! Tweet us @norfolkjs
+
 ### Asia-Pacific
 
 #### Australia details
