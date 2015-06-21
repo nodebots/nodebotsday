@@ -60,6 +60,14 @@ Signup: Coming soon!
 * [PubNub](http://www.pubnub.com/)
 * [Forward3 Web Technology Summit](http://forwardjs.com/)
 
+#### Seattle, Washington USA
+Organizers: [KatieK](https://twitter.com/KatieK2), [Greg Bulmash](https://twitter.com/YiddishNinja) and [Seattle Coder Dojo](http://www.seattlecoderdojo.com)
+Location: Amazon campus in SLU, Seattle, WA
+Hours: Saturday July 25, 10am - 4pm PDT
+Signup: Soooooooooon!
+Sponsors:
+ * More sponsors needed! Email us at [info@seattlecoderdojo.com](info@seattlecoderdojo.com) if you can help!
+
 #### Washington, DC USA
 Organizers: [NovaNode](https://twitter.com/novanode) and [NodeDC](https://twitter.com/nodedc)<br>
 Location: [Fluencia](http://maps.google.com/maps?f=q&hl=en&q=1400+Key+Blvd+%28Level+A%29+%2C+Arlington%2C+VA%2C+us) 1400 Key Blvd, Arlington, VA 22201<br>
