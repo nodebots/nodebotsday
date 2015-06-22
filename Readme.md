@@ -1,6 +1,6 @@
 ## NodeBots Day July 25 2015
 
-NodeBots Day is back for 2015. We'll join together across the world to create and learn.
+NodeBots Day is back for 2015. We'll join together across the world to create and learn. Organized by the [@voodootikigod](http://twitter.com/voodootikigod) himself!
 
 NodeBots Day is not a hackathon. There will be no prizes other than the satisfaction of making something awesome! There will be very little in the way of talks. We're going to get together, collaborate and hack. The focus of NodeBots Day is on sharing and enjoying each other's company. And JavaScript. Lots of JavaScript.
 
@@ -15,7 +15,7 @@ Want to organize a local NodeBots Day event. You should!
 
 ## Worldwide Comm
 
-With NodeBots 2013 @dshaw's goal was to help take the community atmosphere of JSConf and translate it into something that would build and strenghthen local communities. In addition to NodeBots SF there are now many NodeBots groups that meet regularly throughout the world.
+After the first NodeBots event at JSConf US 2013, there was a desire to take the community atmosphere and spread it around the world, ideally engaging many into Node and NodeBots and strengthening the local communities. In addition to NodeBots SF there are now many NodeBots groups that meet regularly throughout the world.
 
 This year let's take things a step further and connect the local events. If you'd like to help connect everybody, please volunteer.
 
@@ -160,7 +160,7 @@ Sponsors: [carrefour numérique](http://www.cite-sciences.fr/en/explore/learn/ca
 Organiser: @nodebotsch @twtomcat
 Location: FabLab Winterthur @fablabwinti
 Date: Saturday, 25 July
-Hours: 10am - 6pm 
+Hours: 10am - 6pm
 
 ## Sponsor
 
