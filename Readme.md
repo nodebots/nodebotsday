@@ -157,10 +157,11 @@ Signup: Coming SOON!<br>
 Sponsors: [carrefour numérique](http://www.cite-sciences.fr/en/explore/learn/carrefour-numerique2/)
 
 #### Winterthur, Switzerland
-Organiser: @nodebotsch @twtomcat
-Location: FabLab Winterthur @fablabwinti
-Date: Saturday, 25 July
-Hours: 10am - 6pm
+Organiser: @nodebotsch @twtomcat<br>
+Location: FabLab Winterthur @fablabwinti<br>
+Date: Saturday, 25 July<br>
+Hours: 10am - 6pm<br>
+Sponsors: If you like to Sponsor something, get in touch!
 
 ## Sponsor
 
