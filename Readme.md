@@ -90,6 +90,15 @@ Sponsors:
 
 Sponsors: We need sponsors! Tweet us @norfolkjs
 
+#### Charleston, South Carolina
+Organizers: [NodeBotsCHS](https://twitter.com/nodebotschs)<br>
+Location: [494 Wando Park Blvd](http://www.jackrussellsoftware.com) JRS 494 Wando Park Blvd<br>
+Hours: 9am - 5pm EDT<br>
+Website: [NodebotsCHS.github.io](http://nodebotschs.github.io/)<br>
+Signup: [NodebotsDayCharleston](http://www.eventbrite.com/e/nodebotsday-charleston-tickets-17538209256)<br>
+
+Sponsors: We need sponsors! Tweet us @nodebotschs
+
 ### Asia-Pacific
 
 #### Australia details
