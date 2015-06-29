@@ -99,6 +99,18 @@ Signup: [NodebotsDayCharleston](http://www.eventbrite.com/e/nodebotsday-charlest
 
 Sponsors: We need sponsors! Tweet us @nodebotschs
 
+#### Charlotte, North Carolina
+Organizers: [@AcklenX](https://twitter.com/AcklenX),[@BenjaminoG](https://twitter.com/benjaminoG),[@MakerspaceCLT](https://twitter.com/MakerspaceCLT)<br>
+Location: [Discovery Place](http://www.discoveryplace.org/) 301 N Tryon St., Charlotte, NC 28202<br>
+Hours: 10am - 4pm EDT<br>
+Signup: [Makerspace Charlotte Meetup Page](http://www.meetup.com/Makerspace-Charlotte/events/223578477/)<br>
+Sponsors:
+* [Makerspace Charlotte](http://www.757makerspace.com)
+* [Discovery Place](http://www.discoveryplace.org/)
+* [Imaginon](http://www.imaginon.org/)
+* [Charlotte Mecklenburg Library - Ideabox](http://www.cmlibrary.org/)
+
+Sponsors: We need sponsors! Tweet us @MakerspaceCLT
 ### Asia-Pacific
 
 #### Australia details
