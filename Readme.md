@@ -120,8 +120,8 @@ Follow [@nodebotsau](https://twitter.com/nodebotsau) for updates
 Organisers: [@annagerber](https://twitter.com/annagerber), [@garrows](https://twitter.com/garrows)<br>
 Location: The Edge, State Library of Queensland<br>
 Date: Saturday, 25 July<br>
-Hours: 12 - 6pm <br>
-Signup: [Tickets available from $20](http://www.eventbrite.com.au/e/brisbanes-international-nodebots-day-tickets-12120977169)<br>
+Hours: 12.15pm - 6.00pm <br>
+Signup: [Tickets available from $5](https://www.eventbrite.com.au/e/international-nodebots-day-brisbane-2015-tickets-17554488949)<br>
 Sponsors: Location sponsored by [State Library of Queensland](http://www.slq.qld.gov.au/) - need a food and drink sponsor!
 
 #### Melbourne, Australia
