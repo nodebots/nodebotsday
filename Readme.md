@@ -1,6 +1,6 @@
 ## NodeBots Day July 25 2015
 
-NodeBots Day is back for 2015. We'll join together across the world to create and learn.
+NodeBots Day is back for 2015. We'll join together across the world to create and learn. Organized by the [@voodootikigod](http://twitter.com/voodootikigod) himself!
 
 NodeBots Day is not a hackathon. There will be no prizes other than the satisfaction of making something awesome! There will be very little in the way of talks. We're going to get together, collaborate and hack. The focus of NodeBots Day is on sharing and enjoying each other's company. And JavaScript. Lots of JavaScript.
 
@@ -15,7 +15,7 @@ Want to organize a local NodeBots Day event. You should!
 
 ## Worldwide Comm
 
-With NodeBots 2013 @dshaw's goal was to help take the community atmosphere of JSConf and translate it into something that would build and strenghthen local communities. In addition to NodeBots SF there are now many NodeBots groups that meet regularly throughout the world.
+After the first NodeBots event at JSConf US 2013, there was a desire to take the community atmosphere and spread it around the world, ideally engaging many into Node and NodeBots and strengthening the local communities. In addition to NodeBots SF there are now many NodeBots groups that meet regularly throughout the world.
 
 This year let's take things a step further and connect the local events. If you'd like to help connect everybody, please volunteer.
 
@@ -60,6 +60,14 @@ Signup: Coming soon!
 * [PubNub](http://www.pubnub.com/)
 * [Forward3 Web Technology Summit](http://forwardjs.com/)
 
+#### Seattle, Washington USA
+Organizers: [KatieK](https://twitter.com/KatieK2), [Greg Bulmash](https://twitter.com/YiddishNinja) and [Seattle Coder Dojo](http://www.seattlecoderdojo.com)
+Location: Amazon campus in SLU, Seattle, WA
+Hours: Saturday July 25, 10am - 4pm PDT
+Signup: Soooooooooon!
+Sponsors:
+ * More sponsors needed! Email us at [info@seattlecoderdojo.com](info@seattlecoderdojo.com) if you can help!
+
 #### Washington, DC USA
 Organizers: [NovaNode](https://twitter.com/novanode) and [NodeDC](https://twitter.com/nodedc)<br>
 Location: [Fluencia](http://maps.google.com/maps?f=q&hl=en&q=1400+Key+Blvd+%28Level+A%29+%2C+Arlington%2C+VA%2C+us) 1400 Key Blvd, Arlington, VA 22201<br>
@@ -82,6 +90,27 @@ Sponsors:
 
 Sponsors: We need sponsors! Tweet us @norfolkjs
 
+#### Charleston, South Carolina
+Organizers: [NodeBotsCHS](https://twitter.com/nodebotschs)<br>
+Location: [494 Wando Park Blvd](http://www.jackrussellsoftware.com) JRS 494 Wando Park Blvd<br>
+Hours: 9am - 5pm EDT<br>
+Website: [NodebotsCHS.github.io](http://nodebotschs.github.io/)<br>
+Signup: [NodebotsDayCharleston](http://www.eventbrite.com/e/nodebotsday-charleston-tickets-17538209256)<br>
+
+Sponsors: We need sponsors! Tweet us @nodebotschs
+
+#### Charlotte, North Carolina
+Organizers: [@AcklenX](https://twitter.com/AcklenX),[@BenjaminoG](https://twitter.com/benjaminoG),[@MakerspaceCLT](https://twitter.com/MakerspaceCLT)<br>
+Location: [Discovery Place](http://www.discoveryplace.org/) 301 N Tryon St., Charlotte, NC 28202<br>
+Hours: 10am - 4pm EDT<br>
+Signup: [Makerspace Charlotte Meetup Page](http://www.meetup.com/Makerspace-Charlotte/events/223578477/)<br>
+Sponsors:
+* [Makerspace Charlotte](http://www.757makerspace.com)
+* [Discovery Place](http://www.discoveryplace.org/)
+* [Imaginon](http://www.imaginon.org/)
+* [Charlotte Mecklenburg Library - Ideabox](http://www.cmlibrary.org/)
+
+Sponsors: We need sponsors! Tweet us @MakerspaceCLT
 ### Asia-Pacific
 
 #### Australia details
@@ -91,8 +120,8 @@ Follow [@nodebotsau](https://twitter.com/nodebotsau) for updates
 Organisers: [@annagerber](https://twitter.com/annagerber), [@garrows](https://twitter.com/garrows)<br>
 Location: The Edge, State Library of Queensland<br>
 Date: Saturday, 25 July<br>
-Hours: 12 - 6pm <br>
-Signup: [Tickets available from $20](http://www.eventbrite.com.au/e/brisbanes-international-nodebots-day-tickets-12120977169)<br>
+Hours: 12.15pm - 6.00pm <br>
+Signup: [Tickets available from $5](https://www.eventbrite.com.au/e/international-nodebots-day-brisbane-2015-tickets-17554488949)<br>
 Sponsors: Location sponsored by [State Library of Queensland](http://www.slq.qld.gov.au/) - need a food and drink sponsor!
 
 #### Melbourne, Australia
@@ -147,6 +176,13 @@ Date: Saturday, 25 July<br>
 Hours: 11 - 6pm <br>
 Signup: Coming SOON!<br>
 Sponsors: [carrefour numérique](http://www.cite-sciences.fr/en/explore/learn/carrefour-numerique2/)
+
+#### Winterthur, Switzerland
+Organiser: @nodebotsch @twtomcat<br>
+Location: FabLab Winterthur @fablabwinti<br>
+Date: Saturday, 25 July<br>
+Hours: 10am - 6pm<br>
+Sponsors: If you like to Sponsor something, get in touch!
 
 ## Sponsor
 
