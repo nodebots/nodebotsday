@@ -113,6 +113,21 @@ Sponsors:
 Sponsors: We need sponsors! Tweet us @MakerspaceCLT
 ### Asia-Pacific
 
+#### Singapore
+
+Organisers: [@ntt](https://twitter.com/ntt), [@Ghosteyes1](https://twitter.com/ghosteyes1), [@nathaniawong](https://twitter.com/nathaniawong)<br>
+Location: IDA Labs Level 2 @ National Design Centre, 111 Middle Road, Singapore 188969<br>
+Date: Saturday, 25 July<br>
+Hours: 10am - 5pm<br>
+Signup: 
+* Free
+* RSVP at [http://www.meetup.com/NodeBotsSingapore/events/223655016/](http://www.meetup.com/NodeBotsSingapore/events/223655016/)
+
+Sponsors: 
+* Location sponsored by National Design Centre
+* Equipment sponsored by 12Geeks
+* Food & drink (tbc)
+
 #### Australia details
 Follow [@nodebotsau](https://twitter.com/nodebotsau) for updates
 
