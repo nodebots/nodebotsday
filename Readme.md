@@ -54,6 +54,7 @@ Signup: https://www.eventbrite.com/e/international-nodebots-day-ann-arbor-ticket
 Sponsors:
 * [Menlo Innovations](https://www.menloinnovations.com/)
 * [CareEvolution](http://LetsFixHealthcare.com)
+* [Quantum Signal](http://www.quantumsignal.com/)
 
 #### Dayton, Ohio USA
 Organizers [Gem City JS](http://gemcityjs.com), [SparkBox](http://seesparkbox.com) <br>
