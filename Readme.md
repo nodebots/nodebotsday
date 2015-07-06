@@ -31,6 +31,18 @@ Hours: [10am - 4pm GTM-3](http://www.worldtimebuddy.com/?qm=1&lid=3441575,512858
 Signup: https://ti.to/sophilabs/nodebots-25th-jul-2015<br>
 Sponsors:
 * [Sophilabs](http://sophilabs.co)
+ 
+
+#### Santiago, Chile
+
+Organizers: [@fforres](https://twitter.com/fforres), [@elburabure](https://twitter.com/elburabura), [@lporras16](https://twitter.com/lporras16), [@josevildosola55](https://twitter.com/josevildosola55) <br>
+Location: [Espacio IF](https://www.google.cl/maps/place/Italia+850,+Providencia,+Regi%C3%B3n+Metropolitana/@-33.4425404,-70.6261368,17z/data=!3m1!4b1!4m2!3m1!1s0x9662c57f682903f5:0x1bd3f9352ed86892), Avenida Itala 850, Santiago, Chile <br>
+Hours: [10am - 4pm GTM-3](http://www.worldtimebuddy.com/?qm=1&lid=7114227&h=7114227&date=2015-7-25&sln=10-17)<br>
+Signup: https://welcu.com/noderscl/nodebotsinternationaldaychile <br>
+Sponsors:
+* [Noders](http://noders.com)
+* [Noders Chile](http://noders.cl)
+
 
 ### North America
 
