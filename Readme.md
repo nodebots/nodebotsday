@@ -23,6 +23,18 @@ This year let's take things a step further and connect the local events. If you'
 
 ### Latin America
 
+#### San Salvador, El Salvador
+Organizers: [@_carloscarcamo_](https://twitter.com/_carloscarcamo_), [CSHL](http://cshluesocc.org/), [@MozillaSV](https://twitter.com/mozelsalvador) <br>
+Location: [Hub170](https://www.google.com.sv/maps/place/Hub170/@13.6940613,-89.226923,15z/data=!4m2!3m1!1s0x0:0x3e44610a8c5c1e83?sa=X&ei=X_ieVYugN8zxepiRs7gF&sqi=2&ved=0CHsQ_BIwDw), Calle Lorena y Calle Roma #170, San Salvador <br>
+Hours: [09:30am - 2:30pm](http://www.worldtimebuddy.com/?qm=1&lid=8,3583361,3583361&h=8&date=2015-7-25&sln=8.5-13.5)<br>
+Website: http://nodebots-sv.github.io <br>
+Signup: http://bit.ly/1dLdkmC, it's free :) <br>
+Sponsors:
+* [Webslinder](http://webslinder.com)
+* [Hub170](http://hub170.com)
+* We need sponsors! Tweet us [@NodebotsSV](https://twitter.com/NodebotsSV) or drop us a line to nodebots.sv@gmail.com
+
+
 #### Montevideo, Uruguay
 
 Organizers: [@kryz](https://twitter.com/nicodev_23), [@pricco](https://twitter.com/pricco), [@molivera](https://twitter.com/moliveraf), <br>
