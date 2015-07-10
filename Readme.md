@@ -218,10 +218,11 @@ Signup: Coming SOON!<br>
 Sponsors: [carrefour numérique](http://www.cite-sciences.fr/en/explore/learn/carrefour-numerique2/)
 
 #### Winterthur, Switzerland
-Organiser: @nodebotsch @twtomcat<br>
-Location: FabLab Winterthur @fablabwinti<br>
+Organiser: [@nodebotsch](https://twitter.com/nodebotsch) [@twtomcat](https://twitter.com/twtomcat)<br>
+Location: FabLab Winti [@fablabwinti](http://www.fablabwinti.ch)<br>
 Date: Saturday, 25 July<br>
 Hours: 10am - 6pm<br>
+Signup: http://www.fablabwinti.ch/internationaler-nodebots-day-25-7-2015/<br>
 Sponsors: If you like to Sponsor something, get in touch!
 
 ## Sponsor
