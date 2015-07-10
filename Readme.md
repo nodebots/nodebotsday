@@ -77,6 +77,13 @@ Sponsors:
 * [DataYard](http://datayardworks.com)
 * [Sparkbox](http://seesparkbox.com)
 
+#### New York, New York USA
+Organizers: [andrew_404](https://twitter.com/andrew_404)<br>
+Location: [Thinkful](https://www.google.com/maps/place/304+Hudson+St+%23505,+New+York,+NY+10013/@40.7261734,-74.0071142,17z/data=!3m1!4b1!4m2!3m1!1s0x89c259f32919b2f9:0xa832031ada5143ea?hl=en) 304 Hudson St., #505, New York, NY 10013<br>
+Hours: [11am - 5pm](http://www.worldtimebuddy.com/?qm=1&lid=5128581,3435910,2643743&h=5128581&date=2015-7-25&sln=11-17) <br>
+Signup: [NYC Nodebots Meetup Page](http://www.meetup.com/nodebots/events/223090093/)<br>
+Sponsors: [Thinkful](https://www.thinkful.com/get-started/)
+
 #### San Francisco, California USA
 Organizers [NodeBots SF](https://twitter.com/nodebotssf)<br>
 Location: [PubNub](https://www.google.com/maps/place/725+Folsom+St,+San+Francisco,+CA+94107/@37.7832022,-122.3993173,17z/data=!3m1!4b1!4m2!3m1!1s0x8085807dd780da85:0x968a119208db3a0d) 725 Folsom Street, San Francisco, CA<br>
