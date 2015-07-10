@@ -225,6 +225,14 @@ Hours: 10am - 6pm<br>
 Signup: http://www.fablabwinti.ch/internationaler-nodebots-day-25-7-2015/<br>
 Sponsors: If you like to Sponsor something, get in touch!
 
+#### Buenos Aires, Argentina
+Organiser: [@a0viedo](https://twitter.com/a0viedo)<br>
+Location: [Microsoft Office, Level 4](https://www.google.com.ar/maps/place/Microsoft+De+Argentina+S.A./@-34.5992296,-58.3695231,17z/data=!3m1!4b1!4m2!3m1!1s0x95a335337b5ec9af:0x4335162a3ca4a3c9)<br>
+Date: Saturday, 25 July<br>
+Hours: 2pm - 7pm <br>
+Signup: [Free](https://aka.ms/EventoNodeBots)<br>
+Sponsors: [PatagoniaTec](http://www.patagoniatec.com), [Microsoft](http://www.microsoft.com), [Coderhouse](http://www.coderhouse.com/) and [NodeSource](https://nodesource.com/). If you like to sponsor, get in touch!
+
 ## Sponsor
 
 If you're interested in contributing to this event, please consider hosting a space, contributing hardware to hack on, and/or providing drinks, snacks and food.
