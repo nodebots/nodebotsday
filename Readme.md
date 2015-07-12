@@ -212,8 +212,8 @@ Sponsors: Gratefully accepted!
 Organiser: [@Couby40](https://twitter.com/couby40) , [@deadbird99](https://twitter.com/deadbird99)<br>
 Location: [La Fabrik](http://lemarsan-entreprendre.fr/index.php?cID=32)<br>
 Date: Saturday, 25 July<br>
-Hours: 9am - 9pm <br>
-Signup: Coming SOON!<br>
+Hours: 2pm - 4pm <br>
+Signup: [Nous écrire, simplement](http://forums.fabriques-alternatives.org/topic/71/programme-juillet-2015)<br>
 Sponsors: Location sponsored by [Le Marsan Agglomération](http://www.lemarsan.fr/agglo/jsp/site/Portal.jsp), animation by [Fabriques Alternatives](http://2015.fabriques-alternatives.org) FabLab, more welcome :-).
 
 #### Paris, France
