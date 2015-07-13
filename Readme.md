@@ -246,7 +246,7 @@ Location: [Matehackers - Vila Flores](https://encrypted.google.com/maps/place/As
 Date: Saturday, 25 July<br>
 Hours: 2pm - 7pm <br>
 Signup: [Free](https://aka.ms/EventoNodeBots)<br>
-Sponsors: [PatagoniaTec](http://www.patagoniatec.com), [Microsoft](http://www.microsoft.com), [Coderhouse](http://www.coderhouse.com/) and [NodeSource](https://nodesource.com/). If you like to sponsor, get in touch!
+Sponsors: If you like to sponsor, get in touch! We need a food & drink sponsor!
 
 ## Sponsor
 
