@@ -244,9 +244,9 @@ Sponsors: [PatagoniaTec](http://www.patagoniatec.com), [Microsoft](http://www.mi
 Organiser: [@matehackers](https://twitter.com/matehackers)<br>
 Location: [Matehackers - Vila Flores](https://encrypted.google.com/maps/place/Associa%C3%A7%C3%A3o+Cultural+Vila+Flores/@-30.0198225,-51.2092386,15z/data=!4m2!3m1!1s0x0:0x12dd51b98455a877?hl=pt)<br>
 Date: Saturday, 25 July<br>
-Hours: 2pm - 7pm <br>
-Signup: [Free](https://aka.ms/EventoNodeBots)<br>
-Sponsors: If you like to sponsor, get in touch! We need a food & drink sponsor!
+Hours: 9am - 6pm <br>
+Signup: [Free](http://encontros.matehackers.org/pt/projects/21-nodebotsday-porto-alegre)<br>
+Sponsors: If you like to sponsor, get in touch <morvanabonin@gmail.com>! We need a food & drink sponsor!
 
 ## Sponsor
 
