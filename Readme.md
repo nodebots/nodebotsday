@@ -84,6 +84,13 @@ Hours: [11am - 5pm](http://www.worldtimebuddy.com/?qm=1&lid=5128581,3435910,2643
 Signup: [NYC Nodebots Meetup Page](http://www.meetup.com/nodebots/events/223090093/)<br>
 Sponsors: [Thinkful](https://www.thinkful.com/get-started/)
 
+#### Phoenix/Mesa, Arizona USA
+Organizers: [Luis Montes](https://twitter.com/monteslu)<br>
+Location: [Heatsync Labs](https://www.google.com/maps/place/HeatSync+Labs/@33.4153305,-111.8355937,17z/data=!3m1!4b1!4m2!3m1!1s0x872ba7e85a2c7447:0x1de2145e0b4f730e) 140 W. Main St., Mesa, AZ 85201<br>
+Hours: [12:30 pm - 8:30 pm](http://www.worldtimebuddy.com/?qm=1&lid=5308655,5128581,3435910&h=5308655&date=2015-7-25&sln=12.5-20.5) <br>
+Signup: [https://ti.to/monteslu/nodebots-day-phx-2015](https://ti.to/monteslu/nodebots-day-phx-2015)<br>
+Sponsors: [Iced Dev](http://iceddev.com)
+
 #### San Francisco, California USA
 Organizers [NodeBots SF](https://twitter.com/nodebotssf)<br>
 Location: [PubNub](https://www.google.com/maps/place/725+Folsom+St,+San+Francisco,+CA+94107/@37.7832022,-122.3993173,17z/data=!3m1!4b1!4m2!3m1!1s0x8085807dd780da85:0x968a119208db3a0d) 725 Folsom Street, San Francisco, CA<br>
