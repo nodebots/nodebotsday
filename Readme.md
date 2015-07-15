@@ -93,12 +93,13 @@ Signup: Coming soon!
 * [Forward3 Web Technology Summit](http://forwardjs.com/)
 
 #### Seattle, Washington USA
-Organizers: [KatieK](https://twitter.com/KatieK2), [Greg Bulmash](https://twitter.com/YiddishNinja) and [Seattle Coder Dojo](http://www.seattlecoderdojo.com)
-Location: Amazon campus in SLU, Seattle, WA
-Hours: Saturday July 25, 10am - 4pm PDT
-Signup: Soooooooooon!
+Organizers: [KatieK](https://twitter.com/KatieK2), [Greg Bulmash](https://twitter.com/YiddishNinja) and [Seattle Coder Dojo](http://www.seattlecoderdojo.com)<br>
+Location: Amazon campus in SLU, Seattle, WA<br>
+Hours: Saturday July 25, 10:30am - 3:30pm PDT<br>
+Signup: [http://www.eventbrite.com/e/robotics-day-seattle-coderdojo-tickets-17739828304](http://www.eventbrite.com/e/robotics-day-seattle-coderdojo-tickets-17739828304)<br>
 Sponsors:
  * More sponsors needed! Email us at [info@seattlecoderdojo.com](info@seattlecoderdojo.com) if you can help!
+ * Fundraiser at Indiegogo: [https://www.indiegogo.com/projects/seattle-coderdojo-robotics-day/](https://www.indiegogo.com/projects/seattle-coderdojo-robotics-day/)
 
 #### Washington, DC USA
 Organizers: [NovaNode](https://twitter.com/novanode) and [NodeDC](https://twitter.com/nodedc)<br>
