@@ -91,7 +91,6 @@ Hours: [12:30 pm - 8:30 pm](http://www.worldtimebuddy.com/?qm=1&lid=5308655,5128
 Signup: [https://ti.to/monteslu/nodebots-day-phx-2015](https://ti.to/monteslu/nodebots-day-phx-2015)<br>
 Sponsors: [Iced Dev](http://iceddev.com)
 
-
 #### San Francisco, California USA
 Organizers [NodeBots SF](https://twitter.com/nodebotssf)<br>
 Location: [PubNub](https://www.google.com/maps/place/725+Folsom+St,+San+Francisco,+CA+94107/@37.7832022,-122.3993173,17z/data=!3m1!4b1!4m2!3m1!1s0x8085807dd780da85:0x968a119208db3a0d) 725 Folsom Street, San Francisco, CA<br>
