@@ -77,6 +77,13 @@ Sponsors:
 * [DataYard](http://datayardworks.com)
 * [Sparkbox](http://seesparkbox.com)
 
+#### Phoenix/Mesa, Arizona USA
+Organizers: [Luis Montes](https://twitter.com/monteslu)<br>
+Location: [Heatsync Labs](https://www.google.com/maps/place/HeatSync+Labs/@33.4153305,-111.8355937,17z/data=!3m1!4b1!4m2!3m1!1s0x872ba7e85a2c7447:0x1de2145e0b4f730e) 140 W. Main St., Mesa, AZ 85201<br>
+Hours: [12:30 pm - 8:30 pm](http://www.worldtimebuddy.com/?qm=1&lid=5308655,5128581,3435910&h=5308655&date=2015-7-25&sln=12.5-20.5) <br>
+Signup: [https://ti.to/monteslu/nodebots-day-phx-2015](https://ti.to/monteslu/nodebots-day-phx-2015)<br>
+Sponsors: [Iced Dev](http://iceddev.com)
+
 #### New York, New York USA
 Organizers: [andrew_404](https://twitter.com/andrew_404)<br>
 Location: [Thinkful](https://www.google.com/maps/place/304+Hudson+St+%23505,+New+York,+NY+10013/@40.7261734,-74.0071142,17z/data=!3m1!4b1!4m2!3m1!1s0x89c259f32919b2f9:0xa832031ada5143ea?hl=en) 304 Hudson St., #505, New York, NY 10013<br>
