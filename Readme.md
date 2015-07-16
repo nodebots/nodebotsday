@@ -68,6 +68,28 @@ Sponsors:
 * [CareEvolution](http://LetsFixHealthcare.com)
 * [Quantum Signal](http://www.quantumsignal.com/)
 
+#### Charleston, South Carolina
+Organizers: [NodeBotsCHS](https://twitter.com/nodebotschs)<br>
+Location: [494 Wando Park Blvd](http://www.jackrussellsoftware.com) JRS 494 Wando Park Blvd<br>
+Hours: 9am - 5pm EDT<br>
+Website: [NodebotsCHS.github.io](http://nodebotschs.github.io/)<br>
+Signup: [NodebotsDayCharleston](http://www.eventbrite.com/e/nodebotsday-charleston-tickets-17538209256)<br>
+
+Sponsors: We need sponsors! Tweet us @nodebotschs
+
+#### Charlotte, North Carolina
+Organizers: [@AcklenX](https://twitter.com/AcklenX),[@BenjaminoG](https://twitter.com/benjaminoG),[@MakerspaceCLT](https://twitter.com/MakerspaceCLT)<br>
+Location: [Discovery Place](http://www.discoveryplace.org/) 301 N Tryon St., Charlotte, NC 28202<br>
+Hours: 10am - 4pm EDT<br>
+Signup: [Makerspace Charlotte Meetup Page](http://www.meetup.com/Makerspace-Charlotte/events/223578477/)<br>
+Sponsors:
+* [Makerspace Charlotte](http://www.757makerspace.com)
+* [Discovery Place](http://www.discoveryplace.org/)
+* [Imaginon](http://www.imaginon.org/)
+* [Charlotte Mecklenburg Library - Ideabox](http://www.cmlibrary.org/)
+
+Sponsors: We need sponsors! Tweet us @MakerspaceCLT
+
 #### Dayton, Ohio USA
 Organizers [Gem City JS](http://gemcityjs.com), [SparkBox](http://seesparkbox.com) <br>
 Location: [Sparkbox](https://www.google.com/maps/place/123+Webster+St,+Dayton,+OH+45402/@39.763202,-84.182599,17z/data=!4m2!3m1!1s0x884083fcd0860317:0xfb8956200d8ebd64) 123 Webster St., Dayton, OH 45402<br>
@@ -83,6 +105,20 @@ Location: [Thinkful](https://www.google.com/maps/place/304+Hudson+St+%23505,+New
 Hours: [11am - 5pm](http://www.worldtimebuddy.com/?qm=1&lid=5128581,3435910,2643743&h=5128581&date=2015-7-25&sln=11-17) <br>
 Signup: [NYC Nodebots Meetup Page](http://www.meetup.com/nodebots/events/223090093/)<br>
 Sponsors: [Thinkful](https://www.thinkful.com/get-started/)
+
+#### Norfolk, Virginia
+Organizers: [Norfolk.js](https://twitter.com/norfolkjs)<br>
+Location: [757 Makerspace](http://www.757makerspace.com) 421 W. 22nd Street Norfolk, Va 23517<br>
+Hours: 10am - 5pm EDT<br>
+Signup: [Norfolk.js Meetup Page](http://www.meetup.com/NorfolkJS/events/221347964/)<br>
+Sponsors:
+* [757 Makerspace](http://www.757makerspace.com)
+* [Grow](http://www.thisisgrow.com)
+* [CodeBetter.com](http://www.codebetter.com/)
+* [Balderdash](http://www.balderdash.co)
+* [ETA](http://www.eta.im)
+
+Sponsors: We need sponsors! Tweet us @norfolkjs
 
 #### Phoenix/Mesa, Arizona USA
 Organizers: [Luis Montes](https://twitter.com/monteslu)<br>
@@ -108,6 +144,15 @@ Sponsors:
  * More sponsors needed! Email us at [info@seattlecoderdojo.com](info@seattlecoderdojo.com) if you can help!
  * Fundraiser at Indiegogo: [https://www.indiegogo.com/projects/seattle-coderdojo-robotics-day/](https://www.indiegogo.com/projects/seattle-coderdojo-robotics-day/)
 
+#### Vancouver, BC Canada
+Organizers: [NodeSchool Vancouver](https://github.com/nodeschool/vancouver)
+Location: [1122 Mainland Street, Vancouver](https://www.google.ca/maps/place/1122+Mainland+St,+Vancouver,+BC+V6B+5L1/@49.2752371,-123.1208496,17z/data=!3m1!4b1!4m2!3m1!1s0x548673d6fe9b862f:0x46c6e2ce937f8b89?hl=en)
+Hours: [12pm - 4pm]
+Signup: [https://ti.to/nodeschool-vancouver/2015-07-25](https://ti.to/nodeschool-vancouver/2015-07-25)
+Sponsors: 
+ * [Zillow](http://www.zillow.com/)
+
+
 #### Washington, DC USA
 Organizers: [NovaNode](https://twitter.com/novanode) and [NodeDC](https://twitter.com/nodedc)<br>
 Location: [Fluencia](http://maps.google.com/maps?f=q&hl=en&q=1400+Key+Blvd+%28Level+A%29+%2C+Arlington%2C+VA%2C+us) 1400 Key Blvd, Arlington, VA 22201<br>
@@ -116,41 +161,7 @@ Signup: Coming soon!<br>
 Sponsors:
 * [Fluencia](http://www.fluencia.com/)
 
-#### Norfolk, Virginia
-Organizers: [Norfolk.js](https://twitter.com/norfolkjs)<br>
-Location: [757 Makerspace](http://www.757makerspace.com) 421 W. 22nd Street Norfolk, Va 23517<br>
-Hours: 10am - 5pm EDT<br>
-Signup: [Norfolk.js Meetup Page](http://www.meetup.com/NorfolkJS/events/221347964/)<br>
-Sponsors:
-* [757 Makerspace](http://www.757makerspace.com)
-* [Grow](http://www.thisisgrow.com)
-* [CodeBetter.com](http://www.codebetter.com/)
-* [Balderdash](http://www.balderdash.co)
-* [ETA](http://www.eta.im)
 
-Sponsors: We need sponsors! Tweet us @norfolkjs
-
-#### Charleston, South Carolina
-Organizers: [NodeBotsCHS](https://twitter.com/nodebotschs)<br>
-Location: [494 Wando Park Blvd](http://www.jackrussellsoftware.com) JRS 494 Wando Park Blvd<br>
-Hours: 9am - 5pm EDT<br>
-Website: [NodebotsCHS.github.io](http://nodebotschs.github.io/)<br>
-Signup: [NodebotsDayCharleston](http://www.eventbrite.com/e/nodebotsday-charleston-tickets-17538209256)<br>
-
-Sponsors: We need sponsors! Tweet us @nodebotschs
-
-#### Charlotte, North Carolina
-Organizers: [@AcklenX](https://twitter.com/AcklenX),[@BenjaminoG](https://twitter.com/benjaminoG),[@MakerspaceCLT](https://twitter.com/MakerspaceCLT)<br>
-Location: [Discovery Place](http://www.discoveryplace.org/) 301 N Tryon St., Charlotte, NC 28202<br>
-Hours: 10am - 4pm EDT<br>
-Signup: [Makerspace Charlotte Meetup Page](http://www.meetup.com/Makerspace-Charlotte/events/223578477/)<br>
-Sponsors:
-* [Makerspace Charlotte](http://www.757makerspace.com)
-* [Discovery Place](http://www.discoveryplace.org/)
-* [Imaginon](http://www.imaginon.org/)
-* [Charlotte Mecklenburg Library - Ideabox](http://www.cmlibrary.org/)
-
-Sponsors: We need sponsors! Tweet us @MakerspaceCLT
 ### Asia-Pacific
 
 #### Singapore
