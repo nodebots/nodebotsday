@@ -145,10 +145,10 @@ Sponsors:
  * Fundraiser at Indiegogo: [https://www.indiegogo.com/projects/seattle-coderdojo-robotics-day/](https://www.indiegogo.com/projects/seattle-coderdojo-robotics-day/)
 
 #### Vancouver, BC Canada
-Organizers: [NodeSchool Vancouver](https://github.com/nodeschool/vancouver)
-Location: [1122 Mainland Street, Vancouver](https://www.google.ca/maps/place/1122+Mainland+St,+Vancouver,+BC+V6B+5L1/@49.2752371,-123.1208496,17z/data=!3m1!4b1!4m2!3m1!1s0x548673d6fe9b862f:0x46c6e2ce937f8b89?hl=en)
-Hours: [12pm - 4pm]
-Signup: [https://ti.to/nodeschool-vancouver/2015-07-25](https://ti.to/nodeschool-vancouver/2015-07-25)
+Organizers: [NodeSchool Vancouver](https://github.com/nodeschool/vancouver)<br>
+Location: [1122 Mainland Street, Vancouver](https://www.google.ca/maps/place/1122+Mainland+St,+Vancouver,+BC+V6B+5L1/@49.2752371,-123.1208496,17z/data=!3m1!4b1!4m2!3m1!1s0x548673d6fe9b862f:0x46c6e2ce937f8b89?hl=en)<br>
+Hours: [12pm - 4pm]<br>
+Signup: [https://ti.to/nodeschool-vancouver/2015-07-25](https://ti.to/nodeschool-vancouver/2015-07-25)<br>
 Sponsors: 
  * [Zillow](http://www.zillow.com/)
 
