@@ -269,6 +269,14 @@ Hours: 10am - 6pm<br>
 Signup: http://www.fablabwinti.ch/internationaler-nodebots-day-25-7-2015/<br>
 Sponsors: If you like to Sponsor something, get in touch!
 
+#### Munich, Germany
+Organiser: [@mulpat](https://twitter.com/mulpat) [@andreyrobo](https://twitter.com/andreyrobo)<br>
+Location: Munich Maker Lab [@munichmakerlab](http://www.munichmakerlab.de)<br>
+Date: Saturday, 25 July<br>
+Hours: 2pm - 6pm<br>
+Signup: http://www.meetup.com/Munchen-robotics-enthusiasts/events/223893977/<br>
+Sponsors: If you like to Sponsor something, get in touch!
+
 ## Sponsor
 
 If you're interested in contributing to this event, please consider hosting a space, contributing hardware to hack on, and/or providing drinks, snacks and food.
