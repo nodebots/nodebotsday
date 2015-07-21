@@ -43,7 +43,14 @@ Hours: [10am - 4pm GTM-3](http://www.worldtimebuddy.com/?qm=1&lid=3441575,512858
 Signup: https://ti.to/sophilabs/nodebots-25th-jul-2015<br>
 Sponsors:
 * [Sophilabs](http://sophilabs.co)
- 
+
+
+#### Santa Marta, Colombia
+
+Organizers: [@peyoromn](https://twitter.com/peyoromn)<br>
+Location: [Universidad del Magdalena]()<br>
+Hours: 10am - 4pm GTM-3<br>
+Signup: [http://nodeschool.io/santamarta/](http://nodeschool.io/santamarta/)<br>
 
 #### Santiago, Chile
 
@@ -135,6 +142,7 @@ Sponsors:
 * [CodeBetter.com](http://www.codebetter.com/)
 * [Balderdash](http://www.balderdash.co)
 * [ETA](http://www.eta.im)
+* [Designology](http://www.designology757.com)
 
 Sponsors: We need sponsors! Tweet us @norfolkjs
 
