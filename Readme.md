@@ -101,12 +101,11 @@ Sponsors: We need sponsors! Tweet us @nodebotschs
 
 #### Charlotte, North Carolina
 Organizers: [@AcklenX](https://twitter.com/AcklenX),[@BenjaminoG](https://twitter.com/benjaminoG),[@MakerspaceCLT](https://twitter.com/MakerspaceCLT)<br>
-Location: [Discovery Place](http://www.discoveryplace.org/) 301 N Tryon St., Charlotte, NC 28202<br>
+Location: [Makerspace Charlotte](http://www.makerspacecharlotte.com) 200 E 36th St, Charlotte, NC 28206<br>
 Hours: 10am - 4pm EDT<br>
 Signup: [Makerspace Charlotte Meetup Page](http://www.meetup.com/Makerspace-Charlotte/events/223578477/)<br>
 Sponsors:
-* [Makerspace Charlotte](http://www.757makerspace.com)
-* [Discovery Place](http://www.discoveryplace.org/)
+* [Makerspace Charlotte](http://www.makerspacecharlotte.com)
 * [Imaginon](http://www.imaginon.org/)
 * [Charlotte Mecklenburg Library - Ideabox](http://www.cmlibrary.org/)
 
