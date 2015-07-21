@@ -48,7 +48,7 @@ Sponsors:
 #### Santa Marta, Colombia
 
 Organizers: [@peyoromn](https://twitter.com/peyoromn)<br>
-Location: [Universidad del Magdalena]()<br>
+Location: [Universidad del Magdalena](http://www.unimagdalena.edu.co/Paginas/Inicio.aspx)<br>
 Hours: 10am - 4pm GTM-3<br>
 Signup: [http://nodeschool.io/santamarta/](http://nodeschool.io/santamarta/)<br>
 
