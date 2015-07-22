@@ -204,9 +204,8 @@ Signup:
 * RSVP at [http://www.meetup.com/NodeBotsSingapore/events/223655016/](http://www.meetup.com/NodeBotsSingapore/events/223655016/)
 
 Sponsors: 
-* Location sponsored by National Design Centre
-* Equipment sponsored by 12Geeks
-* Food & drink (tbc)
+* Location sponsored by IDA Labs
+* Buy your kits from 12Geeks on location.
 
 #### Australia details
 Follow [@nodebotsau](https://twitter.com/nodebotsau) for updates
