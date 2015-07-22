@@ -133,10 +133,11 @@ Organizers:
 * [italoacasas](https://twitter.com/italoacasas)
 * [NodeJS Enthusiasts SE Florida](http://www.meetup.com/NodeJS-Enthusiasts-SE-Florida/)
 
-Location: [General Provision](http://maps.google.com/maps?f=q&hl=en&q=525+Nw+1st+ave%2C+Fort+Lauderdale%2C+FL%2C+us) 525 Nw 1st ave, Fort Lauderdale, FL<br>
+Location: [General Provision](http://maps.google.com/maps?f=q&hl=en&q=525+Nw+1st+ave%2C+Fort+Lauderdale%2C+FL%2C+us) 525 NW 1st Ave, Fort Lauderdale, FL 33301<br>
 Hours: [10am - 5pm](http://www.worldtimebuddy.com/?qm=1&lid=4164138&h=4164138&date=2015-7-25&sln=10-18) <br>
 Signup: http://www.meetup.com/NodeJS-Enthusiasts-SE-Florida/events/223813462/ <br>
 Sponsors:
+* SpaceSignal
 * Needed !!! Contact any of the organizers or email onel0p3z at gmail dot com
 
 #### New York, New York USA
