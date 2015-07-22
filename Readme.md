@@ -126,6 +126,19 @@ Sponsors:
 * [DataYard](http://datayardworks.com)
 * [Sparkbox](http://seesparkbox.com)
 
+#### Miami/Fort Lauderdale, Florida USA
+Organizers:
+* [onel0p3z](https://twitter.com/onel0p3z)
+* [khalifenizar](https://twitter.com/khalifenizar)
+* [italoacasas](https://twitter.com/italoacasas)
+* [NodeJS Enthusiasts SE Florida](http://www.meetup.com/NodeJS-Enthusiasts-SE-Florida/)
+Location: [General Provision](http://maps.google.com/maps?f=q&hl=en&q=525+Nw+1st+ave%2C+Fort+Lauderdale%2C+FL%2C+us) 525 Nw 1st ave, Fort Lauderdale, FL<br>
+Hours: [10am - 5pm](http://www.worldtimebuddy.com/?qm=1&lid=4164138&h=4164138&date=2015-7-25&sln=10-18) <br>
+Signup: http://www.meetup.com/NodeJS-Enthusiasts-SE-Florida/events/223813462/ <br>
+Sponsors:
+* Needed !!! Contact any of the organizers or email onel0p3z at gmail dot com
+
+
 #### New York, New York USA
 Organizers: [andrew_404](https://twitter.com/andrew_404)<br>
 Location: [Thinkful](https://www.google.com/maps/place/304+Hudson+St+%23505,+New+York,+NY+10013/@40.7261734,-74.0071142,17z/data=!3m1!4b1!4m2!3m1!1s0x89c259f32919b2f9:0xa832031ada5143ea?hl=en) 304 Hudson St., #505, New York, NY 10013<br>
