@@ -21,6 +21,8 @@ This year let's take things a step further and connect the local events. If you'
 
 ## 2015 Locations (TO BE ANNOUNCED)
 
+[Event Location Map: events.geojson](events.geojson)
+
 ### Latin America
 
 #### San Salvador, El Salvador
