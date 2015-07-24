@@ -279,6 +279,14 @@ Hours: 2pm - 4pm <br>
 Signup: [Nous écrire, simplement](http://forums.fabriques-alternatives.org/topic/71/programme-juillet-2015)<br>
 Sponsors: Location sponsored by [Le Marsan Agglomération](http://www.lemarsan.fr/agglo/jsp/site/Portal.jsp), animation by [Fabriques Alternatives](http://2015.fabriques-alternatives.org) FabLab, more welcome :-).
 
+#### Oxford, UK
+Organiser: [@spikeheap](https://twitter.com/spikeheap), [@benjaminbenben](https://twitter.com/benjaminbenben), [@jsoxford](https://twitter.com/jsoxford)<br>
+Location: [White October](https://www.whiteoctober.co.uk)<br>
+Date: Saturday, 25 July<br>
+Hours: 10:00 - 5pm<br>
+Signup: [Meetup/JSOxford](http://www.meetup.com/JSOxford/events/222092832)<br>
+Sponsors: [Pusher](https://pusher.com/), [Gordon Williams](https://twitter.com/Espruino) & [White October](http://whiteoctober.co.uk)
+
 #### Paris, France
 Organiser: [@gorhgorh](https://twitter.com/gorhgorh) , dcremonini<br>
 Location: [cité des sciences et de l'industrie](http://www.cite-sciences.fr/)<br>
