@@ -264,12 +264,10 @@ Sponsors: Xero, TradeMe, Atomic, Media Suite, Hoist
 ### Europe
 
 #### London, UK
-Organiser: [@achingbrain](https://twitter.com/achingbrain) , [@olizilla](https://twitter.com/olizilla)<br>
-Location: [GoCardless](https://gocardless.com)<br>
-Date: Saturday, 25 July<br>
-Hours: 10:30 - 5pm<br>
-Signup: Coming SOON!<br>
-Sponsors: Gratefully accepted!
+~~Organiser: [@achingbrain](https://twitter.com/achingbrain) , [@olizilla](https://twitter.com/olizilla)<br>~~
+~~Date: Saturday, 25 July<br>~~
+London is offline. All available agents lost to meatspace commitments.<br>
+BEEP BOOP. CONNECTION LOST.
 
 #### Mont-de-Marsan, France
 Organiser: [@Couby40](https://twitter.com/couby40) , [@deadbird99](https://twitter.com/deadbird99)<br>
