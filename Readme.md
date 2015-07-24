@@ -176,7 +176,7 @@ Sponsors:
 Organizers [NodeBots SF](https://twitter.com/nodebotssf)<br>
 Location: [PubNub](https://www.google.com/maps/place/725+Folsom+St,+San+Francisco,+CA+94107/@37.7832022,-122.3993173,17z/data=!3m1!4b1!4m2!3m1!1s0x8085807dd780da85:0x968a119208db3a0d) 725 Folsom Street, San Francisco, CA<br>
 Hours: [10am - 5pm](http://www.worldtimebuddy.com/?qm=1&lid=5391959,5128581,3435910,2643743&h=5128581&date=2015-6-18&sln=13-21)<br>
-Signup: Coming soon!
+Signup: [https://ti.to/nodebots-sf/nodebots-day-2015-sf-edition/](https://ti.to/nodebots-sf/nodebots-day-2015-sf-edition/)
 * [PubNub](http://www.pubnub.com/)
 * [Forward3 Web Technology Summit](http://forwardjs.com/)
 
