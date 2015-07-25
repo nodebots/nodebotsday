@@ -82,6 +82,14 @@ Hours: 9am - 6pm <br>
 Signup: [Free](http://encontros.matehackers.org/pt/projects/21-nodebotsday-porto-alegre)<br>
 Sponsors: If you like to sponsor, get in touch <morvanabonin@gmail.com>! We need a food & drink sponsor!
 
+#### Recife, Brasil
+Organiser: [@nodebotsrec](https://twitter.com/nodebotsrec)<br>
+Location: [Campus Party Recife - Centro de convenções do Recife](https://www.google.com.br/maps/place/Centro+de+Conven%C3%A7%C3%B5es/@-8.0322228,-34.8707334,15z/data=!4m2!3m1!1s0x0:0x19edc2b6cfd75ae6)<br>
+Date: Saturday, 25 July<br>
+Hours: 10am - 6pm <br>
+Signup: [Free](http://www.meetup.com/pt/NodeBotsRec/events/223763383/)<br>
+Sponsors: [CESAR](http://www.cesar.org.br/), [Robô Livre](http://robolivre.org/), [ROBOThink](http://www.robothink.org/)
+
 
 ### North America
 
