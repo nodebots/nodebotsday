@@ -1,6 +1,6 @@
-## NodeBots Day July 25 2015
+## NodeBots Day July 30 2016
 
-NodeBots Day is back for 2015. We'll join together across the world to create and learn. Organized by the [@voodootikigod](http://twitter.com/voodootikigod) himself!
+NodeBots Day is back for 2016. We'll join together across the world to create and learn. Organized by the [@voodootikigod](http://twitter.com/voodootikigod) himself!
 
 NodeBots Day is not a hackathon. There will be no prizes other than the satisfaction of making something awesome! There will be very little in the way of talks. We're going to get together, collaborate and hack. The focus of NodeBots Day is on sharing and enjoying each other's company. And JavaScript. Lots of JavaScript.
 
@@ -19,7 +19,7 @@ After the first NodeBots event at JSConf US 2013, there was a desire to take the
 
 This year let's take things a step further and connect the local events. If you'd like to help connect everybody, please volunteer.
 
-## 2015 Locations (TO BE ANNOUNCED)
+## 2016 Locations (TO BE ANNOUNCED)
 
 [Event Location Map: events.geojson](events.geojson)
 
@@ -157,16 +157,14 @@ Sponsors: [Thinkful](https://www.thinkful.com/get-started/)
 
 #### Norfolk, Virginia
 Organizers: [Norfolk.js](https://twitter.com/norfolkjs)<br>
-Location: [757 Makerspace](http://www.757makerspace.com) 421 W. 22nd Street Norfolk, Va 23517<br>
+Location: TBD <br>
 Hours: 10am - 5pm EDT<br>
-Signup: [Norfolk.js Meetup Page](http://www.meetup.com/NorfolkJS/events/221347964/)<br>
+Signup: [Norfolk.js Meetup Page](http://www.meetup.com/NorfolkJS/events/228925845/)<br>
 Sponsors:
 * [757 Makerspace](http://www.757makerspace.com)
 * [Grow](http://www.thisisgrow.com)
-* [CodeBetter.com](http://www.codebetter.com/)
 * [Balderdash](http://www.balderdash.co)
 * [ETA](http://www.eta.im)
-* [Designology](http://www.designology757.com)
 
 Sponsors: We need sponsors! Tweet us @norfolkjs
 
