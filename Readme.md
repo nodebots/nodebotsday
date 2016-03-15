@@ -134,6 +134,13 @@ Sponsors:
 * [DataYard](http://datayardworks.com)
 * [Sparkbox](http://seesparkbox.com)
 
+#### Houston, Texas
+Organizers: [@juxta52](https://twitter.com/juxta52), [@poeticninja](https://twitter.com/poeticninja), [@dtex](https://twitter.com/dtex)<br>
+Location: TBD<br>
+Hours: TBD<br>
+Signup: Coming soon
+Sponsors: We need sponsors! Tweet any of us
+
 #### Miami/Fort Lauderdale, Florida USA
 Organizers:
 * [onel0p3z](https://twitter.com/onel0p3z)
