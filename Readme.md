@@ -274,6 +274,14 @@ Hours: 10 - 5pm<br>
 Signup: [Tickets $15 - discounts available](https://ti.to/nodebots-new-zealand/international-nodebots-day-2015)<br>
 Sponsors: Xero, TradeMe, Atomic, Media Suite, Hoist
 
+#### Tokyo, Japan
+Organizers: [@ega1979](=https://twitter.com/ega1979i)<br>
+Location: TBD
+Hours: TBD
+Signup: Coming soon
+Sponsors: We need sponsors! Tweet any of us
+
+
 ### Europe
 
 #### London, UK
