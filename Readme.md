@@ -17,7 +17,7 @@ Want to organize a local NodeBots Day event. You should!
 * Join the mailing list: [NodeBots Day Google Group](https://groups.google.com/forum/#!forum/nodebotsday)
 * Join our [Slack](https://nodebotsday-chat.herokuapp.com/)
 * See also [Organizers.md](https://github.com/nodebots/nodebotsday/blob/master/Organizers.md)
-* Copy the [template](_template/) and add yourself to the list below and the [2016 geojson](2016/events.geojson) file
+* Copy the [template](2016/_template/) and add yourself to the list below and the [2016 geojson](2016/events.geojson) file
 
 ## 2016 Locations! [Signing up New Locations Now!](2016/_template/)
 
