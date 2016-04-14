@@ -4,7 +4,7 @@ Each year our community around the world gather on a single day to learn and mak
 
 NodeBots Day is not a hackathon. There will be no prizes other than the satisfaction of making something awesome! Each event has experts on hand to help you build your project and start you on the path to building awesome devices. Overall we're going to get together, collaborate and hack. The focus of NodeBots Day is on sharing and enjoying each other's company and JavaScript. Lots of JavaScript.
 
-Follow [@nodebotsday](https://twitter.com/nodebotsday) for more info.
+Follow [@nodebots](https://twitter.com/nodebots) and [@nodebotsday](https://twitter.com/nodebotsday) for more info.
 
 ## Worldwide Community
 
@@ -15,6 +15,7 @@ After the first NodeBots event at JSConf US 2013, there was a desire to take the
 Want to organize a local NodeBots Day event. You should!
 
 * Join the mailing list: [NodeBots Day Google Group](https://groups.google.com/forum/#!forum/nodebotsday)
+* Join our [Slack](https://nodebotsday-chat.herokuapp.com/)
 * See also [Organizers.md](https://github.com/nodebots/nodebotsday/blob/master/Organizers.md)
 * Copy the [template](_template/) and add yourself to the list below and the [2016 geojson](2016/events.geojson) file
 
