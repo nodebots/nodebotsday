@@ -40,6 +40,7 @@ Want to organize a local NodeBots Day event. You should!
 
 ### North America
  - [Boston, Massachusetts, USA](2016/boston/)
+ - [Dayton, OH, USA](2016/dayton/)
  - [Houston, Texas, USA](2016/houston/)
  - [New York City, USA](2016/nyc/)
  - [Norfolk, Virginia, USA](2016/norfolk)
