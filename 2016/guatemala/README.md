@@ -1,14 +1,14 @@
 # NodeBots Day 2016 for Guatemala City, Guatemala
 - Organizers: 
-	* Adrián Catalán(@ykro) - adrian@bitandik.com
-	* Alfredo Ortíz (@alfjos) 	
-Home Page: [Confirma tu asistencia aquí] (http://www.meetup.com/Innovation-Guatemala/events/230541501/)
-Ticket Link: [Confirma tu asistencia aquí] (http://www.meetup.com/Innovation-Guatemala/events/230541501/)
-Location: Universidad Galileo - 7ma avenida final, Calle Dr. Suger, Zona 10
-Date: July 30, 2016
-Hours: 9AM - 12PM
-Expected # of attendees: 40
-Sponsors: 
+	* Adrián Catalán([@ykro](http://twitter.com/ykro)) - adrian@bitandik.com
+	* Alfredo Ortíz ([@alfjos](http://twitter.com/alfjos)) 	
+- Home Page: [Confirma tu asistencia aquí] (http://www.meetup.com/Innovation-Guatemala/events/230541501/)
+- Ticket Link: [Confirma tu asistencia aquí] (http://www.meetup.com/Innovation-Guatemala/events/230541501/)
+- Location: Universidad Galileo - 7ma avenida final, Calle Dr. Suger, Zona 10
+- Date: July 30, 2016
+- Hours: 9AM - 12PM
+- Expected # of attendees: 40
+- Sponsors: 
 	* Universidad Galileo
 	* Sparkfun
 	* looking for more
