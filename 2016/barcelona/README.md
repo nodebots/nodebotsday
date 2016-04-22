@@ -1,12 +1,11 @@
 # NodeBots Day 2016 for Barcelona, Spain!
 
- - Organizers: 
  - Organizers: [@dcanetma](https://twitter.com/dcanetma), [@alfonsofonso](https://twitter.com/alfonsofonso)
  - Home Page: {Can be your ticket/event page}
  - Ticket Link: {TBD}
  - Location: {TBD}
  - Date: July 30, 2016
- - Hours: 10am-5pm
+ - Hours: 10am-6pm
  - Expected # of attendees: 20 (maybe more later) 
  - Sponsors: {Needs Sponsors/ List of Sponsors}
    * we'll look for those
