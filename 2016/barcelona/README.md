@@ -1,19 +1,15 @@
-# How to Make a new event!
+# NodeBots Day 2016 for Barcelona, Spain!
 
-Copy this folder and make a new directory with your City's name and then fill out the info below. If you'd like help please [open an issue](https://github.com/nodebots/nodebotsday/issues/new) and ask us anything. When you're done add yourself to the [geojson file](/2016/events.geojson) so you can show up on the map.
-
----
-
-# NodeBots Day 2016 for {CITY}, {COUNTRY}!
-
- - Organizers: {NAMES, EMAILS, TWITTER, ETC - AT least one point of contact}
+ - Organizers: 
+ - Organizers: [@dcanetma](https://twitter.com/dcanetma), [@alfonsofonso](https://twitter.com/alfonsofonso)
  - Home Page: {Can be your ticket/event page}
  - Ticket Link: {TBD}
  - Location: {TBD}
  - Date: July 30, 2016
- - Hours: {TBD}
- - Expected # of attendees: {Usually 40-100, sometimes 15, sometimes 400}
+ - Hours: 10am-5pm
+ - Expected # of attendees: 20 (maybe more later) 
  - Sponsors: {Needs Sponsors/ List of Sponsors}
+   * we'll look for those
 
 # TODO
 
@@ -29,6 +25,3 @@ Copy this folder and make a new directory with your City's name and then fill ou
  - [ ] Recruit Attendees (See #193)
 
 # Notes
-
-* We're still looking for Volunteers
-* We're proposing (Hangar)[https://hangar.org] to be the Venue
