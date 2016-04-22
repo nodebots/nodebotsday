@@ -29,3 +29,6 @@ Copy this folder and make a new directory with your City's name and then fill ou
  - [ ] Recruit Attendees (See #193)
 
 # Notes
+
+* We're still looking for Volunteers
+* We're proposing (Hangar)[https://hangar.org] to be the Venue
