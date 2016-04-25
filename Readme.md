@@ -36,7 +36,7 @@ Want to organize a local NodeBots Day event. You should!
  - [Be the first this year!](2016/_template/)
 
 ### Europe
- - [Be the first this year!](2016/_template/)
+ - [Barcelona, Catalunya, Spain](2016/barcelona/)
 
 ### North America
  - [Boston, Massachusetts, USA](2016/boston/)
