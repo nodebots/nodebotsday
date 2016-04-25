@@ -45,6 +45,9 @@ Want to organize a local NodeBots Day event. You should!
  - [New York City, USA](2016/nyc/)
  - [Norfolk, Virginia, USA](2016/norfolk)
 
+### Central America
+ - [Guatemala City, Guatemala](2016/guatemala/)
+
 ### South America
  - [Be the first this year!](2016/_template/)
 
