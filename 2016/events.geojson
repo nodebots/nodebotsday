@@ -187,6 +187,19 @@
         "name": "Barcelona, Spain"
         
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.822756,
+          145.039271
+        ]
+      },
+      "properties": {
+        "name": "Melbourne, Australia"
+      }
     }
   ]
 }
