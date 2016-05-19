@@ -1,16 +1,14 @@
-# NodeBots Day 2016 for Melbourne, Australia!
+# NodeBots Day 2016 for Brisbane, Australia!
 
- - Organizers: Andrew Fisher [twitter](http://twitter.com/ajfisher)
+ - Organizers: Glenn Arrowsmith [twitter](http://twitter.com/garrows)
  - Home Page: [NodeBots AU website](http://nodebotsau.io)
- - Ticket Link: [NodeBots Day 2016 EventBrite](http://www.eventbrite.com.au/e/international-nodebots-day-melbourne-2016-tickets-25227432931)
- - Location: Advanced Manufacturing and Design Centre, Burwood Road, Hawthorn, Victoria
+ - Ticket Link: TBA
+ - Location: The Edge, State Library of Queensland
  - Date: July 23, 2016
  - Hours: 10am - 5pm
- - Expected # of attendees: 100-150
+ - Expected # of attendees: 80-100
  - Sponsors:
-    * Swinburne University
-    * Rocket Melbourne
-    * Hack Melbourne
+    * State Library of Queensland
 
 # TODO
 
