@@ -10,7 +10,7 @@
  - Sponsors:
   * [757 Makerspace](http://www.757makerspace.com)
   * [Grow](http://www.thisisgrow.com)
-  * [Balderdash](http://www.balderdash.co)
+  * [Langa](http://www.langa.io)
   * [ETA](http://www.eta.im)
 
 # TODO
