@@ -4,8 +4,8 @@
  - Home Page: 
  - Ticket Link: N/A - free
  - Location: 2000 Avenue of the Stars, Los Angeles, CA 90067
- - Date: {TBD} June 30th or August 6th
- - Hours: 8am-5pm
+ - Date: August 6th
+ - Hours: 9am-5pm
  - Expected # of attendees: 80 (maybe more later)
  - Sponsors:
   * [CAA](https://caa.com)
@@ -24,6 +24,6 @@
  - [ ] Recruit Attendees (See #193)
 
 # Notes
-We're working on our curriculum.  We're still looking for Volunteers.  The event will be attended by High School Students from Communities and Schools.
+We're working on our curriculum.  We're still looking for Volunteers. 
 
-We're likely using Tessel 2
+Using Tessel 2
