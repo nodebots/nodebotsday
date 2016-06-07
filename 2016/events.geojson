@@ -200,6 +200,19 @@
       "properties": {
         "name": "Melbourne, Australia"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.624107,
+          -122.3397087
+        ]
+      },
+      "properties": {
+        "name": "Seattle, WA"
+      }
     }
   ]
 }
