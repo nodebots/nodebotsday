@@ -1,0 +1,218 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+
+      "geometry": {
+
+        "type": "Point",
+
+        "coordinates": [
+
+          139.6917,
+
+          35.6895
+        ]
+      },
+      "properties": {
+
+        "name": "Tokyo, Japan"
+        
+      }
+    },
+    {
+
+      "type": "Feature",
+
+      "geometry": {
+
+        "type": "Point",
+
+        "coordinates": [
+
+          -76.290546,
+
+          36.869334
+
+        ]
+
+      },
+
+      "properties": {
+
+        "name": "Norfolk, Va"
+
+      }
+
+    },
+
+    {
+
+      "type": "Feature",
+
+      "geometry": {
+
+        "type": "Point",
+
+        "coordinates": [
+
+          -74.0059,
+
+          40.7128
+
+        ]
+
+      },
+
+      "properties": {
+
+        "name": "New York City"
+
+      }
+
+    },
+
+    {
+
+      "type": "Feature",
+
+      "geometry": {
+
+        "type": "Point",
+
+        "coordinates": [
+
+          -71.0589,
+
+          42.3601
+
+        ]
+
+      },
+
+      "properties": {
+
+        "name": "Boston, USA"
+
+      }
+
+    },
+
+    {
+
+      "type": "Feature",
+
+      "geometry": {
+
+        "type": "Point",
+
+        "coordinates": [
+
+          -95.3698,
+
+          29.7604
+
+        ]
+
+      },
+
+      "properties": {
+
+        "name": "Houston, Texas, USA"
+
+      }
+    },
+    {
+
+      "type": "Feature",
+
+      "geometry": {
+
+        "type": "Point",
+
+        "coordinates": [
+
+          -84.182749,
+
+          39.763243
+
+        ]
+      },
+
+      "properties": {
+
+        "name": "Dayton, Ohio"
+
+      }
+    },  
+    {
+
+      "type": "Feature",
+
+      "geometry": {
+
+        "type": "Point",
+
+        "coordinates": [
+
+           -90.505628,
+            14.609971
+
+        ]
+      },
+
+      "properties": {
+
+        "name": "Guatemala City, Guatemala"
+
+      }
+    },
+    {
+      "type": "Feature",
+
+      "geometry": {
+
+        "type": "Point",
+
+        "coordinates": [
+
+          2.198792,
+
+          41.40794
+        ]
+      },
+      "properties": {
+
+        "name": "Barcelona, Spain"
+        
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.039271,
+         -37.822756
+        ]
+      },
+      "properties": {
+        "name": "Melbourne, Australia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3397087,
+          47.624107
+        ]
+      },
+      "properties": {
+        "name": "Seattle, WA"
+      }
+    }
+  ]
+}
