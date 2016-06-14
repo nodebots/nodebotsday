@@ -18,7 +18,7 @@
       "properties": {
 
         "name": "Tokyo, Japan"
-        
+
       }
     },
     {
@@ -109,9 +109,9 @@
 
         "coordinates": [
 
-          -95.3698,
+          -95.341341,
 
-          29.7604
+          29.72116
 
         ]
 
@@ -145,7 +145,7 @@
         "name": "Dayton, Ohio"
 
       }
-    },  
+    },
     {
 
       "type": "Feature",
@@ -185,7 +185,7 @@
       "properties": {
 
         "name": "Barcelona, Spain"
-        
+
       }
     },
     {
