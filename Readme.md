@@ -33,7 +33,9 @@ Want to organize a local NodeBots Day event. You should!
  - [Tokyo, Japan](2016/tokyo/)
 
 ### Australia
- - [Be the first this year!](2016/_template/)
+ - [Melbourne, Australia](http://nodebotsau.io/)
+ - [Brisbane, Australia](http://nodebotsau.io/)
+ - [Sydney, Australia](https://github.com/nodebotsau/nbdau/issues/48) (soon)
 
 ### Europe
  - [Barcelona, Catalunya, Spain](2016/barcelona/)
