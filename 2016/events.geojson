@@ -98,7 +98,30 @@
       }
 
     },
+    {
 
+      "type": "Feature",
+
+      "geometry": {
+
+        "type": "Point",
+
+        "coordinates": [
+
+          -96.79698789999999,
+
+          32.7766642
+
+        ]
+
+      },
+
+      "properties": {
+
+        "name": "Dallas, Texas, USA"
+
+      }
+    },
     {
 
       "type": "Feature",
