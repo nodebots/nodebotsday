@@ -83,6 +83,31 @@
 
         "coordinates": [
 
+          -111.8359032,
+
+          33.4153254
+
+        ]
+
+      },
+
+      "properties": {
+
+        "name": "Mesa, AZ"
+
+      }
+
+    },
+    {
+
+      "type": "Feature",
+
+      "geometry": {
+
+        "type": "Point",
+
+        "coordinates": [
+
           -71.0589,
 
           42.3601
