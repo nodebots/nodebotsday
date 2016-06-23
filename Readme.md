@@ -48,6 +48,7 @@ Want to organize a local NodeBots Day event. You should!
  - [Los Angeles, California, USA](2016/la)
  - [New York City, USA](2016/nyc/)
  - [Norfolk, Virginia, USA](2016/norfolk)
+ - [Phoenix/Mesa, Arizona, USA](2016/phoenix)
  - [Sacramento, California, USA](2016/sacramento)
  - [Seattle, Washington, USA](2016/seattle)
 
