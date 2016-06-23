@@ -3,7 +3,7 @@
 ## NOTICE: Our event is a WEEK EARLIER !
 
  - Organizers: Luis Montes [@monteslu](https://twitter.com/monteslu)
- - Ticket Link: [tito.io](https://ti.to/monteslu/nodebots-day-phx-2016)
+ - Ticket Link: [https://ti.to/monteslu/nodebots-day-phx-2016](https://ti.to/monteslu/nodebots-day-phx-2016)
  - Location: [HeatSync Labs](http://heatsynclabs.org) 
         140 W Main St
         Mesa, AZ
