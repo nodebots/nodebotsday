@@ -56,7 +56,7 @@ Want to organize a local NodeBots Day event. You should!
  - [Guatemala City, Guatemala](2016/guatemala/)
 
 ### South America
- - [Be the first this year!](2016/_template/)
+ - [Porto Alegre, Brasil] (2016/portoalegre)
 
 ## Sponsors
 
