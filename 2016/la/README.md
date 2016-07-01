@@ -1,6 +1,6 @@
 # NodeBots Day 2016 for Los Angeles!
 
- - Organizers: Creative Artists Agency (CAA) caanodebotevent@caa.com
+ - Organizers: Creative Artists Agency (CAA) http://nodebotsday.caa.com/
  - Home Page: 
  - Ticket Link: N/A - free
  - Location: 2000 Avenue of the Stars, Los Angeles, CA 90067
