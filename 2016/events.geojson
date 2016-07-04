@@ -238,6 +238,26 @@
     },
     {
       "type": "Feature",
+
+      "geometry": {
+
+        "type": "Point",
+
+        "coordinates": [
+
+          -87.63587,
+
+          41.90078
+        ]
+      },
+      "properties": {
+
+        "name": "Chicago, IL"
+
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
