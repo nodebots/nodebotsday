@@ -1,18 +1,20 @@
 NodeBots Day 2016 for Chicago,IL United Stated!
 
 Organizers: Gabrielle Crevecoeur @nowayshecodes gacreve@microsoft.com
+            David Giard @davidgiard  dgiard@microsoft.com
+            Mike Hostetler @mikehostetler  mike@epicfirm.com
 
-Home Page: {Can be your ticket/event page}
+Home Page: https://www.eventbrite.com/e/international-nodebots-day-chicago-tickets-25845975007?aff=es2
 
-Ticket Link: {TBD}
+Ticket Link: https://www.eventbrite.com/e/international-nodebots-day-chicago-tickets-25845975007?aff=es2
 
-Location: Braintree 222 W Merchandise Mart Plaza, Chicago, IL 60654
+Location: 1871 -- 222 W Merchandise Mart Suite 1212, IL 60654
 
 Date: July 30, 2016
 
-Hours: {TBD}
+Hours: 9 AM - 5 PM
 
-Expected # of attendees:100
+Expected # of attendees:60
 
-Sponsors: {Needs Sponsors/ List of Sponsors}
+Sponsors: Microsoft, Table XI 
 
