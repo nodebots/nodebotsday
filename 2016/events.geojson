@@ -281,6 +281,31 @@
       "properties": {
         "name": "Seattle, WA"
       }
+    },
+    {
+
+      "type": "Feature",
+
+      "geometry": {
+
+        "type": "Point",
+
+        "coordinates": [
+
+          -79.936352,
+
+          32.784893
+
+        ]
+
+      },
+
+      "properties": {
+
+        "name": "Charleston, SC"
+
+      }
+
     }
   ]
 }
