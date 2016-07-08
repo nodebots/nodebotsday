@@ -2,7 +2,7 @@
 
  - Organizers: Francis Gulotta francis@bocoup.com [@reconbot](https://twitter.com/reconbot)
  - Home Page: http://nodebots.nyc/
- - Ticket Link: {TBD}
+ - Ticket Link: https://ti.to/bocoup/nodebots-day-nyc-2016
  - Location: {TBD}
  - Date: July 30, 2016
  - Hours: 10am-5pm
