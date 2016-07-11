@@ -41,7 +41,6 @@ Want to organize a local NodeBots Day event. You should!
  - [Barcelona, Catalunya, Spain](2016/barcelona/)
 
 ### North America
- - [Boston, Massachusetts, USA](2016/boston/)
  - [Charleston, SC, USA](2016/charleston/)
  - [Dayton, OH, USA](2016/dayton/)
  - [Dallas, Texas, USA](2016/dallas/)
