@@ -21,7 +21,7 @@ Copy this folder and make a new directory with your City's name and then fill ou
    22209
  - Date: July 30, 2016
  - Hours: {TBD}
- - Expected # of attendees: {40}
+ - Expected # of attendees: {50}
  - Sponsors:
   * [Bocoup](https://bocoup.com) and [SparkFun](https://www.sparkfun.com) for curriculum and parts discount
   * [Fluencia](http://www.fluencia.com/) 
