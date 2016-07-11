@@ -4,18 +4,18 @@ Copy this folder and make a new directory with your City's name and then fill ou
 
 ---
 
-# NodeBots Day 2016 for {CITY}, {COUNTRY}!
+# NodeBots Day 2016 for Washington DC, USA!
 
  - Organizers: 
   * [Robbie Holmes]()
   * [Dan Paz-Soldan]()
-  * [Juan Caicedo]()
   * [Benjamin Crane](https://github.com/benjamincrane) 
  - Home Page: 
   * [NodeBots Day DC](http://www.meetup.com/node-dc/events/232387543/)
- - Ticket Link: {TBD}
+ - Ticket Link:
+  * [DC NodeBots Day Tickets](https://ti.to/node-bots-day/2016-dc-nodebots-day)
  - Location: 
-   Fluencia 
+   Curiosity Media 
    1400 Key Boulevard, Level A Key Blvd, 
    Arlington, VA
    22209
