@@ -3,24 +3,25 @@
  - Organizers: Francis Gulotta francis@bocoup.com [@reconbot](https://twitter.com/reconbot)
  - Home Page: http://nodebots.nyc/
  - Ticket Link: https://ti.to/bocoup/nodebots-day-nyc-2016
- - Location: {TBD}
+ - Location: Meetup HQ
  - Date: July 30, 2016
  - Hours: 10am-5pm
- - Expected # of attendees: 40 (maybe more later)
+ - Expected # of attendees: 40 
  - Sponsors:
   * [Bocoup](https://bocoup.com) and [SparkFun](https://www.sparkfun.com) for curriculum and parts discount
-  * Still looking for a location.
+  * Meetup
+  * Still looking for diversity tickets and battery sponsor.
 
 # TODO
 
  - [ ] Recruit Sponsors
- - [ ] Figure out how you're feeding your attendees if you're feeding them
+ - [x] Figure out how you're feeding your attendees if you're feeding them
  - [x] Secure a location
  - [x] Determine a Time
  - [x] Determine a Max # of attendees:
- - [ ] Recruit Volunteers (1 for every 10 works if you've done this before)
+ - [x] Recruit Volunteers (1 for every 10 works if you've done this before)
  - [x] Determine Curriculum and Projects
- - [ ] Setup Ticketing Presales (eg, [Tito](https://ti.to/))
+ - [x] Setup Ticketing Presales (eg, [Tito](https://ti.to/))
  - [ ] Order Parts
  - [ ] Recruit Attendees (See #193)
 
