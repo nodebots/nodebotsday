@@ -45,6 +45,7 @@ Want to organize a local NodeBots Day event. You should!
 
 ### North America
  - [Charleston, SC, USA](2016/charleston/)
+ - [Chicago, IL, USA](2016/chicago/)
  - [Dayton, OH, USA](2016/dayton/)
  - [Dallas, Texas, USA](2016/dallas/)
  - [Houston, Texas, USA](2016/houston/)
