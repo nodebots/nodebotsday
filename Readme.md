@@ -2,9 +2,12 @@
 
 Each year our community around the world gather on a single day to learn and make together. We call this NodeBots Day! This year it's on July 30, 2016
 
-NodeBots Day is not a hackathon. There will be no prizes other than the satisfaction of making something awesome! Each event has experts on hand to help you build your project and start you on the path to building awesome devices. Overall we're going to get together, collaborate and hack. The focus of NodeBots Day is on sharing and enjoying each other's company and JavaScript. Lots of JavaScript.
+NodeBots Day is world wide event where people learn how to control the physical world with JavaScript. We want you to leave with the satisfaction of making something awesome! Each event has experts on hand to help you build your project and start you on the path to building awesome devices. Overall we're going to get together, collaborate and hack. The focus of NodeBots Day is on sharing and enjoying each other's company and JavaScript. Lots of JavaScript.
 
 Follow [@nodebots](https://twitter.com/nodebots) and [@nodebotsday](https://twitter.com/nodebotsday) for more info.
+
+## Want to attend an event?
+Check out [nodebots.io](http://nodebots.io) to find an event near you.
 
 ## Worldwide Community
 
