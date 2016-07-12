@@ -306,6 +306,19 @@
 
       }
 
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.198305,
+          25.7963503
+        ]
+      },
+      "properties": {
+        "name": "Miami, Florida"
+      }
     }
   ]
 }

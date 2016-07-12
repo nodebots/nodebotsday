@@ -46,6 +46,7 @@ Want to organize a local NodeBots Day event. You should!
  - [Dallas, Texas, USA](2016/dallas/)
  - [Houston, Texas, USA](2016/houston/)
  - [Los Angeles, California, USA](2016/la)
+ - [Miami, Florida, USA](2016/miami)
  - [New York City, USA](2016/nyc/)
  - [Norfolk, Virginia, USA](2016/norfolk)
  - [Phoenix/Mesa, Arizona, USA](2016/phoenix)
