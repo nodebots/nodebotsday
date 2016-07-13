@@ -308,6 +308,7 @@
 
     },
     {
+<<<<<<< HEAD
       "type": "Feature",
       "geometry": {
         "type": "Point",
