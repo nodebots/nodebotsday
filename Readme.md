@@ -56,6 +56,7 @@ Want to organize a local NodeBots Day event. You should!
  - [Phoenix/Mesa, Arizona, USA](2016/phoenix)
  - [Sacramento, California, USA](2016/sacramento)
  - [Seattle, Washington, USA](2016/seattle)
+ - [Mexico City, Mexico](2016/mexico)
 
 ### Central America
  - [Guatemala City, Guatemala](2016/guatemala/)

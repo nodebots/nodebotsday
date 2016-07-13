@@ -3,257 +3,145 @@
   "features": [
     {
       "type": "Feature",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates": [
-
           139.6917,
-
           35.6895
         ]
       },
       "properties": {
-
         "name": "Tokyo, Japan"
-
       }
     },
     {
-
       "type": "Feature",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates": [
-
           -76.290546,
-
           36.869334
-
         ]
-
       },
-
       "properties": {
-
         "name": "Norfolk, Va"
-
       }
-
     },
-
     {
-
       "type": "Feature",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates": [
-
           -74.0059,
-
           40.7128
-
         ]
-
       },
-
       "properties": {
-
         "name": "New York City"
-
       }
-
     },
-
     {
-
       "type": "Feature",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates": [
-
           -111.8359032,
-
           33.4153254
-
         ]
-
       },
-
       "properties": {
-
         "name": "Mesa, AZ"
-
       }
-
     },
     {
-
       "type": "Feature",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates": [
-
           -71.0589,
-
           42.3601
-
         ]
-
       },
-
       "properties": {
-
         "name": "Boston, USA"
-
       }
-
     },
     {
-
       "type": "Feature",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates": [
-
-          -96.79698789999999,
-
+          -96.7969879,
           32.7766642
-
         ]
-
       },
-
       "properties": {
-
         "name": "Dallas, Texas, USA"
-
       }
     },
     {
-
       "type": "Feature",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates": [
-
           -95.341341,
-
           29.72116
-
         ]
-
       },
-
       "properties": {
-
         "name": "Houston, Texas, USA"
-
       }
     },
     {
-
       "type": "Feature",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates": [
-
           -84.182749,
-
           39.763243
-
         ]
       },
-
       "properties": {
-
         "name": "Dayton, Ohio"
-
       }
     },
     {
-
       "type": "Feature",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates": [
-
-           -90.505628,
-            14.609971
-
+          -90.505628,
+          14.609971
         ]
       },
-
       "properties": {
-
         "name": "Guatemala City, Guatemala"
-
       }
     },
     {
       "type": "Feature",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates": [
-
           2.198792,
-
           41.40794
         ]
       },
       "properties": {
-
         "name": "Barcelona, Spain"
-
       }
     },
     {
       "type": "Feature",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates": [
-
           -87.63587,
-
           41.90078
         ]
       },
       "properties": {
-
         "name": "Chicago, IL"
-
       }
     },
     {
@@ -262,7 +150,7 @@
         "type": "Point",
         "coordinates": [
           145.039271,
-         -37.822756
+          -37.822756
         ]
       },
       "properties": {
@@ -283,29 +171,17 @@
       }
     },
     {
-
       "type": "Feature",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates": [
-
           -79.936352,
-
           32.784893
-
         ]
-
       },
-
       "properties": {
-
         "name": "Charleston, SC"
-
       }
-
     },
     {
       "type": "Feature",
@@ -318,6 +194,19 @@
       },
       "properties": {
         "name": "Miami, Florida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1635,
+          19.34507
+        ]
+      },
+      "properties": {
+        "name": "Mexico City, Mexico"
       }
     }
   ]
