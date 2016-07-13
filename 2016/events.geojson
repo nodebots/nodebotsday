@@ -306,6 +306,30 @@
 
       }
 
+    },
+    {
+
+      "type": "Feature",
+
+      "geometry": {
+
+        "type": "Point",
+
+        "coordinates": [
+
+          -99.16350,
+          19.34507
+
+        ]
+
+      },
+
+      "properties": {
+
+        "name": "Mexico City, Mexico"
+
+      }
+
     }
   ]
 }
