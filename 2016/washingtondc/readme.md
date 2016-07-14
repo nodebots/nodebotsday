@@ -6,7 +6,7 @@
   * [Dan Paz-Soldan]()
   * [Benjamin Crane](https://github.com/benjamincrane) 
  - Home Page: 
-  * [NodeBots Day DC](http://www.meetup.com/node-dc/events/232387543/)
+  * [NodeBots Day DC](https://nodedc.github.io/bots/)
  - Ticket Link:
   * [DC NodeBots Day Tickets](https://ti.to/node-bots-day/2016-dc-nodebots-day)
  - Location: 
