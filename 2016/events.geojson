@@ -208,6 +208,19 @@
       "properties": {
         "name": "Mexico City, Mexico"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0364,
+          38.8951
+        ]
+      },
+      "properties": {
+        "name": "Washington DC, USA"
+      }
     }
   ]
 }
