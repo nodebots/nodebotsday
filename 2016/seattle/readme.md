@@ -4,24 +4,24 @@
 
  - Organizers: Greg Bulmash (mail: gregb@seattlecoderdojo.com)
  - Home Page: http://www.seattlecoderdojo.com
- - Ticket Link: (Coming July 5th... if we get enough volunteers)
+ - Ticket Link: http://www.seattlecoderdojo.com/seattle-coderdojo-robotics-day/
  - Volunteer Link: http://www.seattlecoderdojo.com/volunteers/nodebotsday2016/
  - Location: Amazon.com
  - Date: July 30, 2016
- - Hours: 8:30 A.M. TO 4:30 P.M. (Robotics **Day**, baby)
+ - Hours: 8:30 A.M. TO 4:30 P.M. (volunteers), 9:45 A.M. - 3:30 P.M. (kids & parents)
  - Expected # of attendees: 100 kids + parents + Volunteers
  - Sponsors: Amazon.com (space), Seattle CoderDojo (admin)
 
 # TODO
 
- - [ ] Setup Ticketing Presales (plan to launch this via Eventbrite on July 5)
- - [ ] Order Parts (have some from last year, see volunteer link above)
+ - [x] Setup Ticketing Presales (plan to launch this via Eventbrite on July 5)
+ - [x] Order Parts (have some from last year, see volunteer link above)
  - [x] Secure a location
  - [x] Determine a Time
  - [x] Determine a Max # of attendees (100 participants)
- - [ ] Recruit Volunteers
- - [ ] Determine Curriculum and Projects (See #191 the [J5IK](https://www.sparkfun.com/nodebots2016) will be providing projects and SuoBot curriculum this year.)
- - [ ] Recruit Attendees (See #193)
+ - [x] Recruit Volunteers
+ - [x] Determine Curriculum and Projects
+ - [x] Recruit Attendees (See #193)
 
 # Notes
 

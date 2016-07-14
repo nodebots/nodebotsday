@@ -2,9 +2,12 @@
 
 Each year our community around the world gather on a single day to learn and make together. We call this NodeBots Day! This year it's on July 30, 2016
 
-NodeBots Day is not a hackathon. There will be no prizes other than the satisfaction of making something awesome! Each event has experts on hand to help you build your project and start you on the path to building awesome devices. Overall we're going to get together, collaborate and hack. The focus of NodeBots Day is on sharing and enjoying each other's company and JavaScript. Lots of JavaScript.
+NodeBots Day is world wide event where people learn how to control the physical world with JavaScript. We want you to leave with the satisfaction of making something awesome! Each event has experts on hand to help you build your project and start you on the path to building awesome devices. Overall we're going to get together, collaborate and hack. The focus of NodeBots Day is on sharing and enjoying each other's company and JavaScript. Lots of JavaScript.
 
 Follow [@nodebots](https://twitter.com/nodebots) and [@nodebotsday](https://twitter.com/nodebotsday) for more info.
+
+## Want to attend an event?
+Check out [nodebots.io](http://nodebots.io) to find an event near you.
 
 ## Worldwide Community
 
@@ -41,17 +44,19 @@ Want to organize a local NodeBots Day event. You should!
  - [Barcelona, Catalunya, Spain](2016/barcelona/)
 
 ### North America
- - [Boston, Massachusetts, USA](2016/boston/)
  - [Charleston, SC, USA](2016/charleston/)
+ - [Chicago, IL, USA](2016/chicago/)
  - [Dayton, OH, USA](2016/dayton/)
  - [Dallas, Texas, USA](2016/dallas/)
  - [Houston, Texas, USA](2016/houston/)
  - [Los Angeles, California, USA](2016/la)
+ - [Miami, Florida, USA](2016/miami)
  - [New York City, USA](2016/nyc/)
  - [Norfolk, Virginia, USA](2016/norfolk)
  - [Phoenix/Mesa, Arizona, USA](2016/phoenix)
  - [Sacramento, California, USA](2016/sacramento)
  - [Seattle, Washington, USA](2016/seattle)
+ - [Mexico City, Mexico](2016/mexico)
 
 ### Central America
  - [Guatemala City, Guatemala](2016/guatemala/)

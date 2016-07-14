@@ -1,8 +1,9 @@
 NodeBots Day 2016 for Chicago,IL United Stated!
 
-Organizers: Gabrielle Crevecoeur @nowayshecodes gacreve@microsoft.com
-            David Giard @davidgiard  dgiard@microsoft.com
-            Mike Hostetler @mikehostetler  mike@epicfirm.com
+Organizers: 
+* Gabrielle Crevecoeur [@nowayshecodes](http://twitter.com/nowayshecodes) gacreve@microsoft.com
+* David Giard [@davidgiard](http://twitter.com/davidgiard)  dgiard@microsoft.com
+* Mike Hostetler [@mikehostetler](http://twitter.com/mikehostetler)  mike@epicfirm.com
 
 Home Page: https://www.eventbrite.com/e/international-nodebots-day-chicago-tickets-25845975007?aff=es2
 
@@ -16,5 +17,5 @@ Hours: 9 AM - 5 PM
 
 Expected # of attendees:60
 
-Sponsors: Microsoft, Table XI 
+Sponsors: Microsoft, [Table XI](http://tablexi.com)
 
