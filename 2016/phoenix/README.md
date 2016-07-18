@@ -10,11 +10,11 @@
  - Date: July 23, 2016
  - Hours: 10 AM to 6 PM
  - Expected # of attendees: {Usually 25-30}
- - Sponsors: [IcedDev](https://iceddev.com)
+ - Sponsors: [Octoblu](https://octoblu.com) [IcedDev](https://iceddev.com) 
 
 # TODO
 
- - [ ] Recruit Sponsors (See #192 Bocoup has joined with SparkFun to sponsor any event this year, contact francis@bocoup.com for more info. More sponsors the merrier.)
+ - [X] Recruit Sponsors (See #192 Bocoup has joined with SparkFun to sponsor any event this year, contact francis@bocoup.com for more info. More sponsors the merrier.)
  - [X] Figure out how you're feeding your attendees if you're feeding them
  - [X] Setup Ticketing Presales (eg, [Tito](https://ti.to/))
  - [X] Order Parts
