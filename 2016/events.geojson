@@ -221,6 +221,19 @@
       "properties": {
         "name": "Washington DC, USA"
       }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.072240,
+          7.484954
+        ]
+      },
+      "properties": {
+        "name": "Abuja, Nigeria"
+      }
     }
   ]
 }
