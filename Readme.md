@@ -27,7 +27,7 @@ Want to organize a local NodeBots Day event. You should!
 [Event Location Map: events.geojson](2016/events.geojson)
 
 ### Africa
- - [Be the first this year!](2016/_template/)
+ - [Abuja, Nigeria](2016/abuja/)
 
 ### Antarctica
  - We can help make this happen! [Be the first ever!](2016/_template/)
