@@ -234,6 +234,19 @@
       "properties": {
         "name": "Abuja, Nigeria"
       }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.1900651,
+          -149.9124668          
+        ]
+      },
+      "properties": {
+        "name": "Anchorage Alaska"
+      }
     }
   ]
 }
