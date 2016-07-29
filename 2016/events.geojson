@@ -222,30 +222,43 @@
         "name": "Washington DC, USA"
       }
     },
-        {
+    {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           7.484954,
-          9.072240          
+          9.072240
         ]
       },
       "properties": {
         "name": "Abuja, Nigeria"
       }
     },
-        {
+    {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           61.1900651,
-          -149.9124668          
+          -149.9124668
         ]
       },
       "properties": {
         "name": "Anchorage Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.268005,
+          -75.567194
+        ]
+      },
+      "properties": {
+        "name": "Medellín, Colombia"
       }
     }
   ]
