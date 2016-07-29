@@ -240,6 +240,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          61.1900651,
+          -149.9124668
+        ]
+      },
+      "properties": {
+        "name": "Anchorage Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.268005,
           -75.567194
         ]
