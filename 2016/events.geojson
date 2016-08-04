@@ -240,8 +240,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          61.1900651,
-          -149.9124668
+          -149.9124668,
+          61.1900651
         ]
       },
       "properties": {
@@ -253,12 +253,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.268005,
-          -75.567194
+          -75.567194,
+          6.268005
         ]
       },
       "properties": {
         "name": "Medellín, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4550372,
+          -20.13159
+        ]
+      },
+      "properties": {
+        "name": "Bulawayo, Zimbabwe"
       }
     }
   ]
