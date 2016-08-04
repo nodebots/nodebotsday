@@ -273,6 +273,19 @@
       "properties": {
         "name": "Bulawayo, Zimbabwe"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7274742,
+          33.5718612
+        ]
+      },
+      "properties": {
+        "name": "Casablanca, Morocco"
+      }
     }
   ]
 }

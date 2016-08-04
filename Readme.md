@@ -28,6 +28,8 @@ Want to organize a local NodeBots Day event. You should!
 
 ### Africa
  - [Abuja, Nigeria](2016/abuja/)
+ - [Bulawayo, Zimbabwe](2016/bulawayo/)
+ - [Casablanca, Morocco](2016/casablanca/)
 
 ### Antarctica
  - We can help make this happen! [Be the first ever!](2016/_template/)
@@ -64,8 +66,8 @@ Want to organize a local NodeBots Day event. You should!
  - [Guatemala City, Guatemala](2016/guatemala/)
 
 ### South America
- - [Medellín, Colombia] (2016/medellin)
- - [Porto Alegre, Brasil] (2016/portoalegre)
+ - [Medellín, Colombia](2016/medellin)
+ - [Porto Alegre, Brasil](2016/portoalegre)
 
 ## Sponsors
 
