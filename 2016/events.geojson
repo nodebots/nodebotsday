@@ -267,7 +267,7 @@
         "type": "Point",
         "coordinates": [
           152.7130056,
-          -27.3806436,
+          -27.3806436
         ]
       },
       "properties": {
@@ -340,6 +340,6 @@
         "name": "Sacramento, CA, USA",
         "href": "https://ti.to/techramento/nodebots-day-by-sacjs"
       }
-    },
+    }
   ]
 }
