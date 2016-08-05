@@ -45,32 +45,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.8359032,
-          33.4153254
-        ]
-      },
-      "properties": {
-        "name": "Mesa, AZ"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.0589,
-          42.3601
-        ]
-      },
-      "properties": {
-        "name": "Boston, USA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -96.7969879,
           32.7766642
         ]
@@ -286,6 +260,86 @@
       "properties": {
         "name": "Casablanca, Morocco"
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.7130056,
+          -27.3806436,
+        ]
+      },
+      "properties": {
+        "name": "Brisbane, Australia",
+        "href": "http://nodebotsau.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4170219,
+          34.0583595
+        ]
+      },
+      "properties": {
+        "name": "Los Angeles, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4170219,
+          34.0583595
+        ]
+      },
+      "properties": {
+        "name": "Los Angeles, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8367468,
+          33.4152569
+        ]
+      },
+      "properties": {
+        "name": "Phoenix, AZ USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2918849,
+          -30.1021474
+        ]
+      },
+      "properties": {
+        "name": "Porto Alegre, Brasil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5795636,
+          38.5603832
+        ]
+      },
+      "properties": {
+        "name": "Sacramento, CA, USA",
+        "href": "https://ti.to/techramento/nodebots-day-by-sacjs"
+      }
+    },
   ]
 }
