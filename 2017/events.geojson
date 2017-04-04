@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.341341,
+          29.72116
+        ]
+      },
+      "properties": {
+        "name": "Houston, Texas, USA"
+      }
+    }
+  ]
+}

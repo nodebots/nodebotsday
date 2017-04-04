@@ -1,6 +1,6 @@
-## NodeBots Day July 30, 2016
+## NodeBots Day July 29, 2017
 
-Each year our community around the world gather on a single day to learn and make together. We call this NodeBots Day! This year it's on July 30, 2016
+Each year our community around the world gather on a single day to learn and make together. We call this NodeBots Day! This year it's on July 29, 2017
 
 NodeBots Day is world wide event where people learn how to control the physical world with JavaScript. We want you to leave with the satisfaction of making something awesome! Each event has experts on hand to help you build your project and start you on the path to building awesome devices. Overall we're going to get together, collaborate and hack. The focus of NodeBots Day is on sharing and enjoying each other's company and JavaScript. Lots of JavaScript.
 
@@ -19,55 +19,35 @@ Want to organize a local NodeBots Day event. You should!
 
 * Join the mailing list: [NodeBots Day Google Group](https://groups.google.com/forum/#!forum/nodebotsday)
 * Join our [Slack](https://nodebotsday-chat.herokuapp.com/)
-* See also [Organizers.md](https://github.com/nodebots/nodebotsday/blob/master/Organizers.md)
-* Copy the [template](2016/_template/) and add yourself to the list below and the [2016 geojson](2016/events.geojson) file
+* Copy the [template](2017/_template/) and add yourself to the list below and the [2017 geojson](2017/events.geojson) file
 
-## 2016 Locations! [Signing up New Locations Now!](2016/_template/)
+## 2017 Locations! [Signing up New Locations Now!](2017/_template/)
 
-[Event Location Map: events.geojson](2016/events.geojson)
+[Event Location Map: events.geojson](2017/events.geojson)
 
 ### Africa
- - [Abuja, Nigeria](2016/abuja/)
- - [Bulawayo, Zimbabwe](2016/bulawayo/)
- - [Casablanca, Morocco](2016/casablanca/)
+ - 
 
 ### Antarctica
- - We can help make this happen! [Be the first ever!](2016/_template/)
+ - [Be the first ever!](2017/_template/)
 
 ### Asia
- - [Tokyo, Japan](2016/tokyo/)
+ - 
 
 ### Australia
- - [Melbourne, Australia](http://nodebotsau.io/)
- - [Brisbane, Australia](http://nodebotsau.io/)
- - [Sydney, Australia](http://nodebotsau.io/)
+ - 
 
 ### Europe
- - [Barcelona, Catalunya, Spain](2016/barcelona/)
+ - 
 
 ### North America
- - [Charleston, SC, USA](2016/charleston/)
- - [Chicago, IL, USA](2016/chicago/)
- - [Dayton, OH, USA](2016/dayton/)
- - [Dallas, Texas, USA](2016/dallas/)
- - [Houston, Texas, USA](2016/houston/)
- - [Los Angeles, California, USA](2016/la)
- - [Mexico City, Mexico](2016/mexico)
- - [Miami, Florida, USA](2016/miami)
- - [New York City, USA](2016/nyc/)
- - [Norfolk, Virginia, USA](2016/norfolk)
- - [Phoenix/Mesa, Arizona, USA](2016/phoenix)
- - [Sacramento, California, USA](2016/sacramento)
- - [Seattle, Washington, USA](2016/seattle)
- - [Washington, DC, USA](2016/washingtondc)
- - [Anchorage, Alaska, USA](2016/anchorage)
-
+ - [Houston, Texas, USA](2017/houston/)
+ 
 ### Central America
- - [Guatemala City, Guatemala](2016/guatemala/)
+ - 
 
 ### South America
- - [Medellín, Colombia](2016/medellin)
- - [Porto Alegre, Brasil](2016/portoalegre)
+ - 
 
 ## Sponsors
 
