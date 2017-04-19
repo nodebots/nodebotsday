@@ -4,7 +4,7 @@ Copy this folder and make a new directory with your City's name and then fill ou
 
 ---
 
-# NodeBots Day 2017 for {CITY}, {COUNTRY}!
+# NodeBots Day 2017 for Novi Sad, Serbia !
 
  - Organizers: {NAMES, EMAILS, TWITTER, ETC - AT least one point of contact}
  - Home Page: {Can be your ticket/event page}
