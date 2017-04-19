@@ -1,19 +1,14 @@
-# How to Make a new event!
-
-Copy this folder and make a new directory with your City's name and then fill out the info below. If you'd like help please [open an issue](https://github.com/nodebots/nodebotsday/issues/new) and ask us anything. When you're done add yourself to the [geojson file](/2017/events.geojson) so you can show up on the map.
-
----
 
 # NodeBots Day 2017 for Novi Sad, Serbia !
 
- - Organizers: {NAMES, EMAILS, TWITTER, ETC - AT least one point of contact}
+ - Organizers: Association Maker, office@maker.rs 
  - Home Page: {Can be your ticket/event page}
- - Ticket Link: {TBD}
- - Location: {TBD}
+ - Ticket Link: Free
+ - Location: Business Incubator Novi Sad 
  - Date: July 29, 2017
- - Hours: {TBD}
+ - Hours: 18.00-20.00 
  - Expected # of attendees: {Usually 40-100, sometimes 15, sometimes 400}
- - Sponsors: {Needs Sponsors/ List of Sponsors}
+ - Sponsors:.... 
 
 # TODO
 
