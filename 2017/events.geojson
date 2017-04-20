@@ -13,6 +13,19 @@
       "properties": {
         "name": "Houston, Texas, USA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.059329,
+          4.651426
+        ]
+      },
+      "properties": {
+        "name": "Bogotá DC, Bogotá DC, Colombia"
+      }
     }
   ]
 }
