@@ -13,6 +13,19 @@
       "properties": {
         "name": "Houston, Texas, USA"
       }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.24953,
+          19.84444
+        ]
+      },
+      "properties": {
+        "name": "Novi Sad, Serbia"
+      }
     }
   ]
 }
