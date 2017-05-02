@@ -38,16 +38,16 @@ Want to organize a local NodeBots Day event. You should!
  - 
 
 ### Europe
- - 
+ - [Novi Sad, Serbia](2017/NoviSad)
 
 ### North America
- - [Houston, Texas, USA](2017/houston/)
+ - [Houston, Texas, USA](2017/Houston/)
  
 ### Central America
  - 
 
 ### South America
- - 
+ - [Bogotá DC, Bogotá DC, Colombia](2017/Bogota/) 
 
 ## Sponsors
 
