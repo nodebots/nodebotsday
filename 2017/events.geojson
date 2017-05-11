@@ -39,6 +39,18 @@
       "properties": {
         "name": "Bogotá DC, Bogotá DC, Colombia"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4123404,
+          -99.1805996
+        ]
+      },
+      "properties": {
+        "name": "Centraal, CDMX, México, D.F."
     }
   ]
 }
