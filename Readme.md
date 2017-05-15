@@ -42,6 +42,7 @@ Want to organize a local NodeBots Day event. You should!
 
 ### North America
  - [Houston, Texas, USA](2017/Houston/)
+ - [Norfolk, Virginia, USA](2017/Norfolk/)
  
 ### Central America
  - 
