@@ -39,6 +39,19 @@
       "properties": {
         "name": "Bogotá DC, Bogotá DC, Colombia"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3090185,
+          36.887132
+        ]
+      },
+      "properties": {
+        "name": "Norfolk, VA, USA"
+      }
     }
   ]
 }
