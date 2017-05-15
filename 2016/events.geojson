@@ -3,189 +3,119 @@
   "features": [
     {
       "type": "Feature",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates": [
-
           139.6917,
-
           35.6895
         ]
       },
       "properties": {
-
         "name": "Tokyo, Japan"
-        
       }
     },
     {
-
       "type": "Feature",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates": [
-
           -76.290546,
-
           36.869334
-
         ]
-
       },
-
       "properties": {
-
         "name": "Norfolk, Va"
-
       }
-
     },
-
     {
-
       "type": "Feature",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates": [
-
           -74.0059,
-
           40.7128
-
         ]
-
       },
-
       "properties": {
-
         "name": "New York City"
-
       }
-
     },
-
     {
-
       "type": "Feature",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates": [
-
-          -71.0589,
-
-          42.3601
-
+          -96.7969879,
+          32.7766642
         ]
-
       },
-
       "properties": {
-
-        "name": "Boston, USA"
-
+        "name": "Dallas, Texas, USA"
       }
-
     },
-
     {
-
       "type": "Feature",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates": [
-
-          -95.3698,
-
-          29.7604
-
+          -95.341341,
+          29.72116
         ]
-
       },
-
       "properties": {
-
         "name": "Houston, Texas, USA"
-
       }
     },
     {
-
       "type": "Feature",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates": [
-
           -84.182749,
-
           39.763243
-
         ]
       },
-
       "properties": {
-
         "name": "Dayton, Ohio"
-
-      }
-    },  
-    {
-
-      "type": "Feature",
-
-      "geometry": {
-
-        "type": "Point",
-
-        "coordinates": [
-
-           -90.505628,
-            14.609971
-
-        ]
-      },
-
-      "properties": {
-
-        "name": "Guatemala City, Guatemala"
-
       }
     },
     {
       "type": "Feature",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates": [
-
+          -90.505628,
+          14.609971
+        ]
+      },
+      "properties": {
+        "name": "Guatemala City, Guatemala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.198792,
-
           41.40794
         ]
       },
       "properties": {
-
         "name": "Barcelona, Spain"
-        
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63587,
+          41.90078
+        ]
+      },
+      "properties": {
+        "name": "Chicago, IL"
       }
     },
     {
@@ -194,7 +124,7 @@
         "type": "Point",
         "coordinates": [
           145.039271,
-         -37.822756
+          -37.822756
         ]
       },
       "properties": {
@@ -212,6 +142,203 @@
       },
       "properties": {
         "name": "Seattle, WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.936352,
+          32.784893
+        ]
+      },
+      "properties": {
+        "name": "Charleston, SC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.198305,
+          25.7963503
+        ]
+      },
+      "properties": {
+        "name": "Miami, Florida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1635,
+          19.34507
+        ]
+      },
+      "properties": {
+        "name": "Mexico City, Mexico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0364,
+          38.8951
+        ]
+      },
+      "properties": {
+        "name": "Washington DC, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.484954,
+          9.072240
+        ]
+      },
+      "properties": {
+        "name": "Abuja, Nigeria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.9124668,
+          61.1900651
+        ]
+      },
+      "properties": {
+        "name": "Anchorage Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.567194,
+          6.268005
+        ]
+      },
+      "properties": {
+        "name": "Medellín, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4550372,
+          -20.13159
+        ]
+      },
+      "properties": {
+        "name": "Bulawayo, Zimbabwe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7274742,
+          33.5718612
+        ]
+      },
+      "properties": {
+        "name": "Casablanca, Morocco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.7130056,
+          -27.3806436
+        ]
+      },
+      "properties": {
+        "name": "Brisbane, Australia",
+        "href": "http://nodebotsau.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4170219,
+          34.0583595
+        ]
+      },
+      "properties": {
+        "name": "Los Angeles, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4170219,
+          34.0583595
+        ]
+      },
+      "properties": {
+        "name": "Los Angeles, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8367468,
+          33.4152569
+        ]
+      },
+      "properties": {
+        "name": "Phoenix, AZ USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2918849,
+          -30.1021474
+        ]
+      },
+      "properties": {
+        "name": "Porto Alegre, Brasil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5795636,
+          38.5603832
+        ]
+      },
+      "properties": {
+        "name": "Sacramento, CA, USA",
+        "href": "https://ti.to/techramento/nodebots-day-by-sacjs"
       }
     }
   ]

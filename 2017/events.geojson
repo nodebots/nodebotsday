@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.341341,
+          29.72116
+        ]
+      },
+      "properties": {
+        "name": "Houston, Texas, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.84444,
+          45.24953
+        ]
+      },
+      "properties": {
+        "name": "Novi Sad, Serbia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.059329,
+          4.651426
+        ]
+      },
+      "properties": {
+        "name": "Bogotá DC, Bogotá DC, Colombia"
+      }
+    }
+  ]
+}
