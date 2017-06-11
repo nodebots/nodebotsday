@@ -52,6 +52,19 @@
       "properties": {
         "name": "Norfolk, VA, USA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9411738,
+          35.1218113
+        ]
+      },
+      "properties": {
+        "name": "Memphis, TN, USA"
+      }
     }
   ]
 }
