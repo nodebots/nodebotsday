@@ -26,16 +26,16 @@ Want to organize a local NodeBots Day event. You should!
 [Event Location Map: events.geojson](2017/events.geojson)
 
 ### Africa
- - 
+ -
 
 ### Antarctica
  - [Be the first ever!](2017/_template/)
 
 ### Asia
- - 
+ -
 
 ### Australia
- - 
+ -
 
 ### Europe
  - [Novi Sad, Serbia](2017/NoviSad)
@@ -44,12 +44,13 @@ Want to organize a local NodeBots Day event. You should!
  - [Houston, Texas, USA](2017/Houston/)
  - [Memphis, Tennessee, USA](2017/Memphis/)
  - [Norfolk, Virginia, USA](2017/Norfolk/)
- 
+
 ### Central America
- - 
+ -
 
 ### South America
- - [Bogotá DC, Bogotá DC, Colombia](2017/Bogota/) 
+ - [Bogotá DC, Bogotá DC, Colombia](2017/Bogota/)
+ - [Salvador, Bahia, BRA](2017/Salvador/)
 
 ## Sponsors
 
