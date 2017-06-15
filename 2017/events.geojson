@@ -58,6 +58,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -12.970833,
+          -38.510833
+        ]
+      },
+      "properties": {
+        "name": "Salvador, Bahia, BR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -89.9411738,
           35.1218113
         ]
