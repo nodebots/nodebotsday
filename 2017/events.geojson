@@ -58,6 +58,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.835661,
+          33.415365
+        ]
+      },
+      "properties": {
+        "name": "Phoenix/Mesa, AZ, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -12.970833,
           -38.510833
         ]
