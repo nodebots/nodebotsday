@@ -4,13 +4,13 @@
 
  - Organizers: Luis Montes [@monteslu](https://twitter.com/monteslu)
  - Ticket Link: [https://ti.to/monteslu/nodebots-day-phx-2016](https://ti.to/monteslu/nodebots-day-phx-2016)
- - Location: [HeatSync Labs](http://heatsynclabs.org)
+ - Location: [HeatSync Labs](http://heatsynclabs.org) 
         140 W Main St
         Mesa, AZ
  - Date: July 23, 2016
  - Hours: 10 AM to 6 PM
  - Expected # of attendees: {Usually 25-30}
- - Sponsors: [Octoblu](https://octoblu.com) [IcedDev](https://iceddev.com)
+ - Sponsors: [Octoblu](https://octoblu.com) [IcedDev](https://iceddev.com) 
 
 # TODO
 
