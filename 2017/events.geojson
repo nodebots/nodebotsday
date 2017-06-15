@@ -78,6 +78,19 @@
       "properties": {
         "name": "Memphis, TN, USA"
       }
+    },
+	  {
+	    "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.083255,
+          38.935894
+        ]
+      },
+      "properties": {
+        "name": "Auburn,CA, USA"
+      }
     }
   ]
 }

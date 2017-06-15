@@ -41,6 +41,7 @@ Want to organize a local NodeBots Day event. You should!
  - [Novi Sad, Serbia](2017/NoviSad)
 
 ### North America
+ - [Auburn, California, USA](2017/Auburn/)
  - [Houston, Texas, USA](2017/Houston/)
  - [Memphis, Tennessee, USA](2017/Memphis/)
  - [Norfolk, Virginia, USA](2017/Norfolk/)
