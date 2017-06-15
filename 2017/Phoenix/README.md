@@ -1,8 +1,3 @@
-# How to Make a new event!
-
-Copy this folder and make a new directory with your City's name and then fill out the info below. If you'd like help please [open an issue](https://github.com/nodebots/nodebotsday/issues/new) and ask us anything. When you're done add yourself to the [geojson file](/2017/events.geojson) so you can show up on the map.
-
----
 
 # NodeBots Day 2017 for Phoenix/Mesa, USA!
 
