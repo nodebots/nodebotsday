@@ -50,7 +50,8 @@ Want to organize a local NodeBots Day event. You should!
  - 
 
 ### South America
- - [Bogotá DC, Bogotá DC, Colombia](2017/Bogota/) 
+ - [Bogotá DC, Bogotá DC, Colombia](2017/Bogota/)
+ - [Salvador, Brazil](2017/Salvador/)
 
 ## Sponsors
 
