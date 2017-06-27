@@ -14,6 +14,19 @@
         "name": "Houston, Texas, USA"
       }
     },
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62154579162598,
+          41.885210149424275
+        ]
+      },
+      "properties": {
+        "name": "Chicago, IL USA"
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
