@@ -12,6 +12,8 @@
     - 757 Makerspace
     - ETA
     - Langa
+    - Maxx Potential
+    - Grow
 
 # TODO
 
