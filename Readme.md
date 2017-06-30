@@ -42,6 +42,7 @@ Want to organize a local NodeBots Day event. You should!
 
 ### North America
  - [Auburn, California, USA](2017/Auburn/)
+ - [Dallas, Texas, USA](2017/Dallas/)
  - [Houston, Texas, USA](2017/Houston/)
  - [Memphis, Tennessee, USA](2017/Memphis/)
  - [Norfolk, Virginia, USA](2017/Norfolk/)
