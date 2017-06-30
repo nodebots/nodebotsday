@@ -1,30 +1,25 @@
-# NodeBots Day 2017 Ciudad de México, MX!
+# NodeBots Day 2017 for Mexico City, Mexico!
 
- - Organizers: [Linda](www.twitter.com/lynnaloo), [Travis](www.twitter.com/tjwebbongithub), [Brandon](www.twitter.com/_bmf), [Paul](www.twitter.com/paulchinjr), [Troy](www.twitter.com/troy0820), [Alex](www.twitter.com/alexproaps)
- - Home Page: www.norfolkjs.org/nodebots
- - Ticket Link: https://www.meetup.com/NorfolkJS/events/233360490/
- - Location: Old Dominion University Webb Center
+ - Organizers: [@PT1ATE](https://twitter.com/PT1ATE)
+ - Home Page: [https://www.meetup.com/es-ES/NodeBotsMX/](https://www.meetup.com/es-ES/NodeBotsMX/)
+ - Ticket Link: [Eventbrite](https://www.eventbrite.es/e/entradas-3-aniversario-nodebotsday-35698978606)
+ - Location: [Centraal](http://centraal.com/) Zamora 187 Col. Condesa, Cuauhtémoc, Ciudad de México
  - Date: July 29, 2017
- - Hours: 10:00am - 5pm
- - Expected # of attendees: 200
- - Sponsors:
-    - Norfolk.js
-    - 757 Makerspace
-    - ETA
-    - Langa
-    - Maxx Potential
-    - Grow
+ - Hours: 11:00 - 17:00 Hrs
+ - Expected # of attendees: 100
+ - Sponsors: Código facilito, Mate.io
 
 # TODO
 
- - [ ] Recruit Sponsors
- - [ ] Figure out how you're feeding your attendees if you're feeding them
+ - [x] Recruit Sponsors
+ - [x] Figure out how you're feeding your attendees if you're feeding them
+ - [x] Setup Ticketing Presales (eg, [Tito](https://ti.to/))
  - [ ] Order Parts
  - [x] Secure a location
  - [x] Determine a Time
  - [x] Determine a Max # of attendees
  - [x] Recruit Volunteers (1 for every 10 works if you've done this before)
- - [x] Determine Curriculum and Projects
+ - [ ] Determine Curriculum and Projects
  - [ ] Recruit Attendees
 
 # Notes
