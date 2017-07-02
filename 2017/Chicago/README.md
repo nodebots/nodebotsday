@@ -1,8 +1,8 @@
 # NodeBots Day 2017 for Chicago,IL!
 
  - Organizers: [Gabrielle Crevecoeur](www.twitter.com/nowayshecodes), [Mike Hostetler](www.twitter.com/mikehostetler)
- - Home Page: (Coming Soon)
- - Ticket Link: (Coming Soon)
+ - Home Page: [Click Here!!](https://www.meetup.com/Chicago-Nodejs/events/241152092/)
+ - Ticket Link: ^^^^^
  - Location: Microsoft, Aon Center Floor 2
  - Date: July 29, 2017
  - Hours: 9:00am - 5pm
