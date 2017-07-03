@@ -32,7 +32,7 @@ Want to organize a local NodeBots Day event. You should!
  - [Be the first ever!](2017/_template/)
 
 ### Asia
- -
+ - [Kerala, India](2017/Kerala/)
 
 ### Australia
  -
