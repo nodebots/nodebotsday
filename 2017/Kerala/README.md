@@ -1,4 +1,4 @@
-# NodeBots Day 2017 for Memphis, TN, USA!
+# NodeBots Day 2017 for Kerala, INDIA, IN!
 
  - Organizers: [Hackster Kerala](https://www.hackster.io/live/hackster-hardware-meetup-kerala/) & [FoxLab Maker-Space](http://foxlab.azurewebsites.net/)
  - Home Page: http://www.nodejskerala/nodebots-day/
