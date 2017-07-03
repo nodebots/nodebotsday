@@ -1,7 +1,7 @@
 # NodeBots Day 2017 for Kerala, INDIA, IN!
 
  - Organizers: [Hackster Kerala](https://www.hackster.io/live/hackster-hardware-meetup-kerala/) & [FoxLab Maker-Space](http://foxlab.azurewebsites.net/)
- - Home Page: http://www.nodejskerala/nodebots-day/
+ - Home Page: Soon
  - Ticket Link: Soon
  - Location: FoxLab Maker-Space Kerala
  - Date: July 29, 2017
