@@ -118,6 +118,19 @@
         "name": "Memphis, TN, USA"
       }
     },
+	   {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.978281,
+          76.207527
+        ]
+      },
+      "properties": {
+        "name": "Kerala, INDIA, IN"
+      }
+    },
 	  {
 	    "type": "Feature",
       "geometry": {
