@@ -14,6 +14,19 @@
         "name": "Houston, Texas, USA"
       }
     },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.79667,
+          32.77583
+        ]
+      },
+      "properties": {
+        "name": "Dallas, Texas, USA"
+      }
+    },
   {
       "type": "Feature",
       "geometry": {
@@ -105,7 +118,7 @@
         "name": "Memphis, TN, USA"
       }
     },
-  {
+	 {
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -116,9 +129,25 @@
       },
       "properties": {
         "name": "Mexico City, Mexico"
+          76.207527,
+          10.978281
+        ]
       }
     },
 	  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.207527,
+          10.978281
+        ]
+      },
+      "properties": {
+        "name": "Kerala, INDIA, IN"
+      }
+    },
+    {
 	    "type": "Feature",
       "geometry": {
         "type": "Point",
