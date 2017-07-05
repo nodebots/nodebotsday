@@ -118,7 +118,23 @@
         "name": "Memphis, TN, USA"
       }
     },
-	   {
+	 {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1812478,
+          19.4120115
+        ]
+      },
+      "properties": {
+        "name": "Mexico City, Mexico"
+          76.207527,
+          10.978281
+        ]
+      }
+    },
+	  {
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -131,7 +147,7 @@
         "name": "Kerala, INDIA, IN"
       }
     },
-	  {
+    {
 	    "type": "Feature",
       "geometry": {
         "type": "Point",

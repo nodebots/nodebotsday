@@ -47,6 +47,7 @@ Want to organize a local NodeBots Day event. You should!
  - [Memphis, Tennessee, USA](2017/Memphis/)
  - [Norfolk, Virginia, USA](2017/Norfolk/)
  - [Phoenix/Mesa, Arizona, USA](2017/Phoenix/)
+ - [Mexico City/, Mexico](2017/Mexico/)
 
 ### Central America
  -
