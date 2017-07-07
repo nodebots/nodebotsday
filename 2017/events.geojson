@@ -71,6 +71,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.039271,
+          -37.822756
+        ]
+      },
+      "properties": {
+        "name": "Melbourne, Australia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -76.3090185,
           36.887132
         ]
