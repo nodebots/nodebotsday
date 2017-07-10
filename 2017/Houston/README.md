@@ -1,8 +1,8 @@
 # NodeBots Day 2017 for Houston, Texas, USA!
 
  - Organizers: [@juxta52](https://twitter.com/juxta52), [@dtex](https://twitter.com/dtex), [@pierceprimm](https://twitter.com/pierceprimm), [Michelle Wiginton](https://www.linkedin.com/in/michellewiginton/), [Ryan Gill](https://twitter.com/ryanjgill2), [Binu Panicker](https://github.com/bpanicker13)
- - Home Page: [https://nodejshouston.github.io/bots/](https://nodejshouston.github.io/bots/])
- - Ticket Link: [https://nodejshouston.github.io/bots/](https://nodejshouston.github.io/bots/])
+ - Home Page: [https://nodejshouston.github.io/bots/](https://nodejshouston.github.io/bots/)
+ - Ticket Link: [https://nodejshouston.github.io/bots/](https://nodejshouston.github.io/bots/)
  - Location: University of Houston
  - Date: July 29, 2017
  - Hours: 8am - 8pm
