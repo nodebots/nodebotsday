@@ -36,20 +36,35 @@ Want to organize a local NodeBots Day event. You should!
 
 ### Australia
  -
+=======
+ - [Kerala, India](2017/Kerala/)
+
+### Australia
+ - [Melbourne, Victoria](2017/Melbourne/) (22 July, 2017)
+
 
 ### Europe
  - [Novi Sad, Serbia](2017/NoviSad)
 
 ### North America
+ - [Auburn, California, USA](2017/Auburn/)
+ - [Dallas, Texas, USA](2017/Dallas/)
  - [Houston, Texas, USA](2017/Houston/)
  - [Memphis, Tennessee, USA](2017/Memphis/)
  - [Norfolk, Virginia, USA](2017/Norfolk/)
+
+=======
+ - [Phoenix/Mesa, Arizona, USA](2017/Phoenix/)
+ - [Mexico City/, Mexico](2017/Mexico/)
+ - [Miami, Florida, USA](2017/Miami/)
+
 
 ### Central America
  -
 
 ### South America
  - [Bogotá DC, Bogotá DC, Colombia](2017/Bogota/)
+
  - [Salvador, Bahia, BRA](2017/Salvador/)
 
 ## Sponsors
