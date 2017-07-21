@@ -15,7 +15,7 @@
 # TODO
 
  - [ ] Recruit Sponsors
- - [ ] Figure out how you're feeding your attendees if you're feeding them
+ - [x] Figure out how you're feeding your attendees if you're feeding them
  - [ ] Order Parts
  - [x] Secure a location
  - [x] Determine a Time
