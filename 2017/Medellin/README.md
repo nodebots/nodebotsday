@@ -1,6 +1,6 @@
 # NodeBots Day 2017 for Medellín, Colombia!
 
- - Organizers: [MedellinJS](https://twitter.com/medellinjs)[@RamirezAlex_](https://twitter.com/RamirezAlex_), [@jessecogollo](http://twitter.com/jessecogollo), [@khriztianmoreno](https://twitter.com/khriztianmoreno), [@CodeMaxter](https://twitter.com/CodeMaxter), [@edsadr](https://twitter.com/edsadr), [@aldajo92](https://twitter.com/aldajo92)
+ - Organizers: [MedellinJS](https://twitter.com/medellinjs), [@RamirezAlex_](https://twitter.com/RamirezAlex_), [@jessecogollo](http://twitter.com/jessecogollo), [@khriztianmoreno](https://twitter.com/khriztianmoreno), [@CodeMaxter](https://twitter.com/CodeMaxter), [@edsadr](https://twitter.com/edsadr), [@aldajo92](https://twitter.com/aldajo92)
  - Home Page: [MedellinJS](https://www.meetup.com/MedellinJS/)
  - Ticket Link: {TBD}
  - Location: [Atomhouse Medellín](http://atomhouse.com/en/atomhouse-medellin/), Calle 8 # 43a-­49.
