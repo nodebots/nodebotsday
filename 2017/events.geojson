@@ -19,6 +19,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -96.79667,
+          32.77583
+        ]
+      },
+      "properties": {
+        "name": "Dallas, Texas, USA"
+      }
+    },
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62154579162598,
+          41.885210149424275
+        ]
+      },
+      "properties": {
+        "name": "Chicago, IL USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           19.84444,
           45.24953
         ]
@@ -38,6 +64,32 @@
       },
       "properties": {
         "name": "Bogotá DC, Bogotá DC, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2441988,
+          -75.6512525
+        ]
+      },
+      "properties": {
+        "name": "Medellín, Antioquia, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.039271,
+          -37.822756
+        ]
+      },
+      "properties": {
+        "name": "Melbourne, Australia"
       }
     },
     {
@@ -92,7 +144,37 @@
         "name": "Memphis, TN, USA"
       }
     },
+	 {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1812478,
+          19.4120115
+        ]
+      },
+      "properties": {
+        "name": "Mexico City, Mexico",
+        "coordinates": [
+          76.207527,
+          10.978281
+        ]
+      }
+    },
 	  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.207527,
+          10.978281
+        ]
+      },
+      "properties": {
+        "name": "Kerala, INDIA, IN"
+      }
+    },
+    {
 	    "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -103,6 +185,19 @@
       },
       "properties": {
         "name": "Auburn,CA, USA"
+      }
+    },
+    {
+	    "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7963503,
+          -80.2004937
+        ]
+      },
+      "properties": {
+        "name": "Miami, FL, USA"
       }
     }
   ]
