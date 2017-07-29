@@ -1,18 +1,21 @@
 # NodeBots Day 2017 for Tokyo, Japan!
 
  - Organizers: 
-   - [@ega1979](https://twitter.com/ega1979)
-   - [html5j Robot Community](https://www.facebook.com/html5j.robot/)
-   - [Club WoT](https://www.facebook.com/groups/534717860018774/)
    - [@n0bisuke](https://twitter.com/n0bisuke)
-   - [@watilde](https://twitter.com/watilde)
- - Home Page: Comming Soon! {Can be your ticket/event page}
- - Ticket Link: Comming Soon 
- - Location: [Internet Initiative Japan](http://www.iij.ad.jp/)
+   - [@ega1979](https://twitter.com/ega1979)
+   - [@ic_lifewood](https://twitter.com/ic_lifewood)
+   - [@tokutoku393](https://twitter.com/tokutoku393)
+   - [html5j Robot Community](https://www.facebook.com/html5j.robot/)
+   - [CHIRIMEN Open Hardware コミュニティ](https://chirimen.org/)
+   - [IoTLT](http://iotlt.connpass.com/)
+   - [NodeGirls](https://nodegirls-jp.github.io/)
+ - Home Page: https://nodebots.connpass.com/event/61190/
+ - Ticket Link: https://nodebots.connpass.com/event/61190/
+ - Location: [DIGITAL HOLLYWOOD UNIVERSITY](http://gs.dhw.ac.jp/)
  - Date: July 29, 2017
- - Hours: {TBD}
- - Expected # of attendees: Maybe About 80 {Coming Soon}
- - Sponsors: Needs Sponsors
+ - Hours: 10am - 18pm
+ - Expected # of attendees: 40
+ - Sponsors: DIGITAL HOLLYWOOD UNIVERSITY
 
 # TODO
 
