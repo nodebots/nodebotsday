@@ -33,6 +33,7 @@ Want to organize a local NodeBots Day event. You should!
 
 ### Asia
  - [Kerala, India](2017/Kerala/)
+ - [Tokyo, Japan](2017/Tokyo/)
 
 ### Australia
  - [Melbourne, Victoria](2017/Melbourne/) (22 July, 2017)
@@ -50,7 +51,6 @@ Want to organize a local NodeBots Day event. You should!
  - [Phoenix/Mesa, Arizona, USA](2017/Phoenix/)
  - [Mexico City/, Mexico](2017/Mexico/)
  - [Miami, Florida, USA](2017/Miami/)
-
 
 ### Central America
  -
