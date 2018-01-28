@@ -1,4 +1,4 @@
- # NodeBots Day 2017 for for Medellín, Colombia!
+ # NodeBots Day 2018 for for Medellín, Colombia!
 
  - Organizers: @Medellínjs - medellinjs@gmail.com
  - Home Page: https://github.com/coljs/medellinjs/issues/110
