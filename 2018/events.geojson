@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+	    "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0534,
+          26.7153,
+          38.935894
+        ]
+      },
+      "properties": {
+        "name": "West Palm Beach,CA, USA"
+      }
+    },{
+	    "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2004937,
+          25.7963503
+        ]
+      },
+      "properties": {
+        "name": "Miami, FL, USA"
+      }
+    }
+  ]
+}
