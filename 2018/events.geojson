@@ -14,7 +14,8 @@
       "properties": {
         "name": "West Palm Beach,CA, USA"
       }
-    },{
+    },
+    {
 	    "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -25,6 +26,19 @@
       },
       "properties": {
         "name": "Miami, FL, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3090185,
+          36.887132
+        ]
+      },
+      "properties": {
+        "name": "Norfolk, VA, USA"
       }
     }
   ]
