@@ -45,7 +45,7 @@ Want to organize a local NodeBots Day event. You should!
  - [Miami, Florida, USA](2018/Miami/)
  - [West Palm Beach, Florida, USA](2018/West_Palm_Beach/)
  - [Chicago, USA](2018/Chicago/)
-
+ - [Norfolk, Virginia, USA](2018/Norfolk)
 
 ### Central America
  -
