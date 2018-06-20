@@ -13,13 +13,12 @@
 
  - [ ] Recruit Sponsors
  - [ ] Figure out how you're feeding your attendees if you're feeding them
- - [ ] Setup Ticketing Presales (eg, [Tito](https://ti.to/))
  - [ ] Order Parts
- - [ ] Secure a location
- - [ ] Determine a Time
+ - [x] Secure a location
+ - [x] Determine a Time
  - [ ] Determine a Max # of attendees
- - [ ] Recruit Volunteers (1 for every 10 works if you've done this before)
+ - [x] Recruit Volunteers (1 for every 10 works if you've done this before)
  - [ ] Determine Curriculum and Projects
- - [ ] Recruit Attendees
+ - [ ] Recruit Attendees (Meetup)
 
 # Notes
