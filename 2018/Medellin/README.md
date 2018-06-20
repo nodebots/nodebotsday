@@ -4,10 +4,10 @@
  - Home Page: https://github.com/coljs/medellinjs/issues/110
  - Ticket Link: https://github.com/coljs/medellinjs/issues/110
  - Location: RutaN Cl. 67 #52-20
- - Dates: March 10, May 26, July 28
- - Hours: {TBD}
- - Expected # of attendees: {Usually 40-100, sometimes 15, sometimes 400}
- - Sponsors: {Needs Sponsors/ List of Sponsors}
+ - Dates: July 28
+ - Hours: 9:00am - 3:00pm
+ - Expected # of attendees: Usually 40-100
+ - Sponsors: Needs Sponsors
 
 # TODO
 
