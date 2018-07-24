@@ -54,4 +54,17 @@
         "name": "Norfolk, VA, USA"
       }
     },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.835661,
+          33.415365
+        ]
+      },
+      "properties": {
+        "name": "Phoenix/Mesa, AZ, USA"
+      }
+    },
 }
