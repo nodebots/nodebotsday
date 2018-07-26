@@ -47,6 +47,7 @@ Want to organize a local NodeBots Day event. You should!
  - [Chicago, USA](2018/Chicago/)
  - [Norfolk, Virginia, USA](2018/Norfolk)
  - [Phoenix/Mesa, AZ, USA](2018/Phoenix)
+ - [Portland, OR, USA](2018/Portland)
 
 ### Central America
  -
