@@ -22,7 +22,7 @@ Want to organize a local NodeBots Day event. You should!
 * Join our [Slack](https://nodebotsday-chat.herokuapp.com/)
 * Copy the [template](2018/_template/) and add yourself to the list below and the [2017 geojson](2018/events.geojson) file
 
-## 2017 Locations! [Signing up New Locations Now!](2018/_template/)
+## 2018 Locations! [Signing up New Locations Now!](2018/_template/)
 
 [Event Location Map: events.geojson](2018/events.geojson)
 
@@ -36,7 +36,7 @@ Want to organize a local NodeBots Day event. You should!
  -
 
 ### Australia
- -
+ - [Melbourne, Australia](2018/Melbourne)
 
 ### Europe
  -
@@ -53,7 +53,8 @@ Want to organize a local NodeBots Day event. You should!
  -
 
 ### South America
- -
+ - [Medellin, Colombia](2018/Medellin)
+ 
 ## Sponsors
 
 Nodebots attracts a large collection of Makers, Web Developers, Students, and Engineers. Each Event has a slightly different crowd, but they are all unique opportunities to reach a strong community of people who do interesting stuff. If you're interested in contributing to an event, please consider hosting a space, contributing hardware to hack on, and/or providing snacks and food. Please see #192 and contact an event near you!
