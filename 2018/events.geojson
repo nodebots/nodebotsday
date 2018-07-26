@@ -80,4 +80,17 @@
         "name": "Phoenix/Mesa, AZ, USA"
       }
     },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6859442,
+          45.5297896
+        ]
+      },
+      "properties": {
+        "name": "Portland, OR, USA"
+      }
+    },
 }
