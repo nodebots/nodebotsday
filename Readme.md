@@ -1,7 +1,7 @@
 ## NodeBots Day July 27th, 2019
 
 Each year our community around the world gather on a single day to learn and make together. We call this NodeBots Day! This 
-year it's on July 28, 2019
+year it's on July 27, 2019
 
 NodeBots Day is world wide event where people learn how to control the physical world with JavaScript. We want you to leave with the satisfaction of making something awesome! Each event has experts on hand to help you build your project and start you on the path to building awesome devices. Overall we're going to get together, collaborate and hack. The focus of NodeBots Day is on sharing and enjoying each other's company and JavaScript. Lots of JavaScript.
 
@@ -20,9 +20,9 @@ Want to organize a local NodeBots Day event. You should!
 
 * Join the mailing list: [NodeBots Day Google Group](https://groups.google.com/forum/#!forum/nodebotsday)
 * Join our [Slack](https://nodebotsday-chat.herokuapp.com/)
-* Copy the [template](2018/_template/) and add yourself to the list below and the [2017 geojson](2018/events.geojson) file
+* Copy the [template](2019/_template/) and add yourself to the list below and the [2019 geojson](2019/events.geojson) file
 
-## 2018 Locations! [Signing up New Locations Now!](2019/_template/)
+## 2019 Locations! [Signing up New Locations Now!](2019/_template/)
 
 [Event Location Map: events.geojson](2019/events.geojson)
 
@@ -42,7 +42,7 @@ Want to organize a local NodeBots Day event. You should!
  -
 
 ### North America
- - [Norfolk, Virginia, USA](2018/Norfolk)
+ - [Norfolk, Virginia, USA](2019/Norfolk)
 
 ### Central America
  -
