@@ -1,7 +1,7 @@
-## NodeBots Day July 28th, 2018
+## NodeBots Day July 27th, 2019
 
 Each year our community around the world gather on a single day to learn and make together. We call this NodeBots Day! This 
-year it's on July 28, 2018
+year it's on July 28, 2019
 
 NodeBots Day is world wide event where people learn how to control the physical world with JavaScript. We want you to leave with the satisfaction of making something awesome! Each event has experts on hand to help you build your project and start you on the path to building awesome devices. Overall we're going to get together, collaborate and hack. The focus of NodeBots Day is on sharing and enjoying each other's company and JavaScript. Lots of JavaScript.
 
@@ -22,9 +22,9 @@ Want to organize a local NodeBots Day event. You should!
 * Join our [Slack](https://nodebotsday-chat.herokuapp.com/)
 * Copy the [template](2018/_template/) and add yourself to the list below and the [2017 geojson](2018/events.geojson) file
 
-## 2018 Locations! [Signing up New Locations Now!](2018/_template/)
+## 2018 Locations! [Signing up New Locations Now!](2019/_template/)
 
-[Event Location Map: events.geojson](2018/events.geojson)
+[Event Location Map: events.geojson](2019/events.geojson)
 
 ### Africa
  -
@@ -36,24 +36,19 @@ Want to organize a local NodeBots Day event. You should!
  -
 
 ### Australia
- - [Melbourne, Australia](2018/Melbourne)
+ - 
 
 ### Europe
  -
 
 ### North America
- - [Miami, Florida, USA](2018/Miami/)
- - [West Palm Beach, Florida, USA](2018/West_Palm_Beach/)
- - [Chicago, USA](2018/Chicago/)
  - [Norfolk, Virginia, USA](2018/Norfolk)
- - [Phoenix/Mesa, AZ, USA](2018/Phoenix)
- - [Portland, OR, USA](2018/Portland)
 
 ### Central America
  -
 
 ### South America
- - [Medellin, Colombia](2018/Medellin)
+ - [Medellin, Colombia](2019/Medellin)
  
 ## Sponsors
 

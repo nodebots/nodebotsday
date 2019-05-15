@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type" : "Feature,
+      "geometry" : {
+        "type": "Point",
+        "coordinates": [
+          -76.3090185,
+          36.887132
+        ]
+      },
+      "properties": {
+        "name": "Norfolk, VA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2441988,
+          -75.6512525
+        ]
+      },
+      "properties": {
+        "name": "Medellín, Antioquia, Colombia"
+      }
+    }
+  ]
+}
