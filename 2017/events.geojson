@@ -71,8 +71,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.6512525,
-          6.2441988
+          6.2441988,
+          -75.6512525
         ]
       },
       "properties": {
@@ -186,13 +186,14 @@
       "properties": {
         "name": "Auburn,CA, USA"
       }
-    },{
+    },
+    {
 	    "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2004937,
-          25.7963503
+          25.7963503,
+          -80.2004937
         ]
       },
       "properties": {
