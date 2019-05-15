@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+	    "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0534,
+          26.7153,
+          38.935894
+        ]
+      },
+      "properties": {
+        "name": "West Palm Beach,CA, USA"
+      }
+    },
+    {
+	    "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2004937,
+          25.7963503
+        ]
+      },
+      "properties": {
+        "name": "Miami, FL, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62154579162598,
+          41.885210149424275
+        ]
+      },
+      "properties": {
+        "name": "Chicago, IL USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.039271,
+          -37.822756
+        ]
+      },
+      "properties": {
+        "name": "Melbourne, Australia"
+      }
+    },
+    {
+      "type" : "Feature,
+      "geometry" : {
+        "type": "Point",
+        "coordinates": [
+          -76.3090185,
+          36.887132
+        ]
+      },
+      "properties": {
+        "name": "Norfolk, VA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.835661,
+          33.415365
+        ]
+      },
+      "properties": {
+        "name": "Phoenix/Mesa, AZ, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6859442,
+          45.5297896
+        ]
+      },
+      "properties": {
+        "name": "Portland, OR, USA"
+      }
+    },
+}

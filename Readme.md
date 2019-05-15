@@ -1,6 +1,7 @@
-## NodeBots Day July 29, 2017
+## NodeBots Day July 28th, 2018
 
-Each year our community around the world gather on a single day to learn and make together. We call this NodeBots Day! This year it's on July 29, 2017
+Each year our community around the world gather on a single day to learn and make together. We call this NodeBots Day! This 
+year it's on July 28, 2018
 
 NodeBots Day is world wide event where people learn how to control the physical world with JavaScript. We want you to leave with the satisfaction of making something awesome! Each event has experts on hand to help you build your project and start you on the path to building awesome devices. Overall we're going to get together, collaborate and hack. The focus of NodeBots Day is on sharing and enjoying each other's company and JavaScript. Lots of JavaScript.
 
@@ -19,48 +20,41 @@ Want to organize a local NodeBots Day event. You should!
 
 * Join the mailing list: [NodeBots Day Google Group](https://groups.google.com/forum/#!forum/nodebotsday)
 * Join our [Slack](https://nodebotsday-chat.herokuapp.com/)
-* Copy the [template](2017/_template/) and add yourself to the list below and the [2017 geojson](2017/events.geojson) file
+* Copy the [template](2018/_template/) and add yourself to the list below and the [2017 geojson](2018/events.geojson) file
 
-## 2017 Locations! [Signing up New Locations Now!](2017/_template/)
+## 2018 Locations! [Signing up New Locations Now!](2018/_template/)
 
-[Event Location Map: events.geojson](2017/events.geojson)
+[Event Location Map: events.geojson](2018/events.geojson)
 
 ### Africa
  -
 
 ### Antarctica
- - [Be the first ever!](2017/_template/)
+ -
 
 ### Asia
- - [Kerala, India](2017/Kerala/)
+ -
 
 ### Australia
- - [Melbourne, Victoria](2017/Melbourne/) (22 July, 2017)
-
+ - [Melbourne, Australia](2018/Melbourne)
 
 ### Europe
- - [Novi Sad, Serbia](2017/NoviSad)
+ -
 
 ### North America
- - [Auburn, California, USA](2017/Auburn/)
- - [Dallas, Texas, USA](2017/Dallas/)
- - [Houston, Texas, USA](2017/Houston/)
- - [Memphis, Tennessee, USA](2017/Memphis/)
- - [Norfolk, Virginia, USA](2017/Norfolk/)
- - [Phoenix/Mesa, Arizona, USA](2017/Phoenix/)
- - [Mexico City/, Mexico](2017/Mexico/)
- - [Miami, Florida, USA](2017/Miami/)
-
+ - [Miami, Florida, USA](2018/Miami/)
+ - [West Palm Beach, Florida, USA](2018/West_Palm_Beach/)
+ - [Chicago, USA](2018/Chicago/)
+ - [Norfolk, Virginia, USA](2018/Norfolk)
+ - [Phoenix/Mesa, AZ, USA](2018/Phoenix)
+ - [Portland, OR, USA](2018/Portland)
 
 ### Central America
  -
 
 ### South America
- - [Bogotá DC, Bogotá DC, Colombia](2017/Bogota/)
- - [Medellín, Antioquia, Colombia](2017/Medellin/)
-
- - [Salvador, Bahia, BRA](2017/Salvador/)
-
+ - [Medellin, Colombia](2018/Medellin)
+ 
 ## Sponsors
 
 Nodebots attracts a large collection of Makers, Web Developers, Students, and Engineers. Each Event has a slightly different crowd, but they are all unique opportunities to reach a strong community of people who do interesting stuff. If you're interested in contributing to an event, please consider hosting a space, contributing hardware to hack on, and/or providing snacks and food. Please see #192 and contact an event near you!
