@@ -1,6 +1,6 @@
 # Nodebots Day 2019 for Miami, Fort Lauderdale & West Palm Beach! 
 
- - Organizers: [Damian Montero](https://www.twitter.com/DamianMontero), [Cristina]https://twitter.com/nightshiftc), [Brandon](https://www.twitter.com/_bmf), [Jermbo](https://www.twitter.com/jermbo)
+ - Organizers: [Damian Montero](https://www.twitter.com/DamianMontero), [Cristina](https://twitter.com/nightshiftc), [Brandon](https://www.twitter.com/_bmf), [Jermbo](https://www.twitter.com/jermbo)
  - Home Page: [Meetup.com/BocaJS/events/261562000](https://www.meetup.com/BocaJS/events/261562000/)
  - Ticket Link: [Meetup](https://www.meetup.com/BocaJS/events/261562000)
  - Location: [General Provision Downtown,300 SW 1st Ave #155, Fort Lauderdale, FL 33301](https://goo.gl/maps/WZxVZERQhmXu8vib6)
