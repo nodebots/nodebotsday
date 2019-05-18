@@ -43,6 +43,7 @@ Want to organize a local NodeBots Day event. You should!
 
 ### North America
  - [Norfolk, Virginia, USA](2019/Norfolk)
+ - [Miami & Fort Lauderdale, Florida, USA](2019/Miami_Fort_Lauderdale)
 
 ### Central America
  -
