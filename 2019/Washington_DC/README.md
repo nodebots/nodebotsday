@@ -1,6 +1,6 @@
 # NodeBots Day 2019 for Washington DC, USA!
 
- - Organizers: [Robbie](https://twitter.com/robbiethegeek), [Dan](https://twitter.com/danpazsoldan) & [Jack](https://twitter.com/jackpkoppa)
+ - Organizers: [Robbie](https://twitter.com/robbiethegeek) & [Jack](https://twitter.com/jackpkoppa)
  - Home Page: https://www.meetup.com/DC-JavaScript/events/261575867/
  - Location: Politico
  - Date: July 27, 2019
