@@ -26,7 +26,7 @@
       "properties": {
         "name": "Norfolk, VA, USA"
       }
-    }
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -38,6 +38,19 @@
       },
       "properties": {
         "name": "Fort Lauderdale, FL, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.894020,
+          -77.068860
+        ]
+      },
+      "properties": {
+        "name": "Washington, DC, USA"
       }
     }
   ]
