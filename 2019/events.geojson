@@ -52,6 +52,19 @@
       "properties": {
         "name": "Washington, DC, USA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.016514,
+          -105.281636
+        ]
+      },
+      "properties": {
+        "name": "Boulder, CO, USA"
+      }
     }
   ]
 }
